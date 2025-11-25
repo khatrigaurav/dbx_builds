@@ -1,14 +1,14 @@
 # Databricks notebook source
 # MAGIC %md
 # MAGIC # Medical Research Papers Vector Search Pipeline
-# MAGIC 
+# MAGIC
 # MAGIC This notebook implements a complete vector search pipeline following the medallion architecture:
 # MAGIC 1. **Download**: Fetch medical research papers from Europe PMC and store in Unity Catalog Volume
 # MAGIC 2. **Bronze Layer**: Parse documents using ai_parse
 # MAGIC 3. **Silver Layer 1**: Clean and chunk documents
 # MAGIC 4. **Silver Layer 2**: Generate embeddings
 # MAGIC 5. **Vector Index**: Create searchable vector index
-# MAGIC 
+# MAGIC
 # MAGIC Data Source: Europe PMC Open Access - https://www.ebi.ac.uk/europepmc/
 
 # COMMAND ----------
@@ -18,18 +18,12 @@
 
 # COMMAND ----------
 
-# DBTITLE 1,Install Required Libraries
-# MAGIC %pip install requests
-# MAGIC dbutils.library.restartPython()
-
-# COMMAND ----------
-
 # DBTITLE 1,Configuration Parameters
 import json
 from datetime import datetime
 
 # Configuration
-CATALOG = "main"  # Update with your catalog name
+CATALOG = "gaurav_catalog"  # Update with your catalog name
 SCHEMA = "medical_research"  # Schema name
 VOLUME = "raw_papers"  # Volume name for storing downloaded papers
 
@@ -171,17 +165,17 @@ def download_medical_papers(query, output_path, max_papers=100):
             
             # Create formatted text content
             content = f"""PAPER ID: {paper_id}
-TITLE: {title}
-AUTHORS: {authors}
-JOURNAL: {journal}
-YEAR: {pub_year}
-DOI: {doi}
+                            TITLE: {title}
+                            AUTHORS: {authors}
+                            JOURNAL: {journal}
+                            YEAR: {pub_year}
+                            DOI: {doi}
 
-ABSTRACT:
-{abstract}
+                            ABSTRACT:
+                            {abstract}
 
----
-Full metadata available in JSON file.
+                            ---
+                            Full metadata available in JSON file.
 """
             
             # Save as text file
@@ -479,7 +473,7 @@ display(df_silver_cleaned.limit(10))
 # COMMAND ----------
 
 # DBTITLE 1,Generate Embeddings using Foundation Model
-from pyspark.sql.functions import pandas_udf
+from pyspark.sql.functions import pandas_udf, col, current_timestamp
 import pandas as pd
 import numpy as np
 
@@ -621,82 +615,126 @@ except Exception as e:
     )
     print(f"✓ Endpoint created: {VECTOR_SEARCH_ENDPOINT}")
 
-print(f"Endpoint status: {endpoint.endpoint_status}")
+print(f"Endpoint status: {endpoint.endpoint_status.state}")
 
 # COMMAND ----------
 
 # DBTITLE 1,Create Vector Search Index (Direct Access - No Delta Sync)
-from databricks.sdk.service.vectorsearch import (
-    VectorIndexType,
-    DeltaSyncVectorIndexSpecRequest,
-    DirectAccessVectorIndexSpec,
-    EmbeddingSourceColumn,
-    VectorIndex
-)
+from databricks.vector_search.client import VectorSearchClient
 
+vsc = VectorSearchClient(disable_notice=True)
 INDEX_NAME = f"{CATALOG}.{SCHEMA}.medical_papers_index"
 
-# Delete index if it exists (for clean recreation)
-try:
-    w.vector_search_indexes.delete_index(index_name=INDEX_NAME)
-    print(f"Deleted existing index: {INDEX_NAME}")
-except Exception:
-    pass
+# Get the schema from the embeddings table
+embeddings_schema = spark.table(SILVER_EMBEDDINGS_TABLE).schema
 
-# Create Direct Access Vector Index (NO DELTA SYNC as requested)
+# Get embedding dimension from sample
+embedding_dim = len(spark.table(SILVER_EMBEDDINGS_TABLE).select("embedding").first()[0])
+print(f"Detected embedding dimension: {embedding_dim}")
+
+# Build schema dictionary for the index
+schema_dict = {}
+for field in embeddings_schema.fields:
+    if field.name == "embedding":
+        schema_dict[field.name] = "array<double>"
+    elif str(field.dataType) == "StringType()":
+        schema_dict[field.name] = "string"
+    elif str(field.dataType) == "IntegerType()":
+        schema_dict[field.name] = "int"
+    elif str(field.dataType) == "LongType()":
+        schema_dict[field.name] = "long"
+    elif str(field.dataType) == "TimestampType()":
+        schema_dict[field.name] = "timestamp"
+    else:
+        schema_dict[field.name] = "string"
+
+print(f"\nSchema for index: {schema_dict}")
+
+# Create Direct Access Vector Index
 try:
-    index = w.vector_search_indexes.create_index(
-        name=INDEX_NAME,
+    index = vsc.create_direct_access_index(
         endpoint_name=VECTOR_SEARCH_ENDPOINT,
+        index_name=INDEX_NAME,
         primary_key="chunk_id",
-        index_type=VectorIndexType.DIRECT_ACCESS,
-        direct_access_index_spec=DirectAccessVectorIndexSpec(
-            embedding_source_columns=[
-                EmbeddingSourceColumn(
-                    name="embedding",
-                    embedding_dimension=1024  # Adjust based on your model
-                )
-            ],
-            schema_json=spark.table(SILVER_EMBEDDINGS_TABLE).schema.json()
-        )
+        embedding_dimension=embedding_dim,
+        embedding_vector_column="embedding",
+        schema=schema_dict
     )
     
-    print(f"✓ Vector Search Index created: {INDEX_NAME}")
-    print(f"  Type: DIRECT_ACCESS (No Delta Sync)")
+    print(f"\n✓ Vector Search Index created: {INDEX_NAME}")
+    print(f"  Type: DIRECT_ACCESS")
     print(f"  Primary Key: chunk_id")
     print(f"  Embedding Column: embedding")
+    print(f"  Embedding Dimension: {embedding_dim}")
     
 except Exception as e:
-    print(f"Error creating index: {str(e)}")
-    print("\nAlternative: You can create the index via the UI or API")
+    if "already exists" in str(e).lower():
+        print(f"\nIndex already exists: {INDEX_NAME}")
+        print("You can proceed to the next step.")
+    else:
+        print(f"\nError creating index: {str(e)}")
+        import traceback
+        traceback.print_exc()
 
 # COMMAND ----------
 
 # DBTITLE 1,Upsert Data into Vector Index
-# For Direct Access indexes, we need to upsert data manually
+from databricks.vector_search.client import VectorSearchClient
+from datetime import datetime
+
+vsc = VectorSearchClient(disable_notice=True)
+
+# Get the index
+index = vsc.get_index(
+    endpoint_name=VECTOR_SEARCH_ENDPOINT,
+    index_name=INDEX_NAME
+)
+
+# Read embeddings data
+embeddings_df = spark.table(SILVER_EMBEDDINGS_TABLE)
+
+print(f"Total records in table: {embeddings_df.count()}")
+
+# Convert to list of dictionaries and fix timestamp serialization
+print("Converting DataFrame to list of dictionaries...")
+embeddings_list = []
+for row in embeddings_df.collect():
+    record = row.asDict()
+    # Convert datetime to ISO format string for JSON serialization
+    if 'embedding_timestamp' in record and isinstance(record['embedding_timestamp'], datetime):
+        record['embedding_timestamp'] = record['embedding_timestamp'].isoformat()
+    embeddings_list.append(record)
+
+print(f"Total records to upsert: {len(embeddings_list)}")
+
+# Check sample
+if embeddings_list:
+    sample = embeddings_list[0]
+    print(f"\nSample data:")
+    print(f"  Embedding dimension: {len(sample['embedding'])}")
+    print(f"  Timestamp type: {type(sample.get('embedding_timestamp'))}")
+
 try:
-    from databricks.vector_search.client import VectorSearchClient
-    
-    vsc = VectorSearchClient()
-    
-    # Get the index
-    index = vsc.get_index(
-        endpoint_name=VECTOR_SEARCH_ENDPOINT,
-        index_name=INDEX_NAME
-    )
-    
-    # Read embeddings data
-    embeddings_df = spark.table(SILVER_EMBEDDINGS_TABLE)
-    
     # Upsert data to index
-    index.upsert(embeddings_df)
+    print(f"\nUpserting {len(embeddings_list)} records to index...")
+    result = index.upsert(embeddings_list)
     
-    print(f"✓ Data upserted to index: {INDEX_NAME}")
-    print(f"  Records indexed: {embeddings_df.count()}")
+    print(f"\nUpsert Result:")
+    print(f"  Status: {result.get('status')}")
+    print(f"  Success count: {result.get('result', {}).get('success_row_count', 0)}")
     
+    if result.get('status') == 'FAILURE':
+        failed_keys = result.get('result', {}).get('failed_primary_keys', [])
+        print(f"  Failed count: {len(failed_keys)}")
+        if failed_keys:
+            print(f"  First few failed keys: {failed_keys[:3]}")
+    else:
+        print(f"\n✓ Successfully upserted {result.get('result', {}).get('success_row_count', 0)} records!")
+        
 except Exception as e:
-    print(f"Note: Index upsert error: {str(e)}")
-    print("You may need to manually sync the index through the UI")
+    print(f"\nError during upsert: {str(e)}")
+    import traceback
+    traceback.print_exc()
 
 # COMMAND ----------
 
@@ -708,8 +746,9 @@ except Exception as e:
 # DBTITLE 1,Query the Vector Index
 try:
     from databricks.vector_search.client import VectorSearchClient
+    import mlflow.deployments
     
-    vsc = VectorSearchClient()
+    vsc = VectorSearchClient(disable_notice=True)
     
     # Get the index
     index = vsc.get_index(
@@ -720,24 +759,44 @@ try:
     # Test query - relevant to medical research
     test_query = "What are the most effective treatments for long COVID symptoms?"
     
+    # For Direct Access indexes, we need to generate embeddings for the query
+    print(f"Generating embeddings for query: '{test_query}'")
+    deploy_client = mlflow.deployments.get_deploy_client("databricks")
+    
+    response = deploy_client.predict(
+        endpoint=EMBEDDING_MODEL,
+        inputs={"input": [test_query]}
+    )
+    query_vector = response['data'][0]['embedding']
+    
+    # Search using query_vector instead of query_text
     results = index.similarity_search(
-        query_text=test_query,
+        query_vector=query_vector,
         columns=["chunk_id", "file_name", "chunk_text", "chunk_sequence"],
         num_results=5
     )
     
-    print(f"✓ Vector search test successful!")
+    print(f"\n✓ Vector search test successful!")
     print(f"Query: '{test_query}'")
-    print(f"\nTop {len(results['result']['data_array'])} results:")
     
-    for i, result in enumerate(results['result']['data_array'], 1):
-        print(f"\n{i}. Score: {result[-1]:.4f}")
-        print(f"   Paper: {result[1]}")
-        print(f"   Text: {result[2][:200]}...")
+    # Parse results
+    if 'result' in results and 'data_array' in results['result']:
+        data_array = results['result']['data_array']
+        print(f"\nTop {len(data_array)} results:")
+        
+        for i, result in enumerate(data_array, 1):
+            print(f"\n{i}. Score: {result[-1]:.4f}")
+            print(f"   Paper: {result[1]}")
+            print(f"   Text: {result[2][:200]}...")
+    else:
+        print(f"\nNo results found. Result structure: {results}")
     
 except Exception as e:
     print(f"Error querying index: {str(e)}")
-    print("The index may still be syncing. Please wait a few minutes and try again.")
+    import traceback
+    traceback.print_exc()
+    print("\nNote: For Direct Access indexes, you need to provide query_vector.")
+    print("Make sure the embedding model endpoint is available.")
 
 # COMMAND ----------
 
@@ -793,32 +852,51 @@ def search_medical_papers(query_text, num_results=5):
     """
     try:
         from databricks.vector_search.client import VectorSearchClient
+        import mlflow.deployments
         
-        vsc = VectorSearchClient()
+        vsc = VectorSearchClient(disable_notice=True)
         index = vsc.get_index(
             endpoint_name=VECTOR_SEARCH_ENDPOINT,
             index_name=INDEX_NAME
         )
         
+        # For Direct Access indexes, generate embeddings for the query
+        deploy_client = mlflow.deployments.get_deploy_client("databricks")
+        response = deploy_client.predict(
+            endpoint=EMBEDDING_MODEL,
+            inputs={"input": [query_text]}
+        )
+        query_vector = response['data'][0]['embedding']
+        
+        # Search using query_vector
         results = index.similarity_search(
-            query_text=query_text,
+            query_vector=query_vector,
             columns=["chunk_id", "file_name", "chunk_text", "source_url"],
             num_results=num_results
         )
         
         # Convert to DataFrame for easier viewing
-        data = results['result']['data_array']
+        if 'result' in results and 'data_array' in results['result']:
+            data = results['result']['data_array']
+        else:
+            print("No results found")
+            return None
+            
         columns = ["chunk_id", "file_name", "chunk_text", "source_url", "score"]
         
         return spark.createDataFrame(data, columns)
         
     except Exception as e:
         print(f"Error: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return None
 
 # Example usage:
-# results_df = search_medical_papers("What are effective treatments for diabetes?", num_results=10)
-# display(results_df)
+print("Searching for: 'What are effective treatments for diabetes?'")
+results_df = search_medical_papers("What are effective treatments for diabetes?", num_results=10)
+if results_df:
+    display(results_df)
 
 # COMMAND ----------
 
@@ -835,11 +913,11 @@ def search_medical_papers(query_text, num_results=5):
 # MAGIC - Add multiple queries in `ADDITIONAL_QUERIES` to broaden your knowledge base
 # MAGIC - Adjust `CHUNK_SIZE` and `CHUNK_OVERLAP` based on your use case
 # MAGIC - Update `CATALOG` and `SCHEMA` to match your environment
-# MAGIC 
+# MAGIC
 # MAGIC ### 🔬 Example Queries for Medical Research:
 # MAGIC - "What are the latest treatments for Type 2 diabetes?"
 # MAGIC - "Clinical trials for cancer immunotherapy"
 # MAGIC - "Side effects of mRNA vaccines"
 # MAGIC - "Biomarkers for early Alzheimer's detection"
 # MAGIC - "Rehabilitation protocols for stroke patients"
-
+# MAGIC
