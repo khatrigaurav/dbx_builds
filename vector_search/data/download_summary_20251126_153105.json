@@ -1,0 +1,608 @@
+{
+  "timestamp": "20251126_153105",
+  "query": "long covid AND treatment",
+  "total_available": 282929,
+  "papers_downloaded": 100,
+  "papers": [
+    {
+      "paper_id": "paper_1",
+      "title": "Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs",
+      "doc_file": "data//paper_paper_1_20251126_153105.doc",
+      "json_file": "data//paper_paper_1_20251126_153105.json"
+    },
+    {
+      "paper_id": "paper_2",
+      "title": "Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs",
+      "doc_file": "data//paper_paper_2_20251126_153105.doc",
+      "json_file": "data//paper_paper_2_20251126_153105.json"
+    },
+    {
+      "paper_id": "40434132",
+      "title": "Beyond time as the healer: action in long COVID treatment to improve patient outcomes.",
+      "doc_file": "data//paper_40434132_20251126_153105.doc",
+      "json_file": "data//paper_40434132_20251126_153105.json"
+    },
+    {
+      "paper_id": "40188835",
+      "title": "Long COVID treatment trials: still more questions than answers?",
+      "doc_file": "data//paper_40188835_20251126_153105.doc",
+      "json_file": "data//paper_40188835_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12474224",
+      "title": "An Anti-HIV Drug Is Highly Effective Against SARS-CoV-2 In Vitro and Has Potential Benefit for Long ...",
+      "doc_file": "data//paper_PMC12474224_20251126_153105.doc",
+      "json_file": "data//paper_PMC12474224_20251126_153105.json"
+    },
+    {
+      "paper_id": "39142509",
+      "title": "A practical framework for Long COVID treatment in primary care.",
+      "doc_file": "data//paper_39142509_20251126_153105.doc",
+      "json_file": "data//paper_39142509_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC11206978",
+      "title": "Evaluation of Novel Nasal Mucoadhesive Nanoformulations Containing Lipid-Soluble EGCG for Long COVID...",
+      "doc_file": "data//paper_PMC11206978_20251126_153105.doc",
+      "json_file": "data//paper_PMC11206978_20251126_153105.json"
+    },
+    {
+      "paper_id": "38931912",
+      "title": "Evaluation of Novel Nasal Mucoadhesive Nanoformulations Containing Lipid-Soluble EGCG for Long COVID...",
+      "doc_file": "data//paper_38931912_20251126_153105.doc",
+      "json_file": "data//paper_38931912_20251126_153105.json"
+    },
+    {
+      "paper_id": "paper_9",
+      "title": "Evaluation of Novel Nasal Mucoadhesive Nanoformulations Containing Lipid-Soluble EGCG for Long COVID...",
+      "doc_file": "data//paper_paper_9_20251126_153105.doc",
+      "json_file": "data//paper_paper_9_20251126_153105.json"
+    },
+    {
+      "paper_id": "39163793",
+      "title": "A description of the development of an innovative multi-component long COVID treatment program based...",
+      "doc_file": "data//paper_39163793_20251126_153105.doc",
+      "json_file": "data//paper_39163793_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC9456722",
+      "title": "Lots of long COVID treatment leads, but few are proven.",
+      "doc_file": "data//paper_PMC9456722_20251126_153105.doc",
+      "json_file": "data//paper_PMC9456722_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC9147901",
+      "title": "Epipharyngeal Abrasive Therapy (EAT) Has Potential as a Novel Method for Long COVID Treatment.",
+      "doc_file": "data//paper_PMC9147901_20251126_153105.doc",
+      "json_file": "data//paper_PMC9147901_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12618857",
+      "title": "Prevalence and Predictors of Long Covid in a Cohort of Brazilian Adults 12 Months After Acute Infect...",
+      "doc_file": "data//paper_PMC12618857_20251126_153105.doc",
+      "json_file": "data//paper_PMC12618857_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12636949",
+      "title": "Improved functional exercise capacity after primary care pulmonary rehabilitation in patients with l...",
+      "doc_file": "data//paper_PMC12636949_20251126_153105.doc",
+      "json_file": "data//paper_PMC12636949_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12548172",
+      "title": "Treatment experiences, preferences, and expectations for cognitive impairments in long COVID among C...",
+      "doc_file": "data//paper_PMC12548172_20251126_153105.doc",
+      "json_file": "data//paper_PMC12548172_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12527184",
+      "title": "Return-to-work for people living with long COVID: A scoping review of interventions and recommendati...",
+      "doc_file": "data//paper_PMC12527184_20251126_153105.doc",
+      "json_file": "data//paper_PMC12527184_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12577318",
+      "title": "Physiotherapy interventions in post- and long-COVID-19: a scoping review of the literature up to Feb...",
+      "doc_file": "data//paper_PMC12577318_20251126_153105.doc",
+      "json_file": "data//paper_PMC12577318_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12610175",
+      "title": "A Cohort Study Characterizing the Outcomes Following an Acute SARS-CoV-2 Infection in Pregnancy.",
+      "doc_file": "data//paper_PMC12610175_20251126_153105.doc",
+      "json_file": "data//paper_PMC12610175_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12582205",
+      "title": "Effect of interventions for the management of sleep disturbances in patients with long COVID: a syst...",
+      "doc_file": "data//paper_PMC12582205_20251126_153105.doc",
+      "json_file": "data//paper_PMC12582205_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12610589",
+      "title": "Special Issue: Molecular Research and Insights into COVID-19: 2nd Edition.",
+      "doc_file": "data//paper_PMC12610589_20251126_153105.doc",
+      "json_file": "data//paper_PMC12610589_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12639003",
+      "title": "Economic burden of long COVID: macroeconomic, cost-of-illness and microeconomic impacts.",
+      "doc_file": "data//paper_PMC12639003_20251126_153105.doc",
+      "json_file": "data//paper_PMC12639003_20251126_153105.json"
+    },
+    {
+      "paper_id": "41201746",
+      "title": "Synopsis of 2024 VA Long COVID Clinical Guidance for U.S. Veterans: Part 1, Nervous System-Related S...",
+      "doc_file": "data//paper_41201746_20251126_153105.doc",
+      "json_file": "data//paper_41201746_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12582476",
+      "title": "Research to evaluate safety and impact of long COVID intervention with Ensitrelvir for National Coho...",
+      "doc_file": "data//paper_PMC12582476_20251126_153105.doc",
+      "json_file": "data//paper_PMC12582476_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12590622",
+      "title": "Randomized trial of nirmatrelvir/ritonavir versus placebo for adults with acute COVID-19 to prevent ...",
+      "doc_file": "data//paper_PMC12590622_20251126_153105.doc",
+      "json_file": "data//paper_PMC12590622_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12631371",
+      "title": "Co-creating a social science research agenda for Long Covid.",
+      "doc_file": "data//paper_PMC12631371_20251126_153105.doc",
+      "json_file": "data//paper_PMC12631371_20251126_153105.json"
+    },
+    {
+      "paper_id": "41230640",
+      "title": "Contested illness and communication: Positioning long Covid in online discussion forums.",
+      "doc_file": "data//paper_41230640_20251126_153105.doc",
+      "json_file": "data//paper_41230640_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12604793",
+      "title": "Effects of the ECHO tele-mentoring program on Long COVID management in health facilities in India: A...",
+      "doc_file": "data//paper_PMC12604793_20251126_153105.doc",
+      "json_file": "data//paper_PMC12604793_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12623366",
+      "title": "Revisiting lung cancer immunotherapy in the era of long COVID: mechanistic insights and therapeutic ...",
+      "doc_file": "data//paper_PMC12623366_20251126_153105.doc",
+      "json_file": "data//paper_PMC12623366_20251126_153105.json"
+    },
+    {
+      "paper_id": "41117273",
+      "title": "Long COVID: mechanisms of disease, multisystem sequelae, and prospects for treatment.",
+      "doc_file": "data//paper_41117273_20251126_153105.doc",
+      "json_file": "data//paper_41117273_20251126_153105.json"
+    },
+    {
+      "paper_id": "41231115",
+      "title": "Understanding the role of COVID-19 vaccination in all-cause healthcare resource utilisation among ad...",
+      "doc_file": "data//paper_41231115_20251126_153105.doc",
+      "json_file": "data//paper_41231115_20251126_153105.json"
+    },
+    {
+      "paper_id": "41160239",
+      "title": "[Herbal treatment options for post-viral symptoms and long COVID].",
+      "doc_file": "data//paper_41160239_20251126_153105.doc",
+      "json_file": "data//paper_41160239_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12512695",
+      "title": "Applicability and adaptation of cognitive behavior therapy for long COVID neuropsychiatric symptoms:...",
+      "doc_file": "data//paper_PMC12512695_20251126_153105.doc",
+      "json_file": "data//paper_PMC12512695_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12471820",
+      "title": "Longer Health Resort Therapy Improves Outcomes in Long COVID: A Retrospective Study.",
+      "doc_file": "data//paper_PMC12471820_20251126_153105.doc",
+      "json_file": "data//paper_PMC12471820_20251126_153105.json"
+    },
+    {
+      "paper_id": "paper_34",
+      "title": "Treatable Traits in Long COVID: Inhaled corticosteroids and long-acting bronchodilators for small ai...",
+      "doc_file": "data//paper_paper_34_20251126_153105.doc",
+      "json_file": "data//paper_paper_34_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12591408",
+      "title": "Parametric survival analysis of long COVID among hospitalized patients in Zambia: A retrospective co...",
+      "doc_file": "data//paper_PMC12591408_20251126_153105.doc",
+      "json_file": "data//paper_PMC12591408_20251126_153105.json"
+    },
+    {
+      "paper_id": "paper_36",
+      "title": "Tensegrity-Based Needling: An Integrative Rehabilitative Treatment for Post Covid-19 Widespread Musc...",
+      "doc_file": "data//paper_paper_36_20251126_153105.doc",
+      "json_file": "data//paper_paper_36_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12605362",
+      "title": "Therapeutic challenges in central nervous system viral infections: advancing mesenchymal stem cell-b...",
+      "doc_file": "data//paper_PMC12605362_20251126_153105.doc",
+      "json_file": "data//paper_PMC12605362_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12592685",
+      "title": "What Can We Learn Four Years On? A Multi-Centre Service Evaluation Exploring Symptoms, Functional Im...",
+      "doc_file": "data//paper_PMC12592685_20251126_153105.doc",
+      "json_file": "data//paper_PMC12592685_20251126_153105.json"
+    },
+    {
+      "paper_id": "paper_39",
+      "title": "Increased mannosylation of extracellular vesicles in Long COVID plasma provides a potential therapeu...",
+      "doc_file": "data//paper_paper_39_20251126_153105.doc",
+      "json_file": "data//paper_paper_39_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12424606",
+      "title": "Challenges of Inclusion: A Population-Based Interview Study of Long Covid.",
+      "doc_file": "data//paper_PMC12424606_20251126_153105.doc",
+      "json_file": "data//paper_PMC12424606_20251126_153105.json"
+    },
+    {
+      "paper_id": "41176513",
+      "title": "Patterns of care and treatment delays among patients with early-stage breast cancer: long term impac...",
+      "doc_file": "data//paper_41176513_20251126_153105.doc",
+      "json_file": "data//paper_41176513_20251126_153105.json"
+    },
+    {
+      "paper_id": "41082082",
+      "title": "From infection to intervention: post-acute sequelae of SARS-CoV-2 infection and cardiovascular risk.",
+      "doc_file": "data//paper_41082082_20251126_153105.doc",
+      "json_file": "data//paper_41082082_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12588452",
+      "title": "Experiences of accessing primary care by those living with long Covid in New Zealand: A qualitative ...",
+      "doc_file": "data//paper_PMC12588452_20251126_153105.doc",
+      "json_file": "data//paper_PMC12588452_20251126_153105.json"
+    },
+    {
+      "paper_id": "40485056",
+      "title": "Cognitive and Emotional Health in Long COVID: a Cross-Sectional Study in Brazil.",
+      "doc_file": "data//paper_40485056_20251126_153105.doc",
+      "json_file": "data//paper_40485056_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12466062",
+      "title": "Long-term impact of COVID-19 in patients with lung cancer receiving immune checkpoint inhibitors: a ...",
+      "doc_file": "data//paper_PMC12466062_20251126_153105.doc",
+      "json_file": "data//paper_PMC12466062_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12515974",
+      "title": "Immunotherapies for postural orthostatic tachycardia syndrome, other common autonomic disorders, and...",
+      "doc_file": "data//paper_PMC12515974_20251126_153105.doc",
+      "json_file": "data//paper_PMC12515974_20251126_153105.json"
+    },
+    {
+      "paper_id": "41071398",
+      "title": "Cytokine Blockade Attenuates Inflammation and Improves Depressive Psychopathology After COVID-19: A ...",
+      "doc_file": "data//paper_41071398_20251126_153105.doc",
+      "json_file": "data//paper_41071398_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12619166",
+      "title": "Prevalence of depression, anxiety, fatigue, and headache before and after long COVID onset: a case-c...",
+      "doc_file": "data//paper_PMC12619166_20251126_153105.doc",
+      "json_file": "data//paper_PMC12619166_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12585230",
+      "title": "P007\u2003Quadruple avascular necrosis in a patient with ankylosing spondylitis - a post covid steroid di...",
+      "doc_file": "data//paper_PMC12585230_20251126_153105.doc",
+      "json_file": "data//paper_PMC12585230_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12539284",
+      "title": "Trust in Transition: Exploring Changing Trust in Vaccination in the Context of Long Covid in the Uni...",
+      "doc_file": "data//paper_PMC12539284_20251126_153105.doc",
+      "json_file": "data//paper_PMC12539284_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12598962",
+      "title": "Pursuing Reduction in Fatigue After COVID-19 via Exercise and Rehabilitation (PREFACER): a protocol ...",
+      "doc_file": "data//paper_PMC12598962_20251126_153105.doc",
+      "json_file": "data//paper_PMC12598962_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12533526",
+      "title": "Long COVID: persistent impacts and challenges for speech-language-hearing therapy.",
+      "doc_file": "data//paper_PMC12533526_20251126_153105.doc",
+      "json_file": "data//paper_PMC12533526_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12532441",
+      "title": "Prevalence and duration of common symptoms in people with long COVID: a systematic review and meta-a...",
+      "doc_file": "data//paper_PMC12532441_20251126_153105.doc",
+      "json_file": "data//paper_PMC12532441_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12631303",
+      "title": "Effectiveness of Five-Element Regulatory Therapy for post-COVID syndrome: a retrospective cohort stu...",
+      "doc_file": "data//paper_PMC12631303_20251126_153105.doc",
+      "json_file": "data//paper_PMC12631303_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12564589",
+      "title": "Microbiome and Long COVID-19: Current Evidence and Insights.",
+      "doc_file": "data//paper_PMC12564589_20251126_153105.doc",
+      "json_file": "data//paper_PMC12564589_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12560357",
+      "title": "Association of remdesivir treatment with long-term mortality after COVID-19 hospitalization.",
+      "doc_file": "data//paper_PMC12560357_20251126_153105.doc",
+      "json_file": "data//paper_PMC12560357_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12469580",
+      "title": "Long COVID Symptom Management Through Self-Care and Nonprescription Treatment Options: A Narrative R...",
+      "doc_file": "data//paper_PMC12469580_20251126_153105.doc",
+      "json_file": "data//paper_PMC12469580_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12552067",
+      "title": "Identifying Pediatric Long COVID: Comparing an EHR Algorithm to Manual Review.",
+      "doc_file": "data//paper_PMC12552067_20251126_153105.doc",
+      "json_file": "data//paper_PMC12552067_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12470905",
+      "title": "Long COVID and Acute Stroke in the Emergency Department: An Analysis of Presentation, Reperfusion Tr...",
+      "doc_file": "data//paper_PMC12470905_20251126_153105.doc",
+      "json_file": "data//paper_PMC12470905_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12557660",
+      "title": "The post-COVID-19 pulmonary sequelae: manifestations, mechanisms and treatment strategies.",
+      "doc_file": "data//paper_PMC12557660_20251126_153105.doc",
+      "json_file": "data//paper_PMC12557660_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12556902",
+      "title": "Access barriers and the role of central coordination: Long COVID-19 healthcare in Austria",
+      "doc_file": "data//paper_PMC12556902_20251126_153105.doc",
+      "json_file": "data//paper_PMC12556902_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12585263",
+      "title": "P107\u2003Persistent SARS-COV-2 pneumonia in an immunosuppressed rheumatoid arthritis patient: a diagnost...",
+      "doc_file": "data//paper_PMC12585263_20251126_153105.doc",
+      "json_file": "data//paper_PMC12585263_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12565045",
+      "title": "Outcomes, Sequelae, and Ventilatory Strategies in Long COVID Patients with Severe ARDS: A Retrospect...",
+      "doc_file": "data//paper_PMC12565045_20251126_153105.doc",
+      "json_file": "data//paper_PMC12565045_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12523554",
+      "title": "Revisiting Janus Kinase Inhibitors in Hospitalized COVID-19: Evidence for Baricitinib's Superiority ...",
+      "doc_file": "data//paper_PMC12523554_20251126_153105.doc",
+      "json_file": "data//paper_PMC12523554_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12610472",
+      "title": "Type I Interferon-Related Gene Expression and Laboratory Abnormalities in Acute Infection Are Associ...",
+      "doc_file": "data//paper_PMC12610472_20251126_153105.doc",
+      "json_file": "data//paper_PMC12610472_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12634937",
+      "title": "Five years later: no short answers for Long COVID.",
+      "doc_file": "data//paper_PMC12634937_20251126_153105.doc",
+      "json_file": "data//paper_PMC12634937_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12522509",
+      "title": "Cardiopulmonary crosstalk in Long COVID: a systematic review of emerging evidence.",
+      "doc_file": "data//paper_PMC12522509_20251126_153105.doc",
+      "json_file": "data//paper_PMC12522509_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12608246",
+      "title": "Long-Term Complications of Multisystem Inflammatory Syndrome in Children and Adults Post-COVID-19: A...",
+      "doc_file": "data//paper_PMC12608246_20251126_153105.doc",
+      "json_file": "data//paper_PMC12608246_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12551799",
+      "title": "'I Do Take the Number Seriously, but I Don't Let My Moods Depend on It': Negotiating Self-Tracking D...",
+      "doc_file": "data//paper_PMC12551799_20251126_153105.doc",
+      "json_file": "data//paper_PMC12551799_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12525375",
+      "title": "Objective and Subjective Voice Outcomes in Post-COVID-19 Dysphonia: A High-Speed Videoendoscopy Pre-...",
+      "doc_file": "data//paper_PMC12525375_20251126_153105.doc",
+      "json_file": "data//paper_PMC12525375_20251126_153105.json"
+    },
+    {
+      "paper_id": "paper_71",
+      "title": "Profile and interplay of mental health as well as physical health symptoms in post-COVID patients",
+      "doc_file": "data//paper_paper_71_20251126_153105.doc",
+      "json_file": "data//paper_paper_71_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12501490",
+      "title": "Post Covid-19 Condition as a Diagnosis: A Qualitative Study on Epistemological Tensions Among Expert...",
+      "doc_file": "data//paper_PMC12501490_20251126_153105.doc",
+      "json_file": "data//paper_PMC12501490_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12560490",
+      "title": "Clinical efficacy of casirivimab and imdevimab in preventing COVID-19 in the Omicron BA.5 subvariant...",
+      "doc_file": "data//paper_PMC12560490_20251126_153105.doc",
+      "json_file": "data//paper_PMC12560490_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12526866",
+      "title": "Impact of Case Detection and COVID-19-Related Disruptions on Tuberculosis in Vietnam: A Modeling Ana...",
+      "doc_file": "data//paper_PMC12526866_20251126_153105.doc",
+      "json_file": "data//paper_PMC12526866_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12408318",
+      "title": "Challenges in diagnosis and treatment of long COVID.",
+      "doc_file": "data//paper_PMC12408318_20251126_153105.doc",
+      "json_file": "data//paper_PMC12408318_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12567989",
+      "title": "Baseline Dysregulation in B, T, and NK Cells in COVID-19 Predicts Increased Late Mortality but Not L...",
+      "doc_file": "data//paper_PMC12567989_20251126_153105.doc",
+      "json_file": "data//paper_PMC12567989_20251126_153105.json"
+    },
+    {
+      "paper_id": "41134222",
+      "title": "Nirmatrelvir/ritonavir treatment for COVID-19: an economic value systematic literature review.",
+      "doc_file": "data//paper_41134222_20251126_153105.doc",
+      "json_file": "data//paper_41134222_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12572387",
+      "title": "Long-term cardiovascular complications in COVID-19 survivors according to disease severity.",
+      "doc_file": "data//paper_PMC12572387_20251126_153105.doc",
+      "json_file": "data//paper_PMC12572387_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12560753",
+      "title": "Longitudinal Patient-Reported Outcome Trajectories in Long COVID: Findings From the STOP-PASC Clinic...",
+      "doc_file": "data//paper_PMC12560753_20251126_153105.doc",
+      "json_file": "data//paper_PMC12560753_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12640517",
+      "title": "Influence of the coronavirus disease 2019 pandemic on gastric cancer: associations with diagnostic d...",
+      "doc_file": "data//paper_PMC12640517_20251126_153105.doc",
+      "json_file": "data//paper_PMC12640517_20251126_153105.json"
+    },
+    {
+      "paper_id": "41171293",
+      "title": "Long COVID Trial Explores Anti-Inflammatory Treatment.",
+      "doc_file": "data//paper_41171293_20251126_153105.doc",
+      "json_file": "data//paper_41171293_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12549397",
+      "title": "Efficacy and safety of Chinese medicine compound for the convalescent COVID-19 patients: Protocol of...",
+      "doc_file": "data//paper_PMC12549397_20251126_153105.doc",
+      "json_file": "data//paper_PMC12549397_20251126_153105.json"
+    },
+    {
+      "paper_id": "paper_83",
+      "title": "Efficacy and Safety of Vitamin D for COVID-19: A Living Evidence Synthesis Baseline report",
+      "doc_file": "data//paper_paper_83_20251126_153105.doc",
+      "json_file": "data//paper_paper_83_20251126_153105.json"
+    },
+    {
+      "paper_id": "paper_84",
+      "title": "Post-COVID-19 Organ Dysfunction: Mechanisms of Microvascular Damage and Therapeutic Strategies",
+      "doc_file": "data//paper_paper_84_20251126_153105.doc",
+      "json_file": "data//paper_paper_84_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12432196",
+      "title": "Long-Term Impact of the Coronavirus Disease 2019 Pandemic on Children with Eosinophilic Esophagitis.",
+      "doc_file": "data//paper_PMC12432196_20251126_153105.doc",
+      "json_file": "data//paper_PMC12432196_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12366086",
+      "title": "Favorable responses to upadacitinib, a JAK1 inhibitor, in long COVID patients with predominant neuro...",
+      "doc_file": "data//paper_PMC12366086_20251126_153105.doc",
+      "json_file": "data//paper_PMC12366086_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12409300",
+      "title": "Intersectionality and Long Covid: Understanding the Lived Experiences of Ethnic Minority Groups in t...",
+      "doc_file": "data//paper_PMC12409300_20251126_153105.doc",
+      "json_file": "data//paper_PMC12409300_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12432515",
+      "title": "Association of COVID vaccinations and treatments with long COVID beyond 6\u00a0months: a case-control stu...",
+      "doc_file": "data//paper_PMC12432515_20251126_153105.doc",
+      "json_file": "data//paper_PMC12432515_20251126_153105.json"
+    },
+    {
+      "paper_id": "41266906",
+      "title": "Long-term WBE monitoring of alcohol, nicotine, and caffeine in two Spanish cities: COVID-19 impacts ...",
+      "doc_file": "data//paper_41266906_20251126_153105.doc",
+      "json_file": "data//paper_41266906_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12517539",
+      "title": "Platelet-Rich Plasma for COVID-19-Related Olfactory Dysfunction: A Systematic Review and Meta-analys...",
+      "doc_file": "data//paper_PMC12517539_20251126_153105.doc",
+      "json_file": "data//paper_PMC12517539_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12564793",
+      "title": "Eight Years of Follow-Up of Rituximab in Pemphigus Vulgaris and Foliaceus at a Single Center: Assess...",
+      "doc_file": "data//paper_PMC12564793_20251126_153105.doc",
+      "json_file": "data//paper_PMC12564793_20251126_153105.json"
+    },
+    {
+      "paper_id": "paper_92",
+      "title": "Natural History of Self-reported Symptoms Following SARS-CoV-2 Infection: A Target Trial Emulation i...",
+      "doc_file": "data//paper_paper_92_20251126_153105.doc",
+      "json_file": "data//paper_paper_92_20251126_153105.json"
+    },
+    {
+      "paper_id": "41177912",
+      "title": "\"Everything Looks Normal\": Patient Narratives of Contested Legitimacy in Long COVID Medical Encounte...",
+      "doc_file": "data//paper_41177912_20251126_153105.doc",
+      "json_file": "data//paper_41177912_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12443580",
+      "title": "Electro-acupuncture for long COVID neuropsychiatric symptoms: study protocol for a prospective, rand...",
+      "doc_file": "data//paper_PMC12443580_20251126_153105.doc",
+      "json_file": "data//paper_PMC12443580_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12424145",
+      "title": "What could cause the reactivation of Epstein-Barr virus in individuals with long COVID.",
+      "doc_file": "data//paper_PMC12424145_20251126_153105.doc",
+      "json_file": "data//paper_PMC12424145_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12634318",
+      "title": "Deprioritized and disrupted: tuberculosis care in the shadow of COVID-19.",
+      "doc_file": "data//paper_PMC12634318_20251126_153105.doc",
+      "json_file": "data//paper_PMC12634318_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12539282",
+      "title": "Understanding Long COVID Among Young People in Victoria, Australia: Prevalence, Impact, and Associat...",
+      "doc_file": "data//paper_PMC12539282_20251126_153105.doc",
+      "json_file": "data//paper_PMC12539282_20251126_153105.json"
+    },
+    {
+      "paper_id": "paper_98",
+      "title": "Persistent Multi-System Impairments Detected by Wearable Monitoring in Long COVID Cases reporting Fa...",
+      "doc_file": "data//paper_paper_98_20251126_153105.doc",
+      "json_file": "data//paper_paper_98_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12605343",
+      "title": "T-cell exhaustion in COVID-19: what do we know?",
+      "doc_file": "data//paper_PMC12605343_20251126_153105.doc",
+      "json_file": "data//paper_PMC12605343_20251126_153105.json"
+    },
+    {
+      "paper_id": "PMC12594341",
+      "title": "SARS-CoV-2 spike protein causes synaptic dysfunction and p-tau and \u03b1-synuclein aggregation leading c...",
+      "doc_file": "data//paper_PMC12594341_20251126_153105.doc",
+      "json_file": "data//paper_PMC12594341_20251126_153105.json"
+    }
+  ]
+}

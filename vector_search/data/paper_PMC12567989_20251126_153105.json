@@ -1,0 +1,572 @@
+{
+  "id": "41157669",
+  "source": "MED",
+  "pmid": "41157669",
+  "pmcid": "PMC12567989",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12567989"
+    ]
+  },
+  "doi": "10.3390/v17101400",
+  "title": "Baseline Dysregulation in B, T, and NK Cells in COVID-19 Predicts Increased Late Mortality but Not Long-COVID Symptoms: Results from a Single-Center Observational Study.",
+  "authorString": "Matyja-Bednarczyk A, Dziedzic R, Drynda A, Gradzikiewicz A, Boci\u0105ga-Jasik M, W\u00f3jcik K, Licho\u0142ai S, G\u00f3rka K, Celejewska-W\u00f3jcik N, Stachura T, Polok K, Zar\u0119ba L, Iwaniec T, S\u0142adek K, Bazan-Socha S.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Matyja-Bednarczyk A",
+        "firstName": "Aleksandra",
+        "lastName": "Matyja-Bednarczyk",
+        "initials": "A",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-4038-5016"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Prof A. Szczeklik 2nd Chair of Internal Medicine, Department of Allergy, Autoimmunization and Hypercoagulation, Jakubowskiego 2, 30-668 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Dziedzic R",
+        "firstName": "Rados\u0142aw",
+        "lastName": "Dziedzic",
+        "initials": "R",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-0321-3557"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Doctoral School of Medical and Health Sciences, \u015bw. \u0141azarza 16, 31-530 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Drynda A",
+        "firstName": "Anna",
+        "lastName": "Drynda",
+        "initials": "A",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0009-0009-5556-2637"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Doctoral School of Medical and Health Sciences, \u015bw. \u0141azarza 16, 31-530 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Gradzikiewicz A",
+        "firstName": "Ada",
+        "lastName": "Gradzikiewicz",
+        "initials": "A",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0009-0003-1285-1267"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University Hospital in Krak\u00f3w, Department of Rheumatology, Immunology and Internal Medicine, Jakubowskiego 2, 30-688 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Boci\u0105ga-Jasik M",
+        "firstName": "Monika",
+        "lastName": "Boci\u0105ga-Jasik",
+        "initials": "M",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-6474-0177"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Department of Infectious and Tropical Diseases, Jakubowskiego 2, 30-668 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "W\u00f3jcik K",
+        "firstName": "Krzysztof",
+        "lastName": "W\u00f3jcik",
+        "initials": "K",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-9786-2499"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Prof A. Szczeklik 2nd Chair of Internal Medicine, Department of Allergy, Autoimmunization and Hypercoagulation, Jakubowskiego 2, 30-668 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Licho\u0142ai S",
+        "firstName": "Sabina",
+        "lastName": "Licho\u0142ai",
+        "initials": "S",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-7008-2492"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Prof A. Szczeklik 2nd Chair of Internal Medicine, Department of Molecular Biology and Clinical Genetics, Skawi\u0144ska 8, 31-066 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "G\u00f3rka K",
+        "firstName": "Karolina",
+        "lastName": "G\u00f3rka",
+        "initials": "K",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-6404-7233"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Prof A. Szczeklik 2nd Chair of Internal Medicine, Department of Pulmonology, Jakubowskiego 2, 30-668 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Celejewska-W\u00f3jcik N",
+        "firstName": "Natalia",
+        "lastName": "Celejewska-W\u00f3jcik",
+        "initials": "N",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-2770-8669"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Prof A. Szczeklik 2nd Chair of Internal Medicine, Department of Pulmonology, Jakubowskiego 2, 30-668 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Stachura T",
+        "firstName": "Tomasz",
+        "lastName": "Stachura",
+        "initials": "T",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-4178-6914"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Prof A. Szczeklik 2nd Chair of Internal Medicine, Department of Pulmonology, Jakubowskiego 2, 30-668 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Polok K",
+        "firstName": "Kamil",
+        "lastName": "Polok",
+        "initials": "K",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-0777-9785"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Department of Intensive Care and Perioperative Medicine, Jakubowskiego 2, 30-668 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Zar\u0119ba L",
+        "firstName": "Lech",
+        "lastName": "Zar\u0119ba",
+        "initials": "L",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-2221-614X"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University of Rzesz\u00f3w, Faculty of Exact and Technical Science, Institute of Computer Science, Pigonia 1, 35-310 Rzesz\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Iwaniec T",
+        "firstName": "Teresa",
+        "lastName": "Iwaniec",
+        "initials": "T",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-9796-9242"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Department of Hematology, Jakubowskiego 2, 30-688 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "S\u0142adek K",
+        "firstName": "Krzysztof",
+        "lastName": "S\u0142adek",
+        "initials": "K",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-7012-4613"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Prof A. Szczeklik 2nd Chair of Internal Medicine, Department of Pulmonology, Jakubowskiego 2, 30-668 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Bazan-Socha S",
+        "firstName": "Stanis\u0142awa",
+        "lastName": "Bazan-Socha",
+        "initials": "S",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-9634-0963"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jagiellonian University Medical College, Prof A. Szczeklik 2nd Chair of Internal Medicine, Department of Allergy, Autoimmunization and Hypercoagulation, Jakubowskiego 2, 30-668 Krak\u00f3w, Poland."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-7008-2492"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0001-7012-4613"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0001-9634-0963"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0001-9786-2499"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-2221-614X"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-4178-6914"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-6404-7233"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-6474-0177"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-9796-9242"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-0321-3557"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-0777-9785"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-2770-8669"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-4038-5016"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0003-1285-1267"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0009-5556-2637"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "10",
+    "volume": "17",
+    "journalIssueId": 4038843,
+    "dateOfPublication": "2025 Oct",
+    "monthOfPublication": 10,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-10-01",
+    "journal": {
+      "title": "Viruses",
+      "medlineAbbreviation": "Viruses",
+      "issn": "1999-4915",
+      "isoabbreviation": "Viruses",
+      "essn": "1999-4915",
+      "nlmid": "101509722"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "1400",
+  "abstractText": "The SARS-CoV-2 pandemic presents a broad clinical spectrum from asymptomatic cases to severe respiratory failure with high mortality. Severe COVID-19 is characterized by immune dysregulation, including lymphopenia and alterations in the counts of T, B, and NK cells in peripheral blood. Due to the limited data on long-term outcomes related to immune dysregulation, we aimed to analyze immunologic features at baseline in severe and mild COVID-19 cases and assess follow-up characteristics associated with later mortality and long-COVID signs. We included adult patients consecutively hospitalized with COVID-19 between June and November 2020 at the University Hospital in Krak\u00f3w, corresponding to the first and second waves of COVID-19 in Poland. We enrolled only those who had been thoroughly assessed in terms of clinic and laboratory data, including immunological workups, and survived the acute phase of the disease. In 2025, between February and April (median time of follow-up: 54 months), we conducted a telephone questionnaire on long-COVID symptoms among survivors who had given their consent. Statistical analyses were performed to compare groups with severe and mild disease in terms of dysregulation in lymphocyte subpopulations and the follow-up outcomes. The study included 103 COVID-19 patients, comprising 53 severe (based on the need for at least high-flow nasal oxygen therapy) and 50 mild cases, with no differences in age, sex, and body mass index. Severe COVID-19 patients compared to mild cases had lower CD3+ T cells (count and percentage), CD4+ T cells (count and percentage), CD8+ T cells (count), and NK cells (count), but higher CD19+ B cells (percentage) at baseline (<i>p</i> < 0.05, all). At the time of follow-up, we evaluated 80 patients (77.7% of the baseline participants), with 23 (22.3%) patients lost to follow-up. Among patients analyzed in the follow-up, 23 (28.8%) had died, and 29 of the 57 survivors (50.9%) reported persistent long-COVID symptoms. Patients who died had significantly lower baseline counts of CD3+ T cells (377 vs. 655 cells/\u00b5L), CD4+ T cells (224 vs. 372 cells/\u00b5L), CD8+ T cells (113 vs. 188 cells/\u00b5L), and NK cells (118 vs. 157 cells/\u00b5L) compared to survivors (<i>p</i> < 0.05, all). Notably, the percentage of CD19+ B cells was higher in deceased individuals (19.2% vs. 13.5%; <i>p</i> = 0.049). In contrast, we did not document differences in baseline immunological data among survivors with and without long-COVID signs. Our study suggests that dysregulation in lymphocyte subpopulations during the COVID-19 acute phase may be associated with increased late mortality, but not with the persistence of long-COVID symptoms.",
+  "affiliation": "Jagiellonian University Medical College, Prof A. Szczeklik 2nd Chair of Internal Medicine, Department of Allergy, Autoimmunization and Hypercoagulation, Jakubowskiego 2, 30-668 Krak\u00f3w, Poland.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article",
+      "Observational Study"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "grantId": "Jagiellonian University Medical College",
+        "agency": "N41/DBS/000687",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "B-Lymphocytes",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Killer Cells, Natural",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "T-Lymphocytes",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Lymphopenia"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Lymphocyte Count"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Severity of Illness Index"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Poland",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "MO",
+              "qualifierName": "mortality",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Lymphopenia",
+      "Lymphocyte Subpopulations",
+      "Covid-19",
+      "Sars-cov-2",
+      "Long-covid"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.3390/v17101400"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12567989"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12567989?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-29",
+  "dateOfCreation": "2025-10-29",
+  "firstIndexDate": "2025-10-29",
+  "fullTextReceivedDate": "2025-11-03",
+  "dateOfRevision": "2025-11-01",
+  "electronicPublicationDate": "2025-10-21",
+  "firstPublicationDate": "2025-10-21"
+}

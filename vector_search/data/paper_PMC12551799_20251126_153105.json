@@ -1,0 +1,335 @@
+{
+  "id": "41134747",
+  "source": "MED",
+  "pmid": "41134747",
+  "pmcid": "PMC12551799",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12551799"
+    ]
+  },
+  "doi": "10.1111/1467-9566.70102",
+  "title": "'I Do Take the Number Seriously, but I Don't Let My Moods Depend on It': Negotiating Self-Tracking Data With People Living With Long COVID in the Netherlands, Austria and Switzerland.",
+  "authorString": "Algera E, Maukner AC, van Dorth J, Alblas MC, Sobel J, de Vries DH.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Algera E",
+        "firstName": "Ellen",
+        "lastName": "Algera",
+        "initials": "E",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-1697-4144"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Amsterdam Institute of Global Health and Development, Amsterdam, the Netherlands."
+            },
+            {
+              "affiliation": "Department of Anthropology, University of Amsterdam, Amsterdam, the Netherlands."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Maukner AC",
+        "firstName": "Anna Christina",
+        "lastName": "Maukner",
+        "initials": "AC",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0009-0009-0980-7285"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Amsterdam Institute of Global Health and Development, Amsterdam, the Netherlands."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "van Dorth J",
+        "firstName": "Jade",
+        "lastName": "van Dorth",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Communication, University of Amsterdam, Amsterdam, the Netherlands."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Alblas MC",
+        "firstName": "Monique C",
+        "lastName": "Alblas",
+        "initials": "MC",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-2787-8086"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Communication, University of Amsterdam, Amsterdam, the Netherlands."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Sobel J",
+        "firstName": "Jonathan",
+        "lastName": "Sobel",
+        "initials": "J",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-5111-4070"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Infection Prevention and Control, University Hospital of Geneva, Geneva, Switzerland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "de Vries DH",
+        "firstName": "Daniel H",
+        "lastName": "de Vries",
+        "initials": "DH",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-7455-0628"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Amsterdam Institute of Global Health and Development, Amsterdam, the Netherlands."
+            },
+            {
+              "affiliation": "Department of Anthropology, University of Amsterdam, Amsterdam, the Netherlands."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-7455-0628"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-5111-4070"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-1697-4144"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-2787-8086"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0009-0980-7285"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "8",
+    "volume": "47",
+    "journalIssueId": 4021068,
+    "dateOfPublication": "2025 Nov",
+    "monthOfPublication": 11,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-11-01",
+    "journal": {
+      "title": "Sociology of health & illness",
+      "medlineAbbreviation": "Sociol Health Illn",
+      "issn": "0141-9889",
+      "isoabbreviation": "Sociol Health Illn",
+      "essn": "1467-9566",
+      "nlmid": "8205036"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e70102",
+  "abstractText": "For many people living with long COVID (PWLC), self-tracking has emerged as a valuable practice to monitor their illness. An examination of self-tracking practices can, therefore, shed light on the ways in which individuals navigate their care, make sense of their experiences and advocate for their needs. This study investigates how PWLC engage in self-tracking practices and how they utilise and negotiate the data generated. Based on 33 semi-structured interviews with PWLC in the Netherlands, Austria and Switzerland, we found that PWLC use self-tracking to recognise patterns and identify limits, triggers and effective interventions. The insights drawn from this are used to make informed decisions about health management strategies. Yet, self-tracking may also reify symptoms and negatively influence the subjective illness experience, exacerbating stress and anxiety. Although PWLC themselves negotiate and question their tracking data, they find a variety of responses from healthcare providers in clinical interactions. Using the concept of 'trading zone' (Kj\u00e6rulff and Langstrup), we argue that although self-tracking cannot replace treatment and good care, its integration into the healthcare experience as a valuable form of patient knowledge may improve the patient-provider relationship.",
+  "affiliation": "Amsterdam Institute of Global Health and Development, Amsterdam, the Netherlands.",
+  "publicationStatus": "ppublish",
+  "language": "eng",
+  "pubModel": "Print",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "grantId": "ISIDORe / grant agreement 101046133",
+        "agency": "HORIZON EUROPE Research Infrastructures",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Negotiating"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Qualitative Research"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Austria"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Netherlands"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Switzerland",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Interviews as Topic"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "PX",
+              "qualifierName": "psychology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Self\u2010management",
+      "Long Covid",
+      "Post\u2010Covid",
+      "Self\u2010tracking",
+      "Digital Self\u2010tracking Technology",
+      "Illness Monitoring"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1111/1467-9566.70102"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12551799"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12551799?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 1,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by-nc",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-24",
+  "dateOfCreation": "2025-10-24",
+  "firstIndexDate": "2025-10-24",
+  "fullTextReceivedDate": "2025-10-27",
+  "dateOfRevision": "2025-10-27",
+  "firstPublicationDate": "2025-11-01"
+}

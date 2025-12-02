@@ -1,0 +1,91 @@
+{
+  "id": "PMC12585263",
+  "source": "PMC",
+  "pmcid": "PMC12585263",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12585263"
+    ]
+  },
+  "title": "P107\u2003Persistent SARS-COV-2 pneumonia in an immunosuppressed rheumatoid arthritis patient: a diagnostic challenge",
+  "journalInfo": {
+    "issue": "Suppl 1",
+    "volume": "9",
+    "journalIssueId": 4044280,
+    "dateOfPublication": "2025 Nov",
+    "monthOfPublication": 11,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-11-01",
+    "journal": {
+      "title": "Rheumatology advances in practice",
+      "medlineAbbreviation": "Rheumatol Adv Pract",
+      "issn": "2514-1775",
+      "isoabbreviation": "Rheumatol Adv Pract",
+      "essn": "2514-1775",
+      "nlmid": "101736676"
+    }
+  },
+  "pubYear": "2025",
+  "language": "eng",
+  "pubModel": "Undetermined",
+  "pubTypeList": {
+    "pubType": [
+      "Abstract"
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Free",
+        "availabilityCode": "F",
+        "documentStyle": "html",
+        "site": "PubMedCentral",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12585263/?tool=EBI"
+      },
+      {
+        "availability": "Free",
+        "availabilityCode": "F",
+        "documentStyle": "pdf",
+        "site": "PubMedCentral",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12585263/pdf/?tool=EBI"
+      },
+      {
+        "availability": "Free",
+        "availabilityCode": "F",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12585263"
+      },
+      {
+        "availability": "Free",
+        "availabilityCode": "F",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12585263?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "N",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "N",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCreation": "2025-11-07",
+  "firstIndexDate": "2025-11-07",
+  "fullTextReceivedDate": "2025-11-07",
+  "dateOfRevision": "2025-11-07",
+  "electronicPublicationDate": "2025-11-01",
+  "firstPublicationDate": "2025-11-01"
+}

@@ -1,0 +1,305 @@
+{
+  "id": "41146359",
+  "source": "MED",
+  "pmid": "41146359",
+  "pmcid": "PMC12560490",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12560490"
+    ]
+  },
+  "doi": "10.1186/s40780-025-00501-x",
+  "title": "Clinical efficacy of casirivimab and imdevimab in preventing COVID-19 in the Omicron BA.5 subvariant epidemic: a retrospective study.",
+  "authorString": "Ohtani M, Yokoo T, Miyazaki T, Yasuda H, Nishikawa E, Tomida M, Tsukada M, Sato E, Hirayama S, Murakami H, Yoshizawa S, Matsumoto T, Tateda K.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Ohtani M",
+        "firstName": "Mariko",
+        "lastName": "Ohtani",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Pharmacy, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan. mariko.ootani@med.toho-u.ac.jp."
+            },
+            {
+              "affiliation": "Department of Infection Control and Prevention, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan. mariko.ootani@med.toho-u.ac.jp."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Yokoo T",
+        "firstName": "Takuya",
+        "lastName": "Yokoo",
+        "initials": "T",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Pharmacy, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Miyazaki T",
+        "firstName": "Taito",
+        "lastName": "Miyazaki",
+        "initials": "T",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Infection Control and Prevention, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            },
+            {
+              "affiliation": "General Medicine and Emergency Center, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Yasuda H",
+        "firstName": "Hiroshi",
+        "lastName": "Yasuda",
+        "initials": "H",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Pharmacy, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Nishikawa E",
+        "firstName": "Eriko",
+        "lastName": "Nishikawa",
+        "initials": "E",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Infection Control and Prevention, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Tomida M",
+        "firstName": "Manabu",
+        "lastName": "Tomida",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Infection Control and Prevention, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Tsukada M",
+        "firstName": "Mayumi",
+        "lastName": "Tsukada",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Infection Control and Prevention, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Sato E",
+        "firstName": "Emi",
+        "lastName": "Sato",
+        "initials": "E",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Nursing, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Hirayama S",
+        "firstName": "Shinobu",
+        "lastName": "Hirayama",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Pharmacy, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Murakami H",
+        "firstName": "Hinako",
+        "lastName": "Murakami",
+        "initials": "H",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Infection Control and Prevention, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            },
+            {
+              "affiliation": "Department of Clinical Laboratory, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Yoshizawa S",
+        "firstName": "Sadako",
+        "lastName": "Yoshizawa",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Clinical Laboratory, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            },
+            {
+              "affiliation": "Department of Microbiology and Infectious Diseases, Toho University School of Medicine, 5-21-16 Omori-Nishi, Ota-Ku, Tokyo, 143-8540, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Matsumoto T",
+        "firstName": "Takahiro",
+        "lastName": "Matsumoto",
+        "initials": "T",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Pharmacy, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Tateda K",
+        "firstName": "Kazuhiro",
+        "lastName": "Tateda",
+        "initials": "K",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Infection Control and Prevention, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            },
+            {
+              "affiliation": "Department of Clinical Laboratory, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan."
+            },
+            {
+              "affiliation": "Department of Microbiology and Infectious Diseases, Toho University School of Medicine, 5-21-16 Omori-Nishi, Ota-Ku, Tokyo, 143-8540, Japan."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "journalInfo": {
+    "issue": "1",
+    "volume": "11",
+    "journalIssueId": 4029199,
+    "dateOfPublication": "2025 Oct",
+    "monthOfPublication": 10,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-10-01",
+    "journal": {
+      "title": "Journal of pharmaceutical health care and sciences",
+      "medlineAbbreviation": "J Pharm Health Care Sci",
+      "issn": "2055-0294",
+      "isoabbreviation": "J Pharm Health Care Sci",
+      "essn": "2055-0294",
+      "nlmid": "101672177"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "94",
+  "abstractText": "<h4>Background</h4>The neutralizing monoclonal antibody combination of casirivimab and imdevimab (CAS\u2009+\u2009IMD) is the only therapy approved for preventing coronavirus disease 2019 (COVID-19) following exposure to severe acute respiratory syndrome coronavirus 2. However, the efficacy of CAS\u2009+\u2009IMD against Omicron variants remains uncertain, with in vitro studies indicating reduced neutralizing activity. This study aimed to evaluate the clinical efficacy of CAS\u2009+\u2009IMD in preventing COVID-19 among uninfected hospitalized contacts of patients with COVID-19.<h4>Methods</h4>A retrospective chart review was conducted on 154 inpatients exposed to patients with COVID-19 between October and December 2022. Fifty-two uninfected participants who were unvaccinated or immunosuppressed and had risk factors for severe COVID-19 were included. The primary endpoint was the COVID-19 incidence rate. Statistical analyses included the chi-square test, Fisher's exact test, and Mann-Whitney U test, as appropriate. Factors associated with COVID-19 incidence (p\u2009<\u20090.05) in univariate analysis were included in the multivariate logistic regression. Statistical significance was set at p\u2009<\u20090.05.<h4>Results</h4>Among the 52 participants, 14 and 38 were included in the CAS\u2009+\u2009IMD and non-CAS\u2009+\u2009IMD groups, respectively. The COVID-19 incidence rate was significantly lower in the CAS\u2009+\u2009IMD group than in the non-CAS\u2009+\u2009IMD group (14.3% vs. 52.6%, p\u2009=\u20090.013). Multivariate analysis identified CAS\u2009+\u2009IMD administration as significantly associated with reduced COVID-19 incidence (adjusted odds ratio [OR], 0.121; 95% confidence interval [CI], 0.020-0.710; p\u2009=\u20090.019), whereas long-term use of immunosuppressive therapy was associated with increased incidence (adjusted OR, 4.320; 95% CI, 1.090-17.126; p\u2009=\u20090.037).<h4>Conclusions</h4>CAS\u2009+\u2009IMD may be effective for post-exposure prophylaxis of COVID-19 during the Omicron BA.5 subvariant epidemic. However, prudent clinical use should consider the circulating variant profile. Further research is warranted to validate CAS\u2009+\u2009IMD's role in COVID-19 post-exposure prophylaxis.",
+  "affiliation": "Department of Pharmacy, Toho University Omori Medical Center, 6-11-1 Omori-Nishi, Ota-Ku, Tokyo, 143-8541, Japan. mariko.ootani@med.toho-u.ac.jp.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Post-exposure Prophylaxis",
+      "Covid-19",
+      "Casirivimab",
+      "Imdevimab",
+      "Omicron"
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1186/s40780-025-00501-x"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12560490"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12560490?pdf=render"
+      }
+    ]
+  },
+  "commentCorrectionList": {
+    "commentCorrection": [
+      {
+        "id": "PPR1019848",
+        "source": "PPR",
+        "type": "Preprint in",
+        "note": "CrossRef Pre-print loader",
+        "orderIn": 10002
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-28",
+  "dateOfCreation": "2025-10-28",
+  "firstIndexDate": "2025-10-28",
+  "fullTextReceivedDate": "2025-11-03",
+  "dateOfRevision": "2025-10-30",
+  "electronicPublicationDate": "2025-10-27",
+  "firstPublicationDate": "2025-10-27"
+}

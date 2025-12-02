@@ -1,0 +1,124 @@
+{
+  "id": "PPR1124202",
+  "source": "PPR",
+  "doi": "10.1101/2025.11.21.689519",
+  "title": "Increased mannosylation of extracellular vesicles in Long COVID plasma provides a potential therapeutic target for  <i>Galanthus nivalis</i>  agglutinin (GNA) affinity resin",
+  "authorString": "Pesqueira Sanchez MA, de Necochea Campion R, Dalhuisen T, Fehrman EA, Chhabra PS, Kelly JD, Martin JN, Deeks SG, Henrich TJ, Peluso MJ, LaRosa SP.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Pesqueira Sanchez MA",
+        "firstName": "Miguel",
+        "lastName": "Pesqueira Sanchez",
+        "initials": "MA"
+      },
+      {
+        "fullName": "de Necochea Campion R",
+        "firstName": "Rosalia",
+        "lastName": "de Necochea Campion",
+        "initials": "R"
+      },
+      {
+        "fullName": "Dalhuisen T",
+        "firstName": "Thomas",
+        "lastName": "Dalhuisen",
+        "initials": "T"
+      },
+      {
+        "fullName": "Fehrman EA",
+        "firstName": "Emily",
+        "lastName": "Fehrman",
+        "initials": "EA"
+      },
+      {
+        "fullName": "Chhabra PS",
+        "firstName": "Pahul",
+        "lastName": "Chhabra",
+        "initials": "PS"
+      },
+      {
+        "fullName": "Kelly JD",
+        "firstName": "Daniel",
+        "lastName": "Kelly",
+        "initials": "JD"
+      },
+      {
+        "fullName": "Martin JN",
+        "firstName": "Jeffrey",
+        "lastName": "Martin",
+        "initials": "JN"
+      },
+      {
+        "fullName": "Deeks SG",
+        "firstName": "Steven",
+        "lastName": "Deeks",
+        "initials": "SG"
+      },
+      {
+        "fullName": "Henrich TJ",
+        "firstName": "Timothy",
+        "lastName": "Henrich",
+        "initials": "TJ"
+      },
+      {
+        "fullName": "Peluso MJ",
+        "firstName": "Michael",
+        "lastName": "Peluso",
+        "initials": "MJ"
+      },
+      {
+        "fullName": "LaRosa SP",
+        "firstName": "Steven",
+        "lastName": "LaRosa",
+        "initials": "SP"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "pubYear": "2025",
+  "abstractText": "There is no proven therapy for Long COVID, a post-acute illness characterized by a myriad of diverse symptoms including fatigue, dyspnea, and brain fog following SARS-CoV-2 infection. Extracellular vesicles (EVs) have been implicated in Long COVID pathogenesis by promoting viral and inflammatory signaling with their molecular cargo. In this study, we investigated whether EV abundance and glycome characteristics are altered in plasma from people with Long COVID and whether they can be targeted for removal using a glycan-binding affinity resin. Large (100\u2212500 nm) and small (40\u2212200 nm) EVs were isolated from plasma of participants in the post-acute phase of COVID-19 and analyzed by nanoparticle flow cytometry to measure concentration and glycan characteristics. Plasma of those with Long COVID contained elevated levels of both large and small EVs, and mannose-positive large EVs were significantly increased in comparison to recovered controls (p < 0.05). EV capture assays using  Galanthus nivalis agglutinin (GNA) affinity resin demonstrated small EV removal positively correlated with mannose-positive EV abundance (r = 0.341, p < 0.05). NanoString analyses identified seven EV-associated miRNAs significantly depleted by GNA affinity resin treatment of plasma. PROGENy pathway inference of validated miRNA-mRNA interactions suggests these reductions may lead to a downregulation of JAK-STAT signaling and upregulation of Estrogen, VEGF, and PI3K pathways, resulting in a favorable rebalancing of immune and tissue-repair networks. These findings reveal specific glycome EV-miRNA cargo signatures in Long COVID and the potential clinical benefits of a lectin capture therapeutic strategy to remove these pathogenic vesicles and their inflammatory cargo.",
+  "pubTypeList": {
+    "pubType": [
+      "Preprint"
+    ]
+  },
+  "bookOrReportDetails": {
+    "publisher": "bioRxiv",
+    "yearOfPublication": 2025
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Free",
+        "availabilityCode": "F",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1101/2025.11.21.689519"
+      }
+    ]
+  },
+  "isOpenAccess": "N",
+  "inEPMC": "N",
+  "inPMC": "N",
+  "hasPDF": "N",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "N",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCreation": "2025-11-23",
+  "firstIndexDate": "2025-11-23",
+  "firstPublicationDate": "2025-11-21"
+}

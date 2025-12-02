@@ -1,0 +1,189 @@
+{
+  "id": "41103278",
+  "source": "MED",
+  "pmid": "41103278",
+  "pmcid": "PMC12523554",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12523554"
+    ]
+  },
+  "doi": "10.2147/jir.s554898",
+  "title": "Revisiting Janus Kinase Inhibitors in Hospitalized COVID-19: Evidence for Baricitinib's Superiority and the Absence of a Class Effect.",
+  "authorString": "Gu L, Lin J, Yue J, Liu Z, Huang JA.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Gu L",
+        "firstName": "Lei",
+        "lastName": "Gu",
+        "initials": "L",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Pulmonary and Critical Care Medicine, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, People's Republic of China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Lin J",
+        "firstName": "Jing",
+        "lastName": "Lin",
+        "initials": "J",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-6368-6455"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Infectious Diseases, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, People's Republic of China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Yue J",
+        "firstName": "Jian",
+        "lastName": "Yue",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "The People's Hospital of Gaozhou, Gaozhou, Guangdong, People's Republic of China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Liu Z",
+        "firstName": "Zeyi",
+        "lastName": "Liu",
+        "initials": "Z",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Pulmonary and Critical Care Medicine, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, People's Republic of China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Huang JA",
+        "firstName": "Jian-An",
+        "lastName": "Huang",
+        "initials": "JA",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Pulmonary and Critical Care Medicine, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, People's Republic of China."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0002-6368-6455"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "volume": "18",
+    "journalIssueId": 3884200,
+    "dateOfPublication": "2025 ",
+    "monthOfPublication": 0,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-01-01",
+    "journal": {
+      "title": "Journal of inflammation research",
+      "medlineAbbreviation": "J Inflamm Res",
+      "issn": "1178-7031",
+      "isoabbreviation": "J Inflamm Res",
+      "essn": "1178-7031",
+      "nlmid": "101512684"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "14171-14173",
+  "abstractText": "Janus kinase (JAK) inhibitors, developed for autoimmune diseases, have been repurposed as potential therapies for severe COVID-19. Growing evidence indicates that their clinical utility is heterogeneous and cannot be generalized as a class effect. In this Perspective, we focus on the clinical evidence base for JAK inhibitors in COVID-19 and emphasize baricitinib as the the only agent with consistent mortality benefit and highlights the need for agent-specific recommendations and individualized treatment strategies.",
+  "affiliation": "Department of Pulmonary and Critical Care Medicine, The First Affiliated Hospital of Soochow University, Suzhou, Jiangsu, People's Republic of China.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "discussion",
+      "Journal Article"
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Immunomodulation",
+      "Ruxolitinib",
+      "Janus Kinase Inhibitors",
+      "Tofacitinib",
+      "Baricitinib",
+      "Covid-19"
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.2147/JIR.S554898"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12523554"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12523554?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by-nc",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-17",
+  "dateOfCreation": "2025-10-17",
+  "firstIndexDate": "2025-10-17",
+  "fullTextReceivedDate": "2025-10-21",
+  "dateOfRevision": "2025-10-19",
+  "electronicPublicationDate": "2025-10-11",
+  "firstPublicationDate": "2025-10-11"
+}

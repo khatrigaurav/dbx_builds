@@ -1,0 +1,358 @@
+{
+  "id": "41218055",
+  "source": "MED",
+  "pmid": "41218055",
+  "pmcid": "PMC12604793",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12604793"
+    ]
+  },
+  "doi": "10.1371/journal.pone.0331293",
+  "title": "Effects of the ECHO tele-mentoring program on Long COVID management in health facilities in India: A mixed-methods evaluation.",
+  "authorString": "Panda R, Mukherjee R, Singh K, Lahoti S, Rai AK, Verma A, Bhalla S, Chandwani H, Rai K, Mohapatra A.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Panda R",
+        "firstName": "Rajmohan",
+        "lastName": "Panda",
+        "initials": "R",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Independent Consultant, ECHO India, New Delhi, India."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Mukherjee R",
+        "firstName": "Ritika",
+        "lastName": "Mukherjee",
+        "initials": "R",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Generating Research Insights for Development (GRID) Council, Noida, Uttar Pradesh, India."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Singh K",
+        "firstName": "Kalpana",
+        "lastName": "Singh",
+        "initials": "K",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Consultant Biostatistics, ECHO India, New Delhi, India."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Lahoti S",
+        "firstName": "Supriya",
+        "lastName": "Lahoti",
+        "initials": "S",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-6826-5273"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Independent Consultant, ECHO India, New Delhi, India."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Rai AK",
+        "firstName": "Apoorva Karan",
+        "lastName": "Rai",
+        "initials": "AK",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Extension for Community Healthcare Outcomes (ECHO) India, New Delhi, India."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Verma A",
+        "firstName": "Amit",
+        "lastName": "Verma",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Extension for Community Healthcare Outcomes (ECHO) India, New Delhi, India."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Bhalla S",
+        "firstName": "Sandeep",
+        "lastName": "Bhalla",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Extension for Community Healthcare Outcomes (ECHO) India, New Delhi, India."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Chandwani H",
+        "firstName": "Haresh",
+        "lastName": "Chandwani",
+        "initials": "H",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Extension for Community Healthcare Outcomes (ECHO) India, New Delhi, India."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Rai K",
+        "firstName": "Kumud",
+        "lastName": "Rai",
+        "initials": "K",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Extension for Community Healthcare Outcomes (ECHO) India, New Delhi, India."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Mohapatra A",
+        "firstName": "Archisman",
+        "lastName": "Mohapatra",
+        "initials": "A",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-3095-2526"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Generating Research Insights for Development (GRID) Council, Noida, Uttar Pradesh, India."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-6826-5273"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-3095-2526"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "11",
+    "volume": "20",
+    "journalIssueId": 4041491,
+    "dateOfPublication": "2025 ",
+    "monthOfPublication": 0,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-01-01",
+    "journal": {
+      "title": "PloS one",
+      "medlineAbbreviation": "PLoS One",
+      "issn": "1932-6203",
+      "isoabbreviation": "PLoS One",
+      "essn": "1932-6203",
+      "nlmid": "101285081"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e0331293",
+  "abstractText": "<h4>Background</h4>Long COVID emerged as a significant long-term consequence of COVID-19 characterized by persistent symptoms post-infection. ECHO India initiated a training program across four states to enhance the capacity of medical officers (MOs) to manage long COVID syndrome. This study was undertaken to evaluate the effect of the ECHO tele-mentoring program on long COVID management in public health facilities in terms of change in knowledge, competence, and performance of the trained MOs.<h4>Methods</h4>Mixed-methods approaches were adopted. Moore's Expanded Outcomes Framework was used for the study. Differences between the pre- and post-interventions were used to populate levels 1-5 of the framework with the trained MOs. This was supplemented by key informant interviews with stakeholders, i.e., trained MOs, hub leaders, and trainers. Level 6 was evaluated with patients seeking services for long COVID from the trained MOs. through quantitative exit interviews and in-depth interviews in two intervention states.<h4>Results</h4>The pre-post analyses were conducted on a sample size of 204 MOs; a total of 420 beneficiary patients were surveyed. In-depth interviews were done with another 20 patients to measure satisfaction. The findings reveal a significant increase in the MOs' knowledge, learning, and competence. MOs expressed appreciation for the interactive nature of the tele-mentoring sessions and reported increased confidence in dealing with long COVID cases. The training improved the MOs' focus on mental health as a treatment strategy for long COVID. Patients interviewed expressed satisfaction with the care provided by the MOs, in particular with communication skills and the comprehensive approach adopted for long COVID management. They valued the information, the thorough examinations, and the recommendations given by the trained MOs.<h4>Conclusion</h4>The ECHO tele-mentoring program improved the knowledge and skills of primary care medical officers and also resulted in patient satisfaction.",
+  "affiliation": "Independent Consultant, ECHO India, New Delhi, India.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "agency": "Extension for Community Healthcare Outcomes",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Telemedicine"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Health Facilities"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "India",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Mentoring",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "MT",
+              "qualifierName": "methods",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TH",
+              "qualifierName": "therapy",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IP",
+              "qualifierName": "isolation & purification",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1371/journal.pone.0331293"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12604793"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12604793?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-11-12",
+  "dateOfCreation": "2025-11-11",
+  "firstIndexDate": "2025-11-11",
+  "fullTextReceivedDate": "2025-11-13",
+  "dateOfRevision": "2025-11-14",
+  "electronicPublicationDate": "2025-11-11",
+  "firstPublicationDate": "2025-11-11"
+}

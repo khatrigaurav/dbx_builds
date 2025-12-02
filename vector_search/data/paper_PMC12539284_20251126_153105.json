@@ -1,0 +1,315 @@
+{
+  "id": "41117750",
+  "source": "MED",
+  "pmid": "41117750",
+  "pmcid": "PMC12539284",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12539284"
+    ]
+  },
+  "doi": "10.1111/hex.70459",
+  "title": "Trust in Transition: Exploring Changing Trust in Vaccination in the Context of Long Covid in the United Kingdom.",
+  "authorString": "Dowrick A, MacLean A, Ziebland S, Greenhalgh T.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Dowrick A",
+        "firstName": "Anna",
+        "lastName": "Dowrick",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University of Oxford, Oxford, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "MacLean A",
+        "firstName": "Alice",
+        "lastName": "MacLean",
+        "initials": "A",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-9650-2376"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University of Stirling, Stirling, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Ziebland S",
+        "firstName": "Sue",
+        "lastName": "Ziebland",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University of Oxford, Oxford, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Greenhalgh T",
+        "firstName": "Trish",
+        "lastName": "Greenhalgh",
+        "initials": "T",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-2369-8088"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University of Oxford, Oxford, UK."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0002-9650-2376"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-2369-8088"
+      }
+    ]
+  },
+  "journalInfo": {
+    "issue": "5",
+    "volume": "28",
+    "journalIssueId": 4006978,
+    "dateOfPublication": "2025 Oct",
+    "monthOfPublication": 10,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-10-01",
+    "journal": {
+      "title": "Health expectations : an international journal of public participation in health care and health policy",
+      "medlineAbbreviation": "Health Expect",
+      "issn": "1369-6513",
+      "isoabbreviation": "Health Expect",
+      "essn": "1369-7625",
+      "nlmid": "9815926"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e70459",
+  "abstractText": "<h4>Background</h4>New drugs and vaccines usually come with the promise and hope of benefit. We explore stories about the variable and sometimes disappointing effects of Covid-19 vaccines in the context of post-Covid-19 syndrome ('long Covid'), aiming to understand how people with long Covid made sense of unexpected vaccine responses and how these experiences impacted their trust in vaccination.<h4>Methods</h4>We carried out 33 interviews with people who described both positive and negative unexpected vaccine experiences connected to long Covid.<h4>Results</h4>Trust and distrust in the multiple potential roles of Covid vaccines in relation to long Covid impacted perspectives on future vaccine uptake. Some participants feared being labelled as anti-vaxx if they discussed unexpected vaccine impacts. Disengagement by healthcare professionals in discussions about the possibility of individual vaccine harms had the inverse consequence of limiting uptake of further Covid vaccines. Distrust could also grow in relation to unrealised benefits of vaccination-in this case, the official role as protection from severe infection and the unofficial role of treatment. Participants who trusted vaccines as a form of treatment struggled to access them for this use.<h4>Conclusion</h4>The gap between scientific discourse-which recognised potential benefits and potential harms of vaccines in relation to long Covid-and public health discourse, which tended to focus on protection from infection, contributed to difficulties in maintaining trust after unexpected vaccine experiences. Further research to better characterise who is likely to benefit from vaccination and who might be at risk of worsening long Covid symptoms would enable better conversations between patients and healthcare professionals when making decisions about further vaccination.<h4>Patient or public contribution</h4>The study was guided by a patient and public involvement and engagement (PPIE) group from project development through to dissemination. People with long Covid supported recruitment strategies, informed the development of topic guides, reviewed findings and offered suggestions for dissemination. Study participants were also invited to review and feedback on findings.",
+  "affiliation": "University of Oxford, Oxford, UK.",
+  "publicationStatus": "ppublish",
+  "language": "eng",
+  "pubModel": "Print",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "agency": "This work is based on independent research funded by the National Institute for Health and Care Research (NIHR) (COV-LT2-0005), the Scottish Government Chief Scientist Office (reference COV/LTE/20/04), and Balvi Philanthropic Fund.",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Vaccination",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "PX",
+              "qualifierName": "psychology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Trust",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "PX",
+              "qualifierName": "psychology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Qualitative Research"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Interviews as Topic"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "United Kingdom"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "PC",
+              "qualifierName": "prevention & control",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "PX",
+              "qualifierName": "psychology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19 Vaccines",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "AD",
+              "qualifierName": "administration & dosage",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TU",
+              "qualifierName": "therapeutic use",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Post-Acute COVID-19 Syndrome"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Vaccines",
+      "Innovation",
+      "TRUST",
+      "UK",
+      "Narratives",
+      "Futures",
+      "Covid\u201019",
+      "Long Covid"
+    ]
+  },
+  "chemicalList": {
+    "chemical": [
+      {
+        "name": "COVID-19 Vaccines",
+        "registryNumber": "0"
+      }
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1111/hex.70459"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12539284"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12539284?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-21",
+  "dateOfCreation": "2025-10-21",
+  "firstIndexDate": "2025-10-21",
+  "fullTextReceivedDate": "2025-10-23",
+  "dateOfRevision": "2025-10-24",
+  "firstPublicationDate": "2025-10-01"
+}

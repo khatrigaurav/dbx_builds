@@ -1,0 +1,448 @@
+{
+  "id": "41202111",
+  "source": "MED",
+  "pmid": "41202111",
+  "pmcid": "PMC12594341",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12594341"
+    ]
+  },
+  "doi": "10.1371/journal.pone.0336015",
+  "title": "SARS-CoV-2 spike protein causes synaptic dysfunction and p-tau and \u03b1-synuclein aggregation leading cognitive impairment: The protective role of metformin.",
+  "authorString": "Lee HK, Choi JY, Park JH, Chang MH, Park JH, Koh YH.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Lee HK",
+        "firstName": "Hye-Kyung",
+        "lastName": "Lee",
+        "initials": "HK",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-8633-6124"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Division of Brain Diseases Research, Department of Chronic Disease Convergence Research, Korea National Institute of Health, Cheongju-si, Republic of Korea."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Choi JY",
+        "firstName": "Ji Young",
+        "lastName": "Choi",
+        "initials": "JY",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Division of Brain Diseases Research, Department of Chronic Disease Convergence Research, Korea National Institute of Health, Cheongju-si, Republic of Korea."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Park JH",
+        "firstName": "Jung Hyun",
+        "lastName": "Park",
+        "initials": "JH",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Division of Brain Diseases Research, Department of Chronic Disease Convergence Research, Korea National Institute of Health, Cheongju-si, Republic of Korea."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Chang MH",
+        "firstName": "Moon Han",
+        "lastName": "Chang",
+        "initials": "MH",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Division of Brain Diseases Research, Department of Chronic Disease Convergence Research, Korea National Institute of Health, Cheongju-si, Republic of Korea."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Park JH",
+        "firstName": "Jung Ho",
+        "lastName": "Park",
+        "initials": "JH",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Nexmos Inc., Yongin-si, Gyeonggi-do, Republic of Korea."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Koh YH",
+        "firstName": "Young Ho",
+        "lastName": "Koh",
+        "initials": "YH",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-9934-5321"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Division of Brain Diseases Research, Department of Chronic Disease Convergence Research, Korea National Institute of Health, Cheongju-si, Republic of Korea."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-9934-5321"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-8633-6124"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics",
+      "supporting_data"
+    ]
+  },
+  "journalInfo": {
+    "issue": "11",
+    "volume": "20",
+    "journalIssueId": 4041491,
+    "dateOfPublication": "2025 ",
+    "monthOfPublication": 0,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-01-01",
+    "journal": {
+      "title": "PloS one",
+      "medlineAbbreviation": "PLoS One",
+      "issn": "1932-6203",
+      "isoabbreviation": "PLoS One",
+      "essn": "1932-6203",
+      "nlmid": "101285081"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e0336015",
+  "abstractText": "Patients recovering from post-coronavirus disease 2019 (COVID-19) often experience cognitive dysfunction, including difficulties with focusing, conversation, or memory issues, which can persist for weeks or even months after infection. Although the persistence of the SARS-CoV-2 spike protein has been reported in both the brain and serum, and is thought to potentially contribute to the long-term effects of SARS-CoV-2 infection on the brain, the underlying mechanisms leading to cognitive dysfunction remain unclear. This study investigates the molecular mechanisms by which the SARS-CoV-2 S1 protein (hereafter S1) induces cognitive impairment and explores the therapeutic potential of metformin in mitigating these effects. We demonstrate that intranasally administered S1 quickly entered the hippocampus and was associated with cognitive impairment by 6 weeks post-injection. Transcriptomic analysis of hippocampal tissue revealed early alterations in gene expression associated with synaptic function. We observed that the expression of hypoxia-responsive genes was also altered, suggesting the involvement of HIF-1\u03b1 signaling. Further analysis confirmed that S1 stabilized the HIF-1\u03b1 protein in a hypoxia-independent manner, and siRNA-mediated knockdown of HIF-1\u03b1 restored synaptic gene expression, including GRIN2A, SHANK1, and JPH3. By 6 weeks post-injection, hippocampal neuronal loss was accompanied by the accumulation of phosphorylated tau (p-tau) and aggregated \u03b1-synuclein. Notably, treatment with metformin rescued synaptic gene expression and attenuated p-tau and \u03b1-synuclein aggregation. These findings suggest that S1 disrupts synaptic homeostasis and promotes neurodegenerative processes, and that metformin may serve as a potential therapeutic strategy to mitigate long-term cognitive sequelae of COVID-19.",
+  "affiliation": "Division of Brain Diseases Research, Department of Chronic Disease Convergence Research, Korea National Institute of Health, Cheongju-si, Republic of Korea.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Hippocampus",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "DE",
+              "qualifierName": "drug effects",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "ME",
+              "qualifierName": "metabolism",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "PA",
+              "qualifierName": "pathology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Synapses",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "DE",
+              "qualifierName": "drug effects",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "ME",
+              "qualifierName": "metabolism",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "PA",
+              "qualifierName": "pathology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Animals"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Mice"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Metformin",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "PD",
+              "qualifierName": "pharmacology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TU",
+              "qualifierName": "therapeutic use",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "tau Proteins",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "ME",
+              "qualifierName": "metabolism",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Hypoxia-Inducible Factor 1, alpha Subunit",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "GE",
+              "qualifierName": "genetics",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "ME",
+              "qualifierName": "metabolism",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "alpha-Synuclein",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "ME",
+              "qualifierName": "metabolism",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Spike Glycoprotein, Coronavirus",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "ME",
+              "qualifierName": "metabolism",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Cognitive Dysfunction",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "DT",
+              "qualifierName": "drug therapy",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "ET",
+              "qualifierName": "etiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "ME",
+              "qualifierName": "metabolism",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "VI",
+              "qualifierName": "virology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "ME",
+              "qualifierName": "metabolism",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "VI",
+              "qualifierName": "virology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "ME",
+              "qualifierName": "metabolism",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "chemicalList": {
+    "chemical": [
+      {
+        "name": "tau Proteins",
+        "registryNumber": "0"
+      },
+      {
+        "name": "hypoxia-inducible factor 1, alpha subunit",
+        "registryNumber": "0"
+      },
+      {
+        "name": "alpha-Synuclein",
+        "registryNumber": "0"
+      },
+      {
+        "name": "Metformin",
+        "registryNumber": "9100L32L2N"
+      },
+      {
+        "name": "Spike Glycoprotein, Coronavirus",
+        "registryNumber": "0"
+      },
+      {
+        "name": "spike protein, SARS-CoV-2",
+        "registryNumber": "0"
+      }
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1371/journal.pone.0336015"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12594341"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12594341?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "Y",
+  "tmAccessionTypeList": {
+    "accessionType": [
+      "go"
+    ]
+  },
+  "dateOfCompletion": "2025-11-07",
+  "dateOfCreation": "2025-11-07",
+  "firstIndexDate": "2025-11-07",
+  "fullTextReceivedDate": "2025-11-10",
+  "dateOfRevision": "2025-11-10",
+  "electronicPublicationDate": "2025-11-07",
+  "firstPublicationDate": "2025-11-07"
+}

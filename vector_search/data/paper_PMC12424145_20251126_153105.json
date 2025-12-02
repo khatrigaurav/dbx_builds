@@ -1,0 +1,162 @@
+{
+  "id": "40852766",
+  "source": "MED",
+  "pmid": "40852766",
+  "pmcid": "PMC12424145",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12424145"
+    ]
+  },
+  "doi": "10.1080/22221751.2025.2552712",
+  "title": "What could cause the reactivation of Epstein-Barr virus in individuals with long COVID.",
+  "authorString": "Ling J, Li J.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Ling J",
+        "firstName": "Jiaxin",
+        "lastName": "Ling",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden."
+            },
+            {
+              "affiliation": "Department of Medical Biochemistry and Microbiology, Zoonosis Science Center, Uppsala University, Uppsala, Sweden."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Li J",
+        "firstName": "Jinlin",
+        "lastName": "Li",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden."
+            },
+            {
+              "affiliation": "Department of Medical Biochemistry and Microbiology, Zoonosis Science Center, Uppsala University, Uppsala, Sweden."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "1",
+    "volume": "14",
+    "journalIssueId": 3867837,
+    "dateOfPublication": "2025 Dec",
+    "monthOfPublication": 12,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-12-01",
+    "journal": {
+      "title": "Emerging microbes & infections",
+      "medlineAbbreviation": "Emerg Microbes Infect",
+      "issn": "2222-1751",
+      "isoabbreviation": "Emerg Microbes Infect",
+      "essn": "2222-1751",
+      "nlmid": "101594885"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "2552712",
+  "affiliation": "Department of Medical Biochemistry and Microbiology, Uppsala University, Uppsala, Sweden.",
+  "publicationStatus": "ppublish",
+  "language": "eng",
+  "pubModel": "Print-Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "agency": "Vetenskapsr\u00e5det",
+        "orderIn": 0
+      },
+      {
+        "agency": "\u00c5ke Wibergs stiftelse",
+        "orderIn": 0
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Herpesvirus",
+      "EBV",
+      "Covid-19",
+      "Sars-cov-2",
+      "Long Covid"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1080/22221751.2025.2552712"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12424145"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12424145?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCreation": "2025-08-25",
+  "firstIndexDate": "2025-08-25",
+  "fullTextReceivedDate": "2025-09-13",
+  "dateOfRevision": "2025-09-13",
+  "electronicPublicationDate": "2025-09-10",
+  "firstPublicationDate": "2025-09-10"
+}

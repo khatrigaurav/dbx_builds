@@ -1,0 +1,383 @@
+{
+  "id": "35632649",
+  "source": "MED",
+  "pmid": "35632649",
+  "pmcid": "PMC9147901",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC9147901"
+    ]
+  },
+  "doi": "10.3390/v14050907",
+  "title": "Epipharyngeal Abrasive Therapy (EAT) Has Potential as a Novel Method for Long COVID Treatment.",
+  "authorString": "Imai K, Yamano T, Nishi S, Nishi R, Nishi T, Tanaka H, Tsunoda T, Yoshimoto S, Tanaka A, Hiromatsu K, Shirasawa S, Nakagawa T, Nishi K.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Imai K",
+        "firstName": "Kazuaki",
+        "lastName": "Imai",
+        "initials": "K",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Mirai Clinic, Fukuoka 812-0013, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Yamano T",
+        "firstName": "Takafumi",
+        "lastName": "Yamano",
+        "initials": "T",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Section of Otolaryngology, Department of Medicine, Fukuoka Dental College, Fukuoka 814-0193, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Nishi S",
+        "firstName": "Soichiro",
+        "lastName": "Nishi",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Nishi Otolaryngology Clinic, Fukuoka 814-0031, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Nishi R",
+        "firstName": "Ryushiro",
+        "lastName": "Nishi",
+        "initials": "R",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Nishi Otolaryngology Clinic, Fukuoka 814-0031, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Nishi T",
+        "firstName": "Tatsuro",
+        "lastName": "Nishi",
+        "initials": "T",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Nishi Otolaryngology Clinic, Fukuoka 814-0031, Japan."
+            },
+            {
+              "affiliation": "Department of Otolaryngology, Faculty of Medicine, Fukuoka University, Fukuoka 814-0180, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Tanaka H",
+        "firstName": "Hiroaki",
+        "lastName": "Tanaka",
+        "initials": "H",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Tanaka Hiroaki Clinic, Fukuoka 814-0142, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Tsunoda T",
+        "firstName": "Toshiyuki",
+        "lastName": "Tsunoda",
+        "initials": "T",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Cell Biology, Faculty of Medicine, Fukuoka University, Fukuoka 814-0180, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Yoshimoto S",
+        "firstName": "Shohei",
+        "lastName": "Yoshimoto",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Section of Pathology, Department of Morphological Biology, Division of Biomedical Sciences, Fukuoka Dental College, Fukuoka 814-0193, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Tanaka A",
+        "firstName": "Ayaki",
+        "lastName": "Tanaka",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Tanaka ENT Clinic, Osaka 553-0006, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Hiromatsu K",
+        "firstName": "Kenji",
+        "lastName": "Hiromatsu",
+        "initials": "K",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-3496-6087"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Microbiology and Immunology, Faculty of Medicine, Fukuoka University, Fukuoka 814-0180, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Shirasawa S",
+        "firstName": "Senji",
+        "lastName": "Shirasawa",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Cell Biology, Faculty of Medicine, Fukuoka University, Fukuoka 814-0180, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Nakagawa T",
+        "firstName": "Takashi",
+        "lastName": "Nakagawa",
+        "initials": "T",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Otorhinolaryngology, Graduate School of Medical Sciences, Kyushu University, Fukuoka 812-8582, Japan."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Nishi K",
+        "firstName": "Kensuke",
+        "lastName": "Nishi",
+        "initials": "K",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Section of Otolaryngology, Department of Medicine, Fukuoka Dental College, Fukuoka 814-0193, Japan."
+            },
+            {
+              "affiliation": "Nishi Otolaryngology Clinic, Fukuoka 814-0031, Japan."
+            },
+            {
+              "affiliation": "Department of Otolaryngology, Faculty of Medicine, Fukuoka University, Fukuoka 814-0180, Japan."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0002-3496-6087"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-4052-0855"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0003-1562-9717"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "5",
+    "volume": "14",
+    "journalIssueId": 3364924,
+    "dateOfPublication": "2022 Apr",
+    "monthOfPublication": 4,
+    "yearOfPublication": 2022,
+    "printPublicationDate": "2022-04-01",
+    "journal": {
+      "title": "Viruses",
+      "medlineAbbreviation": "Viruses",
+      "issn": "1999-4915",
+      "isoabbreviation": "Viruses",
+      "essn": "1999-4915",
+      "nlmid": "101509722"
+    }
+  },
+  "pubYear": "2022",
+  "pageInfo": "907",
+  "abstractText": "COVID-19 often causes sequelae after initial recovery, referred to collectively as long COVID. Long COVID is considered to be caused by the persistence of chronic inflammation after acute COVID-19 infection. We found that all long COVID patients had residual inflammation in the epipharynx, an important site of coronavirus replication, and some long COVID symptoms are similar to those associated with chronic epipharyngitis. Epipharyngeal abrasive therapy (EAT) is a treatment for chronic epipharyngitis in Japan that involves applying zinc chloride as an anti-inflammatory agent to the epipharyngeal mucosa. In this study, we evaluated the efficacy of EAT for the treatment of long COVID. The subjects in this study were 58 patients with long COVID who were treated with EAT in the outpatient department once a week for one month (mean age = 38.4 \u00b1 12.9 years). The intensities of fatigue, headache, and attention disorder, which are reported as frequent symptoms of long COVID, were assessed before and after EAT using the visual analog scale (VAS). EAT reduced inflammation in the epipharynx and significantly improved the intensity of fatigue, headache, and attention disorder, which may be related to myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS). These results suggest that EAT has potential as a novel method for long COVID treatment.",
+  "affiliation": "Mirai Clinic, Fukuoka 812-0013, Japan.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "Research Support, Non-U.S. Gov't",
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "agency": "Soda Toyoji Memorial Foundation",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Fatigue Syndrome, Chronic"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Headache"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Inflammation"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TH",
+              "qualifierName": "therapy",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Post-Acute COVID-19 Syndrome"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Myalgic Encephalomyelitis/chronic Fatigue Syndrome (Me/cfs)",
+      "Chronic Epipharyngitis",
+      "Epipharyngeal Abrasive Therapy (Eat)",
+      "Long Covid"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Unpaywall",
+        "url": "https://www.mdpi.com/1999-4915/14/5/907/pdf?version=1651055180"
+      },
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.3390/v14050907"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC9147901"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC9147901?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 20,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2022-05-31",
+  "dateOfCreation": "2022-05-28",
+  "firstIndexDate": "2022-05-29",
+  "fullTextReceivedDate": "2022-05-30",
+  "dateOfRevision": "2022-12-07",
+  "electronicPublicationDate": "2022-04-27",
+  "firstPublicationDate": "2022-04-27"
+}

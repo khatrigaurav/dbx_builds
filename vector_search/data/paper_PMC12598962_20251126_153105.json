@@ -1,0 +1,590 @@
+{
+  "id": "41213692",
+  "source": "MED",
+  "pmid": "41213692",
+  "pmcid": "PMC12598962",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12598962"
+    ]
+  },
+  "doi": "10.1136/bmjopen-2025-102112",
+  "title": "Pursuing Reduction in Fatigue After COVID-19 via Exercise and Rehabilitation (PREFACER): a protocol for a randomised feasibility trial.",
+  "authorString": "Billias N, Pouliopoulou DV, Lawson A, D'Alessandro V, Bryant DM, Peters S, Rushton AB, Miller E, Brunton L, McGuire S, Nicholson M, Birmingham TB, MacDermid JC, Quinn KL, Razak F, Goulding S, Galiatsatos P, Saunders E, Marsh J, Pereira TV, Bobos P.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Billias N",
+        "firstName": "Nicole",
+        "lastName": "Billias",
+        "initials": "N",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0009-0009-8479-3530"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Lawson Research Institute, London, Ontario, Canada nbillias@uwo.ca."
+            },
+            {
+              "affiliation": "St. Joseph's Health Care London, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "Bone and Joint Institute, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Pouliopoulou DV",
+        "firstName": "Dimitra V",
+        "lastName": "Pouliopoulou",
+        "initials": "DV",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0009-0000-0730-0610"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "Bone and Joint Institute, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Lawson A",
+        "firstName": "Arden",
+        "lastName": "Lawson",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Lawson Research Institute, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "St. Joseph's Health Care London, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "D'Alessandro V",
+        "firstName": "Victoria",
+        "lastName": "D'Alessandro",
+        "initials": "V",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "Bone and Joint Institute, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Bryant DM",
+        "firstName": "Dianne M",
+        "lastName": "Bryant",
+        "initials": "DM",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "Bone and Joint Institute, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Peters S",
+        "firstName": "Sue",
+        "lastName": "Peters",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "Bone and Joint Institute, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Rushton AB",
+        "firstName": "Alison B",
+        "lastName": "Rushton",
+        "initials": "AB",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-8114-7669"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "Bone and Joint Institute, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Miller E",
+        "firstName": "Erin",
+        "lastName": "Miller",
+        "initials": "E",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Brunton L",
+        "firstName": "Laura",
+        "lastName": "Brunton",
+        "initials": "L",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "McGuire S",
+        "firstName": "Shannon",
+        "lastName": "McGuire",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "St. Joseph's Health Care London, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Nicholson M",
+        "firstName": "Michael",
+        "lastName": "Nicholson",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "St. Joseph's Health Care London, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Birmingham TB",
+        "firstName": "Trevor B",
+        "lastName": "Birmingham",
+        "initials": "TB",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "Bone and Joint Institute, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "MacDermid JC",
+        "firstName": "Joy C",
+        "lastName": "MacDermid",
+        "initials": "JC",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-9311-7379"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Lawson Research Institute, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "St. Joseph's Health Care London, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "Bone and Joint Institute, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Quinn KL",
+        "firstName": "Kieran L",
+        "lastName": "Quinn",
+        "initials": "KL",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-1681-5170"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Razak F",
+        "firstName": "Fahad",
+        "lastName": "Razak",
+        "initials": "F",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Temerty Faculty of Medicine, University of Toronto, Toronto, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Goulding S",
+        "firstName": "Susie",
+        "lastName": "Goulding",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "COVID Long-Haulers Support Group Canada, Oakville, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Galiatsatos P",
+        "firstName": "Panagis",
+        "lastName": "Galiatsatos",
+        "initials": "P",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Medicine, Johns Hopkins University, Baltimore, Maryland, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Saunders E",
+        "firstName": "Emily",
+        "lastName": "Saunders",
+        "initials": "E",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Marsh J",
+        "firstName": "Jacquelyn",
+        "lastName": "Marsh",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Lawson Research Institute, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "Bone and Joint Institute, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Pereira TV",
+        "firstName": "Tiago V",
+        "lastName": "Pereira",
+        "initials": "TV",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Nuffield Department of Population Health, University of Oxford, Oxford, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Bobos P",
+        "firstName": "Pavlos",
+        "lastName": "Bobos",
+        "initials": "P",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-5098-4840"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Lawson Research Institute, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "School of Physical Therapy, Western University, London, Ontario, Canada."
+            },
+            {
+              "affiliation": "Bone and Joint Institute, Western University, London, Ontario, Canada."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-8114-7669"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0001-9311-7379"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-1681-5170"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-5098-4840"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0000-0730-0610"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0009-8479-3530"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics",
+      "supporting_data"
+    ]
+  },
+  "journalInfo": {
+    "issue": "11",
+    "volume": "15",
+    "journalIssueId": 4043358,
+    "dateOfPublication": "2025 Nov",
+    "monthOfPublication": 11,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-11-01",
+    "journal": {
+      "title": "BMJ open",
+      "medlineAbbreviation": "BMJ Open",
+      "issn": "2044-6055",
+      "isoabbreviation": "BMJ Open",
+      "essn": "2044-6055",
+      "nlmid": "101552874"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e102112",
+  "abstractText": "<h4>Introduction</h4>Over 777\u2009million COVID-19 infections have occurred globally, with data suggesting that 10%-20% of those infected develop Long COVID. Fatigue is one of the most common and disabling symptoms of Long COVID. We aim to assess the feasibility and safety of a new, remotely delivered, multimodal rehabilitation intervention, paced to prevent post-exertional malaise (PEM), to support the conduct of a future, definitive randomised trial.<h4>Methods and analysis</h4>We will conduct a randomised, two-arm feasibility trial (COVIDEx intervention vs usual care). Sixty participants with Long COVID will be recruited and randomised prior to giving informed consent under a modified Zelen design using 1:1 allocation with random permuted blocks via central randomisation to receive either the COVIDEx intervention or usual care. The 50-minute, remotely delivered, COVIDEx intervention will occur twice weekly for 8\u2009weeks. All participants will wear a non-invasive device throughout their entire study participation, to track heart rate, blood oxygen saturation, steps, sleep and monitor PEM. The primary feasibility objectives will be recruitment rates, intervention fidelity, adherence, acceptability (intervention and design), retention, blinding success and outcome completeness. Secondary objectives will include refined estimates for the standard deviation and correlation between baseline and follow-up measurements of fatigue. Feasibility and clinical outcomes will be collected at baseline, 4, 8, 12 and 24 weeks. Qualitative interviews with participants and physiotherapists will explore intervention acceptability and barriers/facilitators.<h4>Ethics and dissemination</h4>Ethical approval for this study was obtained by the Western University Health Sciences Research Ethics Board (REB# 123902). Dissemination plans include sharing of trial findings at conferences and through open access publications and patient/community channels.<h4>Trial registration number</h4>NCT06156176.",
+  "affiliation": "Lawson Research Institute, London, Ontario, Canada nbillias@uwo.ca.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "Clinical Trial Protocol",
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "agency": "Western University",
+        "orderIn": 0
+      },
+      {
+        "grantId": "191927",
+        "agency": "Canadian Institutes of Health Research",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Fatigue",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "ET",
+              "qualifierName": "etiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "RH",
+              "qualifierName": "rehabilitation",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Exercise Therapy",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "MT",
+              "qualifierName": "methods",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Feasibility Studies"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Randomized Controlled Trials as Topic"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "RH",
+              "qualifierName": "rehabilitation",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Fatigue",
+      "Clinical Trial",
+      "Rehabilitation Medicine",
+      "Feasibility Studies",
+      "Physical Therapy Modalities",
+      "Covid-19"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1136/bmjopen-2025-102112"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12598962"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12598962?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by-nc",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "Y",
+  "tmAccessionTypeList": {
+    "accessionType": [
+      "nct"
+    ]
+  },
+  "dateOfCompletion": "2025-11-12",
+  "dateOfCreation": "2025-11-10",
+  "firstIndexDate": "2025-11-11",
+  "fullTextReceivedDate": "2025-11-12",
+  "dateOfRevision": "2025-11-17",
+  "electronicPublicationDate": "2025-11-09",
+  "firstPublicationDate": "2025-11-09"
+}

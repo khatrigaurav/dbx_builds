@@ -1,0 +1,337 @@
+{
+  "id": "41089328",
+  "source": "MED",
+  "pmid": "41089328",
+  "pmcid": "PMC12515974",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12515974"
+    ]
+  },
+  "doi": "10.3389/fcimb.2025.1647203",
+  "title": "Immunotherapies for postural orthostatic tachycardia syndrome, other common autonomic disorders, and Long COVID: current state and future direction.",
+  "authorString": "Blitshteyn S, Funez-dePagnier G, Szombathy A, Hutchinson M.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Blitshteyn S",
+        "firstName": "Svetlana",
+        "lastName": "Blitshteyn",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Neurology, University of Buffalo Jacobs School of Medicine and Biomedical Sciences, Buffalo, NY,\u00a0United States."
+            },
+            {
+              "affiliation": "Dysautonomia Clinic, Williamsville, NY,\u00a0United States."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Funez-dePagnier G",
+        "firstName": "Gabriela",
+        "lastName": "Funez-dePagnier",
+        "initials": "G",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University at Buffalo Jacobs School of Medicine and Biomedical Sciences, Buffalo, NY,\u00a0United States."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Szombathy A",
+        "firstName": "Anna",
+        "lastName": "Szombathy",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University at Buffalo Jacobs School of Medicine and Biomedical Sciences, Buffalo, NY,\u00a0United States."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Hutchinson M",
+        "firstName": "Meagan",
+        "lastName": "Hutchinson",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University at Buffalo Jacobs School of Medicine and Biomedical Sciences, Buffalo, NY,\u00a0United States."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0002-9954-2357"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics",
+      "supporting_data"
+    ]
+  },
+  "journalInfo": {
+    "volume": "15",
+    "journalIssueId": 3898881,
+    "dateOfPublication": "2025 ",
+    "monthOfPublication": 0,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-01-01",
+    "journal": {
+      "title": "Frontiers in cellular and infection microbiology",
+      "medlineAbbreviation": "Front Cell Infect Microbiol",
+      "issn": "2235-2988",
+      "isoabbreviation": "Front Cell Infect Microbiol",
+      "essn": "2235-2988",
+      "nlmid": "101585359"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "1647203",
+  "abstractText": "Postural orthostatic tachycardia syndrome (POTS), neurocardiogenic syncope, and orthostatic hypotension are the most common autonomic disorders encountered in clinical practice. The autoimmune etiology and association of these conditions with systemic autoimmune and inflammatory disorders, autonomic neuropathy, and post-acute infectious syndromes, including Long COVID, suggest that immunotherapies should be considered as a therapeutic option, at least in a subset of patients. However, the treatment of common autonomic disorders has traditionally included pharmacologic and non-pharmacologic symptomatic therapies as the standard approach. Unfortunately, these symptomatic therapies have been of limited or insufficient efficacy to meaningfully improve functional status or result in recovery, especially in patients with severe symptoms. Case reports, case series, and clinical experience suggest that intravenous and subcutaneous immunoglobulin, as well as other immunologic therapies (such as plasmapheresis, corticosteroids, and rituximab), may be effective in some patients with severe POTS and other common autonomic disorders who are refractory to standard therapies. In this narrative review, we summarize the literature available on the topic of immunotherapies for POTS, other common autonomic disorders, and Long COVID. We also highlight the need for large, multicenter, placebo-controlled trials of immunoglobulin, plasmapheresis, intermittent corticosteroids, and other repurposed immunotherapies in patients with common autonomic disorders who have significant functional impairment.",
+  "affiliation": "Department of Neurology, University of Buffalo Jacobs School of Medicine and Biomedical Sciences, Buffalo, NY,\u00a0United States.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "review-article",
+      "Review",
+      "Journal Article"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Autonomic Nervous System Diseases",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TH",
+              "qualifierName": "therapy",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adrenal Cortex Hormones",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "TU",
+              "qualifierName": "therapeutic use",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Immunoglobulins, Intravenous",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "TU",
+              "qualifierName": "therapeutic use",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Immunotherapy",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "MT",
+              "qualifierName": "methods",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TD",
+              "qualifierName": "trends",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Plasmapheresis"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Postural Orthostatic Tachycardia Syndrome",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TH",
+              "qualifierName": "therapy",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TH",
+              "qualifierName": "therapy",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Post-Acute COVID-19 Syndrome"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Immunoglobulin",
+      "Immunotherapy",
+      "Therapeutics",
+      "Autoimmunity",
+      "Dysautonomia",
+      "Postural Orthostatic Tachycardia Syndrome",
+      "Autonomic Disorders"
+    ]
+  },
+  "chemicalList": {
+    "chemical": [
+      {
+        "name": "Adrenal Cortex Hormones",
+        "registryNumber": "0"
+      },
+      {
+        "name": "Immunoglobulins, Intravenous",
+        "registryNumber": "0"
+      }
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.3389/fcimb.2025.1647203"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12515974"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12515974?pdf=render"
+      }
+    ]
+  },
+  "commentCorrectionList": {
+    "commentCorrection": [
+      {
+        "id": "PPR1005773",
+        "source": "PPR",
+        "type": "Preprint in",
+        "note": "CrossRef Pre-print loader",
+        "orderIn": 10002
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "Y",
+  "tmAccessionTypeList": {
+    "accessionType": [
+      "nct"
+    ]
+  },
+  "dateOfCompletion": "2025-10-15",
+  "dateOfCreation": "2025-10-15",
+  "firstIndexDate": "2025-10-15",
+  "fullTextReceivedDate": "2025-10-15",
+  "dateOfRevision": "2025-10-17",
+  "electronicPublicationDate": "2025-09-29",
+  "firstPublicationDate": "2025-09-29"
+}

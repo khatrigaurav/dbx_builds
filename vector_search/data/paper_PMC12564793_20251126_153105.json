@@ -1,0 +1,180 @@
+{
+  "id": "41156189",
+  "source": "MED",
+  "pmid": "41156189",
+  "pmcid": "PMC12564793",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12564793"
+    ]
+  },
+  "doi": "10.3390/jcm14207318",
+  "title": "Eight Years of Follow-Up of Rituximab in Pemphigus Vulgaris and Foliaceus at a Single Center: Assessing Efficacy and Safety in Light of Several Factors.",
+  "authorString": "Szymanski K, Kowalewski C, Walecka I, Wozniak K.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Szymanski K",
+        "firstName": "Konrad",
+        "lastName": "Szymanski",
+        "initials": "K",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-4297-8034"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Dermatology, National Medical Institute of the Ministry of the Interior and Administration, 02-507 Warsaw, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Kowalewski C",
+        "firstName": "Cezary",
+        "lastName": "Kowalewski",
+        "initials": "C",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Dermatology, National Medical Institute of the Ministry of the Interior and Administration, 02-507 Warsaw, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Walecka I",
+        "firstName": "Irena",
+        "lastName": "Walecka",
+        "initials": "I",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Dermatology, National Medical Institute of the Ministry of the Interior and Administration, 02-507 Warsaw, Poland."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Wozniak K",
+        "firstName": "Katarzyna",
+        "lastName": "Wozniak",
+        "initials": "K",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0009-0004-1241-1074"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Dermatology, National Medical Institute of the Ministry of the Interior and Administration, 02-507 Warsaw, Poland."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0003-4297-8034"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0004-1241-1074"
+      }
+    ]
+  },
+  "journalInfo": {
+    "issue": "20",
+    "volume": "14",
+    "journalIssueId": 4038829,
+    "dateOfPublication": "2025 Oct",
+    "monthOfPublication": 10,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-10-01",
+    "journal": {
+      "title": "Journal of clinical medicine",
+      "medlineAbbreviation": "J Clin Med",
+      "issn": "2077-0383",
+      "isoabbreviation": "J Clin Med",
+      "essn": "2077-0383",
+      "nlmid": "101606588"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "7318",
+  "abstractText": "<b>Background/Objectives</b>: Pemphigus vulgaris (PV) and foliaceus (PF) are autoimmune blistering diseases mediated by IgG antibodies directed against desmogleins 1 and 3 and are still considered life-threatening disorders. In recent years, rituximab has been shown to be very effective, especially in PV and mainly in short follow-ups. The role of rituximab in achieving long-lasting complete clinical remission (cCR) in pemphigus still needs to be determined. Therefore, the aim of our study was to assess the efficacy, measured by achieving long-lasting cCR, and safety of rituximab in both PV and PF over an 8-year follow-up in light of several factors (body mass index-BMI, severity of disease-PDAI, age, gender, disease duration, COVID-19 period). <b>Methods</b>: In total, 28 patients with pemphigus were treated with rituximab and followed-up at one center. The entire analysis was performed using statistical methods. <b>Results</b>: Long-lasting cCR was achieved in 5 out of 6 patients (83%) with PF and 10 of 22 (45.5%) patients with PV. Univariate and multivariate analysis disclosed that studied factors did not statistically correlated with achieving long-lasting cCR. Among studied patients, few developed side effects, mainly urinary tract infection; one patient had sepsis, and one patient died. <b>Conclusions</b>: This study has demonstrated that rituximab is highly effective in PF and quite effective in PV over an 8-year follow-up in relation to independently studied factors. Moreover, the COVID-19 pandemic was not a negative factor influencing cCR achievement since 82% of patients treated with rituximab during that time still achieved cCR.",
+  "affiliation": "Department of Dermatology, National Medical Institute of the Ministry of the Interior and Administration, 02-507 Warsaw, Poland.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "BMI",
+      "Pemphigus Foliaceus",
+      "Rituximab",
+      "Pemphigus Vulgaris",
+      "Pdai",
+      "Covid-19"
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.3390/jcm14207318"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12564793"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12564793?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-29",
+  "dateOfCreation": "2025-10-29",
+  "firstIndexDate": "2025-10-29",
+  "fullTextReceivedDate": "2025-10-30",
+  "dateOfRevision": "2025-11-01",
+  "electronicPublicationDate": "2025-10-16",
+  "firstPublicationDate": "2025-10-16"
+}

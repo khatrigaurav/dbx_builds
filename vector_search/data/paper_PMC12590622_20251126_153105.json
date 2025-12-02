@@ -1,0 +1,554 @@
+{
+  "id": "41199272",
+  "source": "MED",
+  "pmid": "41199272",
+  "pmcid": "PMC12590622",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12590622"
+    ]
+  },
+  "doi": "10.1186/s13063-025-09226-6",
+  "title": "Randomized trial of nirmatrelvir/ritonavir versus placebo for adults with acute COVID-19 to prevent long COVID: PanoramicNOR Trial.",
+  "authorString": "Blomberg B, Myklebust NN, Oppegaard O, T\u00f8ndel C, Cox RJ, Iversen A, Lehmann ME, Sandvig A, Dahl TB, Valderhaug VD, Szodoray P, Wilhelmsen M, Kirsebom BE, Glambek M, Kaarb\u00f8e O, Aukrust P, Lie RT, Langeland N.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Blomberg B",
+        "firstName": "Bj\u00f8rn",
+        "lastName": "Blomberg",
+        "initials": "B",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-5647-4297"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Clinical Science, University of Bergen, Bergen, Norway. bjorn.blomberg@uib.no."
+            },
+            {
+              "affiliation": "National Centre for Tropical Infectious Diseases, Department of Medicine, Haukeland University Hospital, Bergen, Norway. bjorn.blomberg@uib.no."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Myklebust NN",
+        "firstName": "Nikolai Norevik",
+        "lastName": "Myklebust",
+        "initials": "NN",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Clinical Science, University of Bergen, Bergen, Norway."
+            },
+            {
+              "affiliation": "Department of Medicine, Haukeland University Hospital, Bergen, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Oppegaard O",
+        "firstName": "Oddvar",
+        "lastName": "Oppegaard",
+        "initials": "O",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Clinical Science, University of Bergen, Bergen, Norway."
+            },
+            {
+              "affiliation": "Department of Medicine, Haukeland University Hospital, Bergen, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "T\u00f8ndel C",
+        "firstName": "Camilla",
+        "lastName": "T\u00f8ndel",
+        "initials": "C",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Clinical Science, University of Bergen, Bergen, Norway."
+            },
+            {
+              "affiliation": "Department of Paediatrics, University of Bergen, Bergen, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Cox RJ",
+        "firstName": "Rebecca Jane",
+        "lastName": "Cox",
+        "initials": "RJ",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Clinical Science, University of Bergen, Bergen, Norway."
+            },
+            {
+              "affiliation": "Influenza Center, Haukeland University Hospital, Bergen, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Iversen A",
+        "firstName": "Arild",
+        "lastName": "Iversen",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Clinical Science, University of Bergen, Bergen, Norway."
+            },
+            {
+              "affiliation": "Chief Municipal Doctor's Office, Bergen Municipality, Bergen, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Lehmann ME",
+        "firstName": "Marianne Emblem",
+        "lastName": "Lehmann",
+        "initials": "ME",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Clinical Science, University of Bergen, Bergen, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Sandvig A",
+        "firstName": "Axel",
+        "lastName": "Sandvig",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "St. Olav's Hospital, Trondheim, Norway."
+            },
+            {
+              "affiliation": "Norwegian University of Science and Technology, Trondheim, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Dahl TB",
+        "firstName": "Tuva B\u00f8rresdatter",
+        "lastName": "Dahl",
+        "initials": "TB",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Research Institute for Internal Medicine, Oslo University Hospital, Rikshospitalet, Oslo, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Valderhaug VD",
+        "firstName": "Vibeke Devold",
+        "lastName": "Valderhaug",
+        "initials": "VD",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Research and Innovation, M\u00f8re Og Romsdal Hospital Trust, \u00c5lesund, Norway."
+            },
+            {
+              "affiliation": "Department of Neuromedicine and Movement Science, Faculty of Medicine, Norwegian University of Science and Technology, Trondheim, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Szodoray P",
+        "firstName": "Peter",
+        "lastName": "Szodoray",
+        "initials": "P",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Immunology, Oslo University Hospital, Rikshospitalet, Oslo, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Wilhelmsen M",
+        "firstName": "Maja",
+        "lastName": "Wilhelmsen",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University Hospital of Northern Norway, Troms\u00f8, Norway."
+            },
+            {
+              "affiliation": "Arctic University of Norway, Troms\u00f8, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Kirsebom BE",
+        "firstName": "Bj\u00f8rn Eivind",
+        "lastName": "Kirsebom",
+        "initials": "BE",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Neurology, University Hospital of North Norway, Troms\u00f8, Norway."
+            },
+            {
+              "affiliation": "Department of Psychology, Faculty of Health Sciences, The Arctic University of Norway, Troms\u00f8, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Glambek M",
+        "firstName": "Marte",
+        "lastName": "Glambek",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Clinical Science, University of Bergen, Bergen, Norway."
+            },
+            {
+              "affiliation": "Department of Medicine, Haukeland University Hospital, Bergen, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Kaarb\u00f8e O",
+        "firstName": "Oddvar",
+        "lastName": "Kaarb\u00f8e",
+        "initials": "O",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Global Public Health and Primary Care, University of Bergen, Bergen, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Aukrust P",
+        "firstName": "P\u00e5l",
+        "lastName": "Aukrust",
+        "initials": "P",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Research Institute for Internal Medicine, Oslo University Hospital, Rikshospitalet, Oslo, Norway."
+            },
+            {
+              "affiliation": "Institute of Clinical Medicine, University of Oslo, Oslo, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Lie RT",
+        "firstName": "Rolv Terje",
+        "lastName": "Lie",
+        "initials": "RT",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Global Public Health and Primary Care, University of Bergen, Bergen, Norway."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Langeland N",
+        "firstName": "Nina",
+        "lastName": "Langeland",
+        "initials": "N",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Clinical Science, University of Bergen, Bergen, Norway."
+            },
+            {
+              "affiliation": "National Centre for Tropical Infectious Diseases, Department of Medicine, Haukeland University Hospital, Bergen, Norway."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-5647-4297"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "supporting_data"
+    ]
+  },
+  "journalInfo": {
+    "issue": "1",
+    "volume": "26",
+    "journalIssueId": 4042045,
+    "dateOfPublication": "2025 Nov",
+    "monthOfPublication": 11,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-11-01",
+    "journal": {
+      "title": "Trials",
+      "medlineAbbreviation": "Trials",
+      "issn": "1745-6215",
+      "isoabbreviation": "Trials",
+      "essn": "1745-6215",
+      "nlmid": "101263253"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "477",
+  "abstractText": "<h4>Background</h4>The high prevalence of long-term persisting symptoms after COVID-19 (coronavirus disease 2019), termed long COVID or post-COVID-19 condition, even among those with mild initial disease, may have a large public health impact. Apart from avoiding infection, there is no proven prevention or treatment for long COVID. We will perform a randomized placebo-controlled clinical trial to assess whether treatment with the novel antiviral, nirmatrelvir and ritonavir (Paxlovid\u00ae) for acute COVID-19 can prevent the development of long COVID.<h4>Methods</h4>This is a randomized double-blinded placebo-controlled trial that aims to recruit 2000 nonpregnant persons aged 18 to 64\u00a0years with acute COVID-19 with positive PCR and/or antigen test and symptom duration of not more than 5\u00a0days. Participants will be randomized 1:1 to a 5-day course of Paxlovid (two tablets 150-mg nirmatrelvir and one tablet 100-mg ritonavir twice daily) or a 5-day course of placebo (similar number of tablets of equal appearance). The primary endpoint will be persistent symptoms compatible with long COVID, assessed as the prevalence of a dichotomous variable corresponding to the presence (1) or absence (0) of one or more of the following symptoms: (i) fatigue, (ii) dyspnea, and (iii) cognitive symptoms (memory and/or concentration problems). The primary outcome will be evaluated at 3-month follow-up and then re-evaluated at 6, 12, and 24\u00a0months.<h4>Discussion</h4>As more than 750 million people with confirmed COVID-19 have survived globally, the potential burden of long COVID on societies is formidable. If a simple 5-day oral treatment course with nirmatrelvir/ritonavir is shown to prevent long COVID, it would be a highly attractive intervention at an individual level and a mitigation of its public health consequences.<h4>Trial registration</h4>ClinicalTrials.gov NCT05852873. Registered on May 2023.",
+  "affiliation": "Department of Clinical Science, University of Bergen, Bergen, Norway. bjorn.blomberg@uib.no.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "Clinical Trial Protocol",
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Ritonavir",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "AD",
+              "qualifierName": "administration & dosage",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "AE",
+              "qualifierName": "adverse effects",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TU",
+              "qualifierName": "therapeutic use",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Drug Combinations"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Antiviral Agents",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "AD",
+              "qualifierName": "administration & dosage",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "AE",
+              "qualifierName": "adverse effects",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TU",
+              "qualifierName": "therapeutic use",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Treatment Outcome"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Double-Blind Method"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adolescent"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Randomized Controlled Trials as Topic"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Young Adult"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "PC",
+              "qualifierName": "prevention & control",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Post-Acute COVID-19 Syndrome"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19 Drug Treatment"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Prevention",
+      "Randomized controlled trial",
+      "Covid-19",
+      "Sars-cov-2",
+      "Long Covid",
+      "Post-covid-19 Condition",
+      "Paxlovid",
+      "Nirmatrelvir/ritonavir"
+    ]
+  },
+  "chemicalList": {
+    "chemical": [
+      {
+        "name": "Antiviral Agents",
+        "registryNumber": "0"
+      },
+      {
+        "name": "Drug Combinations",
+        "registryNumber": "0"
+      },
+      {
+        "name": "Ritonavir",
+        "registryNumber": "O3J8G9O825"
+      }
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1186/s13063-025-09226-6"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12590622"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12590622?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "Y",
+  "tmAccessionTypeList": {
+    "accessionType": [
+      "nct"
+    ]
+  },
+  "dateOfCompletion": "2025-11-07",
+  "dateOfCreation": "2025-11-06",
+  "firstIndexDate": "2025-11-07",
+  "fullTextReceivedDate": "2025-11-08",
+  "dateOfRevision": "2025-11-10",
+  "electronicPublicationDate": "2025-11-06",
+  "firstPublicationDate": "2025-11-06"
+}

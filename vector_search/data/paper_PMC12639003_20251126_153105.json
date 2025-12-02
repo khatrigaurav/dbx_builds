@@ -1,0 +1,174 @@
+{
+  "id": "41271803",
+  "source": "MED",
+  "pmid": "41271803",
+  "pmcid": "PMC12639003",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12639003"
+    ]
+  },
+  "doi": "10.1038/s41533-025-00460-8",
+  "title": "Economic burden of long COVID: macroeconomic, cost-of-illness and microeconomic impacts.",
+  "authorString": "Bansal A.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Bansal A",
+        "firstName": "Amit",
+        "lastName": "Bansal",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Influenza Centre, Department of Clinical Science, University of Bergen, Bergen, Norway. amit.bansal@uib.no."
+            },
+            {
+              "affiliation": "Norwegian School of Sport Sciences, Oslo, Norway. amit.bansal@uib.no."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "1",
+    "volume": "35",
+    "journalIssueId": 4043071,
+    "dateOfPublication": "2025 Nov",
+    "monthOfPublication": 11,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-11-01",
+    "journal": {
+      "title": "NPJ primary care respiratory medicine",
+      "medlineAbbreviation": "NPJ Prim Care Respir Med",
+      "issn": "2055-1010",
+      "isoabbreviation": "NPJ Prim Care Respir Med",
+      "essn": "2055-1010",
+      "nlmid": "101631999"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "53",
+  "abstractText": "Long COVID, defined by symptoms persisting three months post-SARS-CoV-2 infection, presents a significant global health and economic challenge, with global prevalence estimated at 36% (ranging from 1-92%). This brief communication consolidates current knowledge on its economic impacts, including macroeconomic, cost-of-illness, and microeconomic impacts, which are estimated at an average annual burden of $1 trillion globally and $9000 per patient in the USA, with some individuals covering substantial out-of-pocket expenses. Annual lost earnings in the USA alone are estimated at approximately $170 billion. Long COVID was associated with increased unemployment, financial distress, and work impairment for up to three years post-infection. This paper highlights discrepancies in impact estimation methodologies and calls for standardised metrics especially in emerging economies. Key research gaps include the absence of comprehensive longitudinal studies on individual and aggregated economic burden, specific long COVID phenotypes and biomarkers, and cost-effectiveness evaluations of interventions.",
+  "affiliation": "Influenza Centre, Department of Clinical Science, University of Bergen, Bergen, Norway. amit.bansal@uib.no.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "brief-report",
+      "Review",
+      "Journal Article"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Cost of Illness"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Unemployment"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Global Health"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EC",
+              "qualifierName": "economics",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Post-Acute COVID-19 Syndrome"
+      }
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1038/s41533-025-00460-8"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12639003"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12639003?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-11-21",
+  "dateOfCreation": "2025-11-21",
+  "firstIndexDate": "2025-11-23",
+  "fullTextReceivedDate": "2025-11-24",
+  "dateOfRevision": "2025-11-24",
+  "electronicPublicationDate": "2025-11-21",
+  "firstPublicationDate": "2025-11-21"
+}

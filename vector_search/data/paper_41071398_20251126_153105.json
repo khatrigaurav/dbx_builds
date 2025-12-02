@@ -1,0 +1,345 @@
+{
+  "id": "41071398",
+  "source": "MED",
+  "pmid": "41071398",
+  "doi": "10.1007/s11481-025-10247-w",
+  "title": "Cytokine Blockade Attenuates Inflammation and Improves Depressive Psychopathology After COVID-19: A Naturalistic Observational Study.",
+  "authorString": "Palladini M, Azzalin AA, Bessi M, De Lorenzo R, Rovere-Querini P, Benedetti F, Mazza MG.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Palladini M",
+        "firstName": "Mariagrazia",
+        "lastName": "Palladini",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Vita-Salute San Raffaele University, Milano, Italy."
+            },
+            {
+              "affiliation": "Psychiatry & Clinical Psychobiology, Division of Neuroscience, IRCCS Ospedale San Raffaele, Milano, Italy."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Azzalin AA",
+        "firstName": "Alessia A",
+        "lastName": "Azzalin",
+        "initials": "AA",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Vita-Salute San Raffaele University, Milano, Italy."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Bessi M",
+        "firstName": "Margherita",
+        "lastName": "Bessi",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Vita-Salute San Raffaele University, Milano, Italy."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "De Lorenzo R",
+        "firstName": "Rebecca",
+        "lastName": "De Lorenzo",
+        "initials": "R",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Vita-Salute San Raffaele University, Milano, Italy."
+            },
+            {
+              "affiliation": "Division of Immunology, Transplantation and Infectious Diseases, IRCCS Ospedale San Raffaele, Milan, Italy."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Rovere-Querini P",
+        "firstName": "Patrizia",
+        "lastName": "Rovere-Querini",
+        "initials": "P",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Vita-Salute San Raffaele University, Milano, Italy."
+            },
+            {
+              "affiliation": "Division of Immunology, Transplantation and Infectious Diseases, IRCCS Ospedale San Raffaele, Milan, Italy."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Benedetti F",
+        "firstName": "Francesco",
+        "lastName": "Benedetti",
+        "initials": "F",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Vita-Salute San Raffaele University, Milano, Italy."
+            },
+            {
+              "affiliation": "Psychiatry & Clinical Psychobiology, Division of Neuroscience, IRCCS Ospedale San Raffaele, Milano, Italy."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Mazza MG",
+        "firstName": "Mario Gennaro",
+        "lastName": "Mazza",
+        "initials": "MG",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Psychiatry & Clinical Psychobiology, Division of Neuroscience, IRCCS Ospedale San Raffaele, Milano, Italy. mazza.mariogennaro@hsr.it."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "journalInfo": {
+    "issue": "1",
+    "volume": "20",
+    "journalIssueId": 4028763,
+    "dateOfPublication": "2025 Oct",
+    "monthOfPublication": 10,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-10-01",
+    "journal": {
+      "title": "Journal of neuroimmune pharmacology : the official journal of the Society on NeuroImmune Pharmacology",
+      "medlineAbbreviation": "J Neuroimmune Pharmacol",
+      "issn": "1557-1890",
+      "isoabbreviation": "J Neuroimmune Pharmacol",
+      "essn": "1557-1904",
+      "nlmid": "101256586"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "86",
+  "abstractText": "Current insight on inflammation in psychiatry suggests that perturbation of inflammatory set points could foster psychopathology and recent evidence support immune-inflammatory mechanisms as targets for antidepressant pharmacology. In the present naturalistic observational study we evaluated the possible effect of the cytokine-blocking agents in preventing the development of post-COVID depression in a large sample of survivors also exploring the relationship between post-COVID depressive risk, treatment with cytokine-blocking agents, and innate immune response markers.\u00a0588 COVID-19 survivors were included, of them 374 received the best available treatment at the time and 131 received standard treatment combined with cytokine-blocking agents (anakinra, tocilizumab, sarilumab, reparixin and mavrilimumab). Post-COVID depressive psychopathology was evaluated at short (34.6\u2009\u00b1\u200917.39 days) and long term (126.76\u2009\u00b1\u200961.4 days) follow-ups. The systemic inflammation index as (neutrophils*platelets)/lymphocytes was computed in a subgroup of 274 patients.\u00a0COVID-19 survivors who were treated with cytokine-blocking agents experienced less severe depressive symptomatology and, simultaneously, less susceptibility to develop clinically relevant depression. Moreover, the longitudinal investigations, revealed that patients treated with cytokine-blocking agents underwent a spontaneous symptoms relief over time. Systemic inflammation index decrease over hospitalization was found to affect the susceptibility to long-term depression. Finally, we observed that cytokine-blocking agents' impact on depression was mediated by lowering of systemic inflammation.\u00a0Our findings indicate potential efficacy of cytokine-blocking agent treatment during the early stages of COVID-19, mitigating post-COVID depressive symptoms by attenuating systemic inflammation. Further investigation through preclinical and clinical studies is warranted to elucidate immune-inflammatory pathways as viable targets for antidepressant psychopharmacology.",
+  "affiliation": "Vita-Salute San Raffaele University, Milano, Italy.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "Journal Article",
+      "Observational Study"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "grantId": "GR-2021-12374872-1",
+        "agency": "Italian Ministry of Health",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Inflammation",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "DT",
+              "qualifierName": "drug therapy",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "PX",
+              "qualifierName": "psychology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Antidepressive Agents",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "TU",
+              "qualifierName": "therapeutic use",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Cytokines",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "AI",
+              "qualifierName": "antagonists & inhibitors",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Depression",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "DT",
+              "qualifierName": "drug therapy",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "ET",
+              "qualifierName": "etiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "PX",
+              "qualifierName": "psychology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19 Drug Treatment"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Depression",
+      "Inflammation",
+      "Antidepressant",
+      "Covid-19",
+      "Long-covid",
+      "Cytokine-Blocking Agents"
+    ]
+  },
+  "chemicalList": {
+    "chemical": [
+      {
+        "name": "Antidepressive Agents",
+        "registryNumber": "0"
+      },
+      {
+        "name": "Cytokines",
+        "registryNumber": "0"
+      }
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1007/s11481-025-10247-w"
+      }
+    ]
+  },
+  "isOpenAccess": "N",
+  "inEPMC": "N",
+  "inPMC": "N",
+  "hasPDF": "N",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-10",
+  "dateOfCreation": "2025-10-10",
+  "firstIndexDate": "2025-10-10",
+  "dateOfRevision": "2025-11-21",
+  "electronicPublicationDate": "2025-10-10",
+  "firstPublicationDate": "2025-10-10"
+}

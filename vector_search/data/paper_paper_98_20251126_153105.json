@@ -1,0 +1,267 @@
+{
+  "id": "PPR1115839",
+  "source": "PPR",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PPR1115839"
+    ]
+  },
+  "doi": "10.21203/rs.3.rs-7876232/v1",
+  "title": "Persistent Multi-System Impairments Detected by Wearable Monitoring in Long COVID Cases reporting Fatigue up to Three Years Post-Infection",
+  "authorString": "Orini M, Stuart C, Jamieson A, Fernandez-Sanles A, Ranjan Y, Williams D, Howes L, Wong A, Giunchiglia V, Trender W, Hellyer P, Cheetham NJ, Thompson E, Goudswaard L, Patelay P, Folarin A, Dobson R, Timpson N(, Steves C, Hampshire A, Chaturvedi N, Hughes A.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Orini M",
+        "firstName": "Michele",
+        "lastName": "Orini",
+        "initials": "M",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-5773-0344"
+        }
+      },
+      {
+        "fullName": "Stuart C",
+        "firstName": "Callum",
+        "lastName": "Stuart",
+        "initials": "C"
+      },
+      {
+        "fullName": "Jamieson A",
+        "firstName": "Alexandra",
+        "lastName": "Jamieson",
+        "initials": "A"
+      },
+      {
+        "fullName": "Fernandez-Sanles A",
+        "firstName": "Alba",
+        "lastName": "Fernandez-Sanles",
+        "initials": "A",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-3587-8177"
+        }
+      },
+      {
+        "fullName": "Ranjan Y",
+        "firstName": "Yatharth",
+        "lastName": "Ranjan",
+        "initials": "Y"
+      },
+      {
+        "fullName": "Williams D",
+        "firstName": "Dylan",
+        "lastName": "Williams",
+        "initials": "D",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-3825-2487"
+        }
+      },
+      {
+        "fullName": "Howes L",
+        "firstName": "Lee",
+        "lastName": "Howes",
+        "initials": "L"
+      },
+      {
+        "fullName": "Wong A",
+        "firstName": "Andrew",
+        "lastName": "Wong",
+        "initials": "A"
+      },
+      {
+        "fullName": "Giunchiglia V",
+        "firstName": "Valentina",
+        "lastName": "Giunchiglia",
+        "initials": "V"
+      },
+      {
+        "fullName": "Trender W",
+        "firstName": "William",
+        "lastName": "Trender",
+        "initials": "W"
+      },
+      {
+        "fullName": "Hellyer P",
+        "firstName": "Peter",
+        "lastName": "Hellyer",
+        "initials": "P"
+      },
+      {
+        "fullName": "Cheetham NJ",
+        "firstName": "Nathan",
+        "lastName": "Cheetham",
+        "initials": "NJ"
+      },
+      {
+        "fullName": "Thompson E",
+        "firstName": "Ellen",
+        "lastName": "Thompson",
+        "initials": "E"
+      },
+      {
+        "fullName": "Goudswaard L",
+        "firstName": "Lucy",
+        "lastName": "Goudswaard",
+        "initials": "L"
+      },
+      {
+        "fullName": "Patelay P",
+        "firstName": "Praveetha",
+        "lastName": "Patelay",
+        "initials": "P"
+      },
+      {
+        "fullName": "Folarin A",
+        "firstName": "Amos",
+        "lastName": "Folarin",
+        "initials": "A"
+      },
+      {
+        "fullName": "Dobson R",
+        "firstName": "Richard",
+        "lastName": "Dobson",
+        "initials": "R",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-4224-9245"
+        }
+      },
+      {
+        "fullName": "Timpson N(",
+        "firstName": "Nicholas (J)",
+        "lastName": "Timpson",
+        "initials": "N("
+      },
+      {
+        "fullName": "Steves C",
+        "firstName": "Claire",
+        "lastName": "Steves",
+        "initials": "C"
+      },
+      {
+        "fullName": "Hampshire A",
+        "firstName": "Adam",
+        "lastName": "Hampshire",
+        "initials": "A"
+      },
+      {
+        "fullName": "Chaturvedi N",
+        "firstName": "Nish",
+        "lastName": "Chaturvedi",
+        "initials": "N"
+      },
+      {
+        "fullName": "Hughes A",
+        "firstName": "Alun",
+        "lastName": "Hughes",
+        "initials": "A"
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-5773-0344"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-3587-8177"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-3825-2487"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-4224-9245"
+      }
+    ]
+  },
+  "pubYear": "2025",
+  "abstractText": "<title>Abstract</title>  <p>Long COVID remains poorly understood and previous studies have mainly focused on describing symptoms or single-system health deficits in severe cases. In the CONVALESCENCE case-control study, 306 community-based participants (aged 57 [IQR 41\u201363], 80% female) were enrolled 2.0 [1.7, 2.5] years post-infection and were monitored for 12 months using a smartwatch and apps to assess mental health, cognitive function, physical activity, exercise capacity, cardiorespiratory function, autonomic function and sleep. Compared to controls (N\u2009=\u2009152), long COVID cases with fatigue-cluster symptoms (N\u2009=\u200950) presented small persistent deficits across all systems with no evidence of recovery over 12 months. Participants with fatigue-cluster symptoms not attributable to long COVID (N\u2009=\u200928) showed a similar trend, while participants with prior long COVID but no fatigue-cluster symptoms (N\u2009=\u200976) were not different from controls. The lack of significant recovery between years two and three post-infection demonstrates protracted multi-system deficits for fatigue-cluster cases and highlights ongoing needs to better understand and manage long COVID.</p>",
+  "pubTypeList": {
+    "pubType": [
+      "Preprint"
+    ]
+  },
+  "bookOrReportDetails": {
+    "publisher": "Research Square",
+    "yearOfPublication": 2025
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "grantId": "FS/19/63/34902",
+        "agency": "British Heart Foundation",
+        "orderIn": 0
+      },
+      {
+        "grantId": "WT212904/Z/18/Z",
+        "agency": "Wellcome Trust",
+        "orderIn": 0
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Free",
+        "availabilityCode": "F",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.21203/rs.3.rs-7876232/v1"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/article/PPR/PPR1115839"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "N",
+  "inPMC": "N",
+  "hasPDF": "N",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "N",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "license": "cc by",
+  "versionList": {
+    "version": [
+      {
+        "id": "PPR1115839",
+        "source": "PPR",
+        "firstPublishDate": "2025-11-07",
+        "versionNumber": 1,
+        "pubTypeList": {
+          "pubType": [
+            "preprint"
+          ]
+        },
+        "hasEvaluations": "N"
+      }
+    ]
+  },
+  "versionNumber": 1,
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "Y",
+  "nihAuthMan": "N",
+  "manuscriptId": "EMS210542",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCreation": "2025-11-08",
+  "firstIndexDate": "2025-11-08",
+  "fullTextReceivedDate": "2025-11-25",
+  "firstPublicationDate": "2025-11-07"
+}

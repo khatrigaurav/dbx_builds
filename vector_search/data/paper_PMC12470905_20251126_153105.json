@@ -1,0 +1,344 @@
+{
+  "id": "41010719",
+  "source": "MED",
+  "pmid": "41010719",
+  "pmcid": "PMC12470905",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12470905"
+    ]
+  },
+  "doi": "10.3390/jcm14186514",
+  "title": "Long COVID and Acute Stroke in the Emergency Department: An Analysis of Presentation, Reperfusion Treatment, and Early Outcomes.",
+  "authorString": "Popa DI, Buleu F, Iancu A, Tudor A, Williams CG, Militaru M, Levai CM, Buleu T, Ciolac L, Militaru AG, Mederle OA.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Popa DI",
+        "firstName": "Daian-Ionel",
+        "lastName": "Popa",
+        "initials": "DI",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0009-0007-1728-3552"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Research Center for Medical Communication, Victor Babes University of Medicine and Pharmacy, 300041 Timisoara, Romania."
+            },
+            {
+              "affiliation": "Doctoral School, Faculty of General Medicine, Victor Babes University of Medicine and Pharmacy, 300041 Timisoara, Romania."
+            },
+            {
+              "affiliation": "Emergency Municipal Clinical Hospital, 300254 Timisoara, Romania."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Buleu F",
+        "firstName": "Florina",
+        "lastName": "Buleu",
+        "initials": "F",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-9814-9561"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Emergency Municipal Clinical Hospital, 300254 Timisoara, Romania."
+            },
+            {
+              "affiliation": "Department of Cardiology, Victor Babes University of Medicine and Pharmacy, E. Murgu Square No. 2, 300041 Timisoara, Romania."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Iancu A",
+        "firstName": "Aida",
+        "lastName": "Iancu",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Radiology, Victor Babes University of Medicine and Pharmacy, E. Murgu Square No. 2, 300041 Timisoara, Romania."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Tudor A",
+        "firstName": "Anca",
+        "lastName": "Tudor",
+        "initials": "A",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-9630-4727"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Functional Sciences, Victor Babes University of Medicine and Pharmacy, E. Murgu Square No. 2, 300041 Timisoara, Romania."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Williams CG",
+        "firstName": "Carmen Gabriela",
+        "lastName": "Williams",
+        "initials": "CG",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Doctoral School, Faculty of General Medicine, Victor Babes University of Medicine and Pharmacy, 300041 Timisoara, Romania."
+            },
+            {
+              "affiliation": "Emergency Municipal Clinical Hospital, 300254 Timisoara, Romania."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Militaru M",
+        "firstName": "Marius",
+        "lastName": "Militaru",
+        "initials": "M",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-3464-5782"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Emergency Municipal Clinical Hospital, 300254 Timisoara, Romania."
+            },
+            {
+              "affiliation": "Department of Neuroscience, Discipline of Neurology II, Victor Babes University of Medicine and Pharmacy, E. Murgu Square No. 2, 300041 Timisoara, Romania."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Levai CM",
+        "firstName": "Codrina Mihaela",
+        "lastName": "Levai",
+        "initials": "CM",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Research Center for Medical Communication, Victor Babes University of Medicine and Pharmacy, 300041 Timisoara, Romania."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Buleu T",
+        "firstName": "Tiberiu",
+        "lastName": "Buleu",
+        "initials": "T",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Faculty of Nursing, Victor Babes University of Medicine and Pharmacy, 300041 Timisoara, Romania."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Ciolac L",
+        "firstName": "Livia",
+        "lastName": "Ciolac",
+        "initials": "L",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Doctoral School, Faculty of General Medicine, Victor Babes University of Medicine and Pharmacy, 300041 Timisoara, Romania."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Militaru AG",
+        "firstName": "Anda Gabriela",
+        "lastName": "Militaru",
+        "initials": "AG",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-5455-5341"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Emergency Municipal Clinical Hospital, 300254 Timisoara, Romania."
+            },
+            {
+              "affiliation": "Department of Internal Medicine I, Medical Semiology I, Victor Babes University of Medicine and Pharmacy Timisoara, Eftimie Murgu Square No. 2, 300041 Timisoara, Romania."
+            },
+            {
+              "affiliation": "Center of Advanced Research in Cardiology and Hemostasology, University of Medicine and Pharmacy Victor Babes Timisoara, E. Murgu Square, Nr. 2, 300041 Timisoara, Romania."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Mederle OA",
+        "firstName": "Ovidiu Alexandru",
+        "lastName": "Mederle",
+        "initials": "OA",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-2242-7764"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Emergency Municipal Clinical Hospital, 300254 Timisoara, Romania."
+            },
+            {
+              "affiliation": "Department of Surgery, Emergency Discipline, Victor Babes University of Medicine and Pharmacy, 300041 Timisoara, Romania."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-5455-5341"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0001-9630-4727"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-2242-7764"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-9814-9561"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-3464-5782"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0007-1728-3552"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "18",
+    "volume": "14",
+    "journalIssueId": 4023010,
+    "dateOfPublication": "2025 Sep",
+    "monthOfPublication": 9,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-09-01",
+    "journal": {
+      "title": "Journal of clinical medicine",
+      "medlineAbbreviation": "J Clin Med",
+      "issn": "2077-0383",
+      "isoabbreviation": "J Clin Med",
+      "essn": "2077-0383",
+      "nlmid": "101606588"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "6514",
+  "abstractText": "<b>Background and Objectives:</b> Long COVID has been linked with persistent neurological symptoms, but data on its effects on acute stroke presentation, management, and outcomes remain unclear. This study aimed to compare the clinical profile, management, and short-term outcome of acute ischemic stroke patients with and without Long COVID. <b>Materials and Methods:</b> A retrospective cohort study was conducted on 132 patients who presented at admission with code stroke alert in our Emergency Department (ED). Out of those, 26 were identified to have the Long COVID condition and assigned to the Long COVID group, and 106 were without the Long COVID condition and assigned to the No Long COVID group. Baseline demographics, stroke severity by NIHSS (National Institutes of Health Stroke Scale), risk factors, admission symptoms, laboratory findings, Emergency department time targets, reperfusion treatments received, and outcomes between the two groups were compared. <b>Results:</b> There were no significant differences between the two groups in age, gender, baseline NIHSS scores, ED time targets, or laboratory values. The proportion of patients with Long COVID significantly increased among non-smokers (Fisher's Exact Test chi-squared, <i>p</i> = 0.027). Also, patients suffering from Long COVID exhibited higher incidences of headache (19.2% compared to 5.7%, OR = 3.97, <i>p</i> = 0.040) and facial drooping (42.3% compared to 19.8%, OR = 2.97, <i>p</i> = 0.022). The mechanical thrombectomy was more frequent among the group with Long COVID (30.8% vs. 16.0%), but this difference was not statistically significant. More hemorrhagic transformations happened in the Long COVID group (26.9% vs. 14.2%, <i>p</i> = 0.143). Discharge rates and hospital length of stay in days were similar between groups. <b>Conclusions:</b> Long COVID patients did not present notable differences in emergency department time targets, baseline stroke severity, or short-term outcomes when presenting with code stroke alert. Nevertheless, specific clinical characteristics-such as elevated occurrences of headache and facial drooping-were more frequently observed in patients with Long COVID, alongside non-significant trends indicating a greater utilization of mechanical thrombectomy and increased rates of hemorrhagic transformation. These results imply that Long COVID may have a subtle impact on stroke presentation and potentially on underlying cerebrovascular susceptibility. Further prospective studies with larger sample sizes are necessary to investigate Long COVID's long-term neurological and vascular consequences.",
+  "affiliation": "Research Center for Medical Communication, Victor Babes University of Medicine and Pharmacy, 300041 Timisoara, Romania.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "grantId": "Victor Babes University of Medicine and Pharmacy, Timisoara",
+        "agency": "Victor Babes University of Medicine and Pharmacy, Timisoara",
+        "orderIn": 0
+      },
+      {
+        "agency": "Victor Babes University of Medicine and Pharmacy, Timisoara",
+        "orderIn": 0
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Emergency Department",
+      "Outcome",
+      "Long Covid",
+      "Ed Time Targets",
+      "Code Stroke Alert"
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.3390/jcm14186514"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12470905"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12470905?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-09-27",
+  "dateOfCreation": "2025-09-27",
+  "firstIndexDate": "2025-09-28",
+  "fullTextReceivedDate": "2025-10-01",
+  "dateOfRevision": "2025-09-30",
+  "electronicPublicationDate": "2025-09-16",
+  "firstPublicationDate": "2025-09-16"
+}

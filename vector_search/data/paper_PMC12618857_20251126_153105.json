@@ -1,0 +1,445 @@
+{
+  "id": "41239762",
+  "source": "MED",
+  "pmid": "41239762",
+  "pmcid": "PMC12618857",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12618857"
+    ]
+  },
+  "doi": "10.1111/hex.70467",
+  "title": "Prevalence and Predictors of Long Covid in a Cohort of Brazilian Adults 12 Months After Acute Infection: A Cross-Sectional Study.",
+  "authorString": "Covre ER, Laranjeira C, Carreira L, H\u00f6ring CF, G\u00f3es HLF, Baldissera VDA, Marques PG, Meireles VC, Tostes MFDP, Oliveira RR, Paiano M, Ageno RS, Moroskoski M, Alcaraz JP, Vissoci JN, Facchini LA, Salci MA.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Covre ER",
+        "firstName": "Eduardo Rocha",
+        "lastName": "Covre",
+        "initials": "ER",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Laranjeira C",
+        "firstName": "Carlos",
+        "lastName": "Laranjeira",
+        "initials": "C",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-1080-9535"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Health Sciences, Portugal."
+            },
+            {
+              "affiliation": "Centre for Innovative Care and Health Technology (ciTechCare), Polytechnic University of Leiria, Leiria, Portugal."
+            },
+            {
+              "affiliation": "Comprehensive Health Research Centre (CHRC), University of \u00c9vora, \u00c9vora, Portugal."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Carreira L",
+        "firstName": "L\u00edgia",
+        "lastName": "Carreira",
+        "initials": "L",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "H\u00f6ring CF",
+        "firstName": "Carla Franciele",
+        "lastName": "H\u00f6ring",
+        "initials": "CF",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Statistics, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "G\u00f3es HLF",
+        "firstName": "Herbert Leopoldo de Freitas",
+        "lastName": "G\u00f3es",
+        "initials": "HLF",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Baldissera VDA",
+        "firstName": "Vanessa Denardi Antoniassi",
+        "lastName": "Baldissera",
+        "initials": "VDA",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Marques PG",
+        "firstName": "Priscila Garcia",
+        "lastName": "Marques",
+        "initials": "PG",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Physical Education, State University of Maring\u00e1, Paran\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Meireles VC",
+        "firstName": "Viviane Camboin",
+        "lastName": "Meireles",
+        "initials": "VC",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Tostes MFDP",
+        "firstName": "Maria Fernanda do Prado",
+        "lastName": "Tostes",
+        "initials": "MFDP",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Oliveira RR",
+        "firstName": "Rosana Rosseto de",
+        "lastName": "Oliveira",
+        "initials": "RR",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Paiano M",
+        "firstName": "Marcelle",
+        "lastName": "Paiano",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Ageno RS",
+        "firstName": "Rosella Santoro",
+        "lastName": "Ageno",
+        "initials": "RS",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Nursing, University of Antofagasta, Antofagasta, Chile."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Moroskoski M",
+        "firstName": "M\u00e1rcia",
+        "lastName": "Moroskoski",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Alcaraz JP",
+        "firstName": "Jes\u00fas Puente",
+        "lastName": "Alcaraz",
+        "initials": "JP",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Nursing, University of Burgos, Burgos, Spain."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Vissoci JN",
+        "firstName": "Jo\u00e3o Nickenig",
+        "lastName": "Vissoci",
+        "initials": "JN",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Division of Emergency Medicine, Duke Global Health Institute, Duke University, Durham, North Carolina, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Facchini LA",
+        "firstName": "Luiz Augusto",
+        "lastName": "Facchini",
+        "initials": "LA",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Studies in Epidemiology, Nursing and Family Health, Federal University of Pelotas, Pelotas, Rio Grande do Sul, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Salci MA",
+        "firstName": "Maria Aparecida",
+        "lastName": "Salci",
+        "initials": "MA",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0003-1080-9535"
+      }
+    ]
+  },
+  "journalInfo": {
+    "issue": "6",
+    "volume": "28",
+    "journalIssueId": 4038877,
+    "dateOfPublication": "2025 Dec",
+    "monthOfPublication": 12,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-12-01",
+    "journal": {
+      "title": "Health expectations : an international journal of public participation in health care and health policy",
+      "medlineAbbreviation": "Health Expect",
+      "issn": "1369-6513",
+      "isoabbreviation": "Health Expect",
+      "essn": "1369-7625",
+      "nlmid": "9815926"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e70467",
+  "abstractText": "<h4>Introduction</h4>Since the onset of the pandemic in early 2020, various reports have emerged regarding persistent symptoms associated with Covid-19. Nevertheless, there is insufficient data on the persistence of symptoms over time. This study sought to estimate the prevalence of persistent symptoms 12 months after Covid-19 infection and identify predictors of long Covid in adults living in the State of Paran\u00e1, southern Brazil, according to the level of severity of Covid-19 infection.<h4>Method</h4>An observational and cross-sectional survey was conducted with Brazilian adults diagnosed with Covid-19, as assessed from data available in two official Covid-19 notification databases in Brazil, using telephone interviews. Descriptive statistics, tests of associations and simple and multiple binary logistic regression analysis were used to identify predictors of long Covid.<h4>Results</h4>In total, 1033 adults participated in the study. The overall prevalence of long Covid was 60.3% (n\u2009=\u2009623). Prevalence was higher in women (67.7%), people aged between 50 and 59 years (65.8%) and in individuals who received treatment in an Intensive Care Unit (ICU) during the acute phase of Covid-19 infection (74.4%, n\u2009=\u2009241). The risk factors associated with a greater chance of developing long Covid were: female (OR 2.38; 95% CI 1.55; 3.66), living in the Brazilian northwest health macro-region (OR 2.20; 95% CI 1.21; 4.00), presenting multimorbidity (OR 1.86; 95% CI 1.06; 3.28), having an average of six symptoms in the acute phase of Covid-19 (OR 1.22; 95% CI 1.17; 1.28) and having received treatment in an ICU (OR 4.86; 95% CI 2.83; 8.35) and inpatient ward (OR 2.45; 95% CI 1.47; 4.09).<h4>Conclusions</h4>The results highlight the high prevalence of long Covid and support the formulation of health policies capable of minimising the consequences on the population, on the services offered by professionals and on health systems.<h4>Patient or public contribution</h4>The study topic's importance was based on the patients' experiences in the author's previous research and the need to develop patient-centred care.",
+  "affiliation": "Department of Postgraduate Nursing, Avenida Colombo, State University of Maring\u00e1, Maring\u00e1, Brazil.",
+  "publicationStatus": "ppublish",
+  "language": "eng",
+  "pubModel": "Print",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article",
+      "Observational Study"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "agency": "This study was funded by Minist\u00e9rio da Ci\u00eancia, Tecnologia, Inova\u00e7\u00f5es e Comunica\u00e7\u00f5es (FNDCT/MCTIC), Minist\u00e9rio da Sa\u00fade (MS) and Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico (CNPq)-Processo n\u25e6 402882/2020-2. It was also supported by FCT-Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia, I.P. (UID/05704/2023) and by the Scientific Employment Stimulus-Institutional Call-[https://doi.org/10.54499/CEECINST/00051/2018/CP1566/CT0012, accessed on 20 September 2025].",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Severity of Illness Index"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Prevalence"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Risk Factors"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Cross-Sectional Studies"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Brazil",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Young Adult"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Post-Acute COVID-19 Syndrome"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Prevalence",
+      "Brazil",
+      "Adults",
+      "Predictors",
+      "Covid\u201019",
+      "Long Covid"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1111/hex.70467"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12618857"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12618857?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-11-15",
+  "dateOfCreation": "2025-11-15",
+  "firstIndexDate": "2025-11-15",
+  "fullTextReceivedDate": "2025-11-18",
+  "dateOfRevision": "2025-11-17",
+  "firstPublicationDate": "2025-12-01"
+}

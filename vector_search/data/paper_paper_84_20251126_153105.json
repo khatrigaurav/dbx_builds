@@ -1,0 +1,82 @@
+{
+  "id": "PPR1109499",
+  "source": "PPR",
+  "doi": "10.21203/rs.3.rs-7945283/v1",
+  "title": "Post-COVID-19 Organ Dysfunction: Mechanisms of Microvascular Damage and Therapeutic Strategies",
+  "authorString": "Azeem M.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Azeem M",
+        "firstName": "Madiha",
+        "lastName": "Azeem",
+        "initials": "M"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "pubYear": "2025",
+  "abstractText": "<title>Abstract</title>  <p>Microvascular dysfunction has proven to be the central mechanism of acute infection with Post-COVID-19 in the context of long-term multi-organ complications. The review aimed to evaluate the mechanisms, clinical manifestations and treatment considerations of microvascular injury in post-COVID and COVID-19. The wide search of the literature was conducted in databases of PubMed, Scopus, and Web of Science and referred to the studies published in the interval between 2019 and 2025. The results indicate that SARS-CoV-2 causes endothelial dysfunction, oxidative stress, microthrombi formation, disrupted tissue perfusion, and inflammatory tissue damage in organs. The ongoing endothelial damage also leads to cardiovascular, renal, pulmonary, and neurocognitive adverse events of long COVID. There is also evidence that microvascular vulnerability is aggravated by pre-existing comorbid conditions including diabetes, hypertension and dyslipidemia. The therapeutic plans focus on the significance of endothelial protection by the means of blood pressure level and glucose, lipid regulation, and anti-inflammatory measures.</p>",
+  "pubTypeList": {
+    "pubType": [
+      "Preprint"
+    ]
+  },
+  "bookOrReportDetails": {
+    "publisher": "Research Square",
+    "yearOfPublication": 2025
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Free",
+        "availabilityCode": "F",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.21203/rs.3.rs-7945283/v1"
+      }
+    ]
+  },
+  "isOpenAccess": "N",
+  "inEPMC": "N",
+  "inPMC": "N",
+  "hasPDF": "N",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "N",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "versionList": {
+    "version": [
+      {
+        "id": "PPR1109499",
+        "source": "PPR",
+        "firstPublishDate": "2025-10-28",
+        "versionNumber": 1,
+        "pubTypeList": {
+          "pubType": [
+            "preprint"
+          ]
+        },
+        "hasEvaluations": "N"
+      }
+    ]
+  },
+  "versionNumber": 1,
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCreation": "2025-10-29",
+  "firstIndexDate": "2025-10-29",
+  "firstPublicationDate": "2025-10-28"
+}

@@ -1,0 +1,315 @@
+{
+  "id": "41164784",
+  "source": "MED",
+  "pmid": "41164784",
+  "pmcid": "PMC12560753",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12560753"
+    ]
+  },
+  "doi": "10.1093/ofid/ofaf634",
+  "title": "Longitudinal Patient-Reported Outcome Trajectories in Long COVID: Findings From the STOP-PASC Clinical Trial.",
+  "authorString": "Jagannathan P, Hedlin H, Liang JW, Shaw B, Maestri E, Lin M, Utz PJ, Singh U, Geng LN, Bonilla H.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Jagannathan P",
+        "firstName": "Prasanna",
+        "lastName": "Jagannathan",
+        "initials": "P",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-6305-758X"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Hedlin H",
+        "firstName": "Haley",
+        "lastName": "Hedlin",
+        "initials": "H",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-0757-7959"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Stanford Quantitative Sciences Unit, Stanford, California, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Liang JW",
+        "firstName": "Jane W",
+        "lastName": "Liang",
+        "initials": "JW",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-2302-3809"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Stanford Quantitative Sciences Unit, Stanford, California, USA."
+            },
+            {
+              "affiliation": "Division of Research, Kaiser Permanente Northern California, Pleasanton, California, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Shaw B",
+        "firstName": "Blake",
+        "lastName": "Shaw",
+        "initials": "B",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Stanford Quantitative Sciences Unit, Stanford, California, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Maestri E",
+        "firstName": "Evan",
+        "lastName": "Maestri",
+        "initials": "E",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Lin M",
+        "firstName": "Michelle",
+        "lastName": "Lin",
+        "initials": "M",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-2824-0893"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Stanford Quantitative Sciences Unit, Stanford, California, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Utz PJ",
+        "firstName": "P J",
+        "lastName": "Utz",
+        "initials": "PJ",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Singh U",
+        "firstName": "Upinder",
+        "lastName": "Singh",
+        "initials": "U",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-0630-0306"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+            },
+            {
+              "affiliation": "Department of Internal Medicine, University of Iowa Carver College of Medicine, Iowa City, Iowa, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Geng LN",
+        "firstName": "Linda N",
+        "lastName": "Geng",
+        "initials": "LN",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-9891-5705"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Bonilla H",
+        "firstName": "Hector",
+        "lastName": "Bonilla",
+        "initials": "H",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California, USA."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-6305-758X"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-0757-7959"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-2302-3809"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-9891-5705"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-0630-0306"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-2824-0893"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "10",
+    "volume": "12",
+    "journalIssueId": 4024450,
+    "dateOfPublication": "2025 Oct",
+    "monthOfPublication": 10,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-10-01",
+    "journal": {
+      "title": "Open forum infectious diseases",
+      "medlineAbbreviation": "Open Forum Infect Dis",
+      "issn": "2328-8957",
+      "isoabbreviation": "Open Forum Infect Dis",
+      "essn": "2328-8957",
+      "nlmid": "101637045"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "ofaf634",
+  "abstractText": "<h4>Background</h4>Long COVID is a heterogeneous post-infectious condition. Although patient-reported outcome (PRO) measures for diagnosis or therapeutic monitoring have been adapted from related complex chronic illnesses, no PRO has been validated specifically in Long COVID. The STOP-PASC randomized, placebo-controlled trial of nirmatrelvir/ritonavir (NMV/r) in adults with Long COVID showed no overall treatment effect. This exploratory analysis aimed to identify distinct symptom trajectories and clinical characteristics associated with improvement or worsening over time.<h4>Methods</h4>We performed latent class trajectory modeling (LCTM) on PRO measures-including the Patient Global Impression of Severity (PGIS), Patient Global Impression of Change (PGIC), PROMIS domains, and core symptoms-among 155 randomized participants. Participants were followed for 15\u2005weeks with serial symptom assessments. Trajectory groups were identified using Bayesian Information Criteria and characterized using descriptive statistics and absolute standardized differences.<h4>Results</h4>LCTM revealed heterogeneity in symptom trajectories. Two groups emerged for PGIS (improving <i>n</i> = 17, persistent/severe <i>n</i> = 136) and PGIC (improving <i>n</i> = 130; worsening <i>n</i> = 22). PROMIS-Physical Function modeling identified four groups (improving, normal/mild, moderate, and severe), fatigue core symptom modeling identified three (improving; moderate; severe). Worsening groups had higher proportions of NMV/r-treated participants and greater prevalence of cardiovascular symptoms and low-dose naltrexone use. Improving groups had shorter time since infection and higher baseline physical function. No subgroup showed a clear benefit from NMV/r.<h4>Conclusions</h4>Distinct PRO trajectories reflect the clinical heterogeneity of Long COVID. NMV/r showed no clear benefit across subgroups. These findings emphasize the need for validated, Long COVID-specific PRO instruments and targeted therapeutic trials tailored to Long COVID subtypes.",
+  "affiliation": "Department of Medicine, Stanford University School of Medicine, Stanford, California, USA.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "Clinical Trial",
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "grantId": "UL1 TR001085",
+        "agency": "NCATS NIH HHS",
+        "acronym": "TR",
+        "orderIn": 0
+      },
+      {
+        "grantId": "UL1 TR003142",
+        "agency": "NCATS NIH HHS",
+        "acronym": "TR",
+        "orderIn": 0
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Trajectory Mapping",
+      "Long Covid",
+      "Paxlovid"
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1093/ofid/ofaf634"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12560753"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12560753?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-30",
+  "dateOfCreation": "2025-10-30",
+  "firstIndexDate": "2025-10-30",
+  "fullTextReceivedDate": "2025-11-03",
+  "dateOfRevision": "2025-11-02",
+  "electronicPublicationDate": "2025-10-08",
+  "firstPublicationDate": "2025-10-08"
+}

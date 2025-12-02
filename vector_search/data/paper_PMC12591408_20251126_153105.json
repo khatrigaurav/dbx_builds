@@ -1,0 +1,197 @@
+{
+  "id": "41196899",
+  "source": "MED",
+  "pmid": "41196899",
+  "pmcid": "PMC12591408",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12591408"
+    ]
+  },
+  "doi": "10.1371/journal.pgph.0004679",
+  "title": "Parametric survival analysis of long COVID among hospitalized patients in Zambia: A retrospective cohort study on the time to symptoms resolving.",
+  "authorString": "Malambo W, Sampa-Kawana M, Chanda D, Fwoloshi S, Kaonga P.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Malambo W",
+        "firstName": "Warren",
+        "lastName": "Malambo",
+        "initials": "W",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-4811-9831"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University of Zambia, School of Public Health, Department of Epidemiology and Biostatistics, Lusaka, Zambia."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Sampa-Kawana M",
+        "firstName": "Mutale",
+        "lastName": "Sampa-Kawana",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University of Zambia, School of Public Health, Department of Epidemiology and Biostatistics, Lusaka, Zambia."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Chanda D",
+        "firstName": "Duncan",
+        "lastName": "Chanda",
+        "initials": "D",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University Teaching Hospital Adult and Emergency Hospital, Department of Internal Medicine, Lusaka, Zambia."
+            },
+            {
+              "affiliation": "Ministry of Health, Lusaka, Zambia."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Fwoloshi S",
+        "firstName": "Sombo",
+        "lastName": "Fwoloshi",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University Teaching Hospital Adult and Emergency Hospital, Department of Internal Medicine, Lusaka, Zambia."
+            },
+            {
+              "affiliation": "Ministry of Health, Lusaka, Zambia."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Kaonga P",
+        "firstName": "Patrick",
+        "lastName": "Kaonga",
+        "initials": "P",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University of Zambia, School of Public Health, Department of Epidemiology and Biostatistics, Lusaka, Zambia."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0002-4811-9831"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "plain_english"
+    ]
+  },
+  "journalInfo": {
+    "issue": "11",
+    "volume": "5",
+    "journalIssueId": 4041497,
+    "dateOfPublication": "2025 ",
+    "monthOfPublication": 0,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-01-01",
+    "journal": {
+      "title": "PLOS global public health",
+      "medlineAbbreviation": "PLOS Glob Public Health",
+      "issn": "2767-3375",
+      "isoabbreviation": "PLOS Glob Public Health",
+      "essn": "2767-3375",
+      "nlmid": "9918283779606676"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e0004679",
+  "abstractText": "Long COVID refers to the continuation or emergence of new symptoms within three months after acute SARS-CoV-2 infection, lasting for at least two months. Although several studies have described COVID-19 sequelae, gaps remain in understanding the temporal dynamics of symptoms resolution - information crucial for patients management and recovery planning. This study evaluated the resolution of COVID-19-related symptoms over time and associated factors among hospitalized patients in Zambia. We conducted a retrospective cohort study among individuals discharged after COVID-19 hospitalization and attending follow-up care in 13 specialized clinics in Zambia from August-2020 to December-2022. Severe acute COVID-19 was defined as hospitalization requiring supplemental oxygen, ICU admission, and/or treatment with steroids/remdesivir. Time-to-symptoms resolution (i.e., survival time) and changes in underlying hazard rate were our primary and secondary outcomes, respectively. We estimated incidence rates, median survival time (onset-to-resolution), and factors associated with symptom resolution using survival analysis, including hazard ratios (HRs) and changes in the underlying hazard rate over time. Among 823 participants, 616 (84.3%) had severe acute COVID-19 illness; 50.6% were female, and median age was 54 years (IQR: 43-64). Overall, 597 (72.5%) had symptoms resolution at a median 51 person-days (IQR: 34-104). Most participants (59.4%) had baseline comorbidities, and 16.6% had received \u22651 COVID-19 vaccine dose. Symptoms resolved at a rate of 12.2 per 1,000 person-days. Severe acute COVID-19 was associated with slower symptom resolution (adjusted HR: 0.68, 95% CI: 0.50-0.92), while infection during the Omicron-predominant period compared to wild-type was associated with faster resolution (aHR: 2.71; 95% CI: 1.46-5.03). The hazard rate peaked around person-day 20 and declined thereafter, indicating a non-monotonic recovery pattern. COVID-19 symptoms resolved more rapidly during the first month of post-acute infection. Patients with persistent symptoms not resolved within this period may experience prolonged recovery, underscoring the need for targeted follow-up and supportive care.",
+  "affiliation": "University of Zambia, School of Public Health, Department of Epidemiology and Biostatistics, Lusaka, Zambia.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1371/journal.pgph.0004679"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12591408"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12591408?pdf=render"
+      }
+    ]
+  },
+  "commentCorrectionList": {
+    "commentCorrection": [
+      {
+        "id": "PPR1015358",
+        "source": "PPR",
+        "type": "Preprint in",
+        "note": "Link created based on a title-first author match",
+        "orderIn": 10002
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-11-06",
+  "dateOfCreation": "2025-11-06",
+  "firstIndexDate": "2025-11-06",
+  "fullTextReceivedDate": "2025-11-08",
+  "dateOfRevision": "2025-11-09",
+  "electronicPublicationDate": "2025-11-06",
+  "firstPublicationDate": "2025-11-06"
+}

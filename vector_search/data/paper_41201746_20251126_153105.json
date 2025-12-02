@@ -1,0 +1,271 @@
+{
+  "id": "41201746",
+  "source": "MED",
+  "pmid": "41201746",
+  "doi": "10.1007/s11606-025-09829-4",
+  "title": "Synopsis of 2024 VA Long COVID Clinical Guidance for U.S. Veterans: Part 1, Nervous System-Related Symptoms.",
+  "authorString": "Wander PL, Awan O, Neal J, Seidel I, Bell KA, Cassell A, Fattal D, Ng B, Pyne ML, Rog L, Helfand M.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Wander PL",
+        "firstName": "Pandora L",
+        "lastName": "Wander",
+        "initials": "PL",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-3671-1464"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Veterans Affairs Puget Sound Health Care System, Seattle, WA, USA. lwander@uw.edu."
+            },
+            {
+              "affiliation": "Department of Medicine, University of Washington, Seattle, WA, USA. lwander@uw.edu."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Awan O",
+        "firstName": "Omar",
+        "lastName": "Awan",
+        "initials": "O",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Veterans Affairs Washington DC Healthcare System, Washington, DC, USA."
+            },
+            {
+              "affiliation": "George Washington University, Washington, DC, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Neal J",
+        "firstName": "Jacqueline",
+        "lastName": "Neal",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jesse Brown Department of Veterans Affairs Medical Center, Chicago, IL, USA."
+            },
+            {
+              "affiliation": "Northwestern University, Chicago, IL, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Seidel I",
+        "firstName": "Ilana",
+        "lastName": "Seidel",
+        "initials": "I",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Veterans Affairs San Francisco Health Care System, San Francisco, CA, USA."
+            },
+            {
+              "affiliation": "University of California San Francisco School of Medicine, San Francisco, CA, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Bell KA",
+        "firstName": "Kelsie A",
+        "lastName": "Bell",
+        "initials": "KA",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "James A. Haley Veterans Hospital, Tampa, FL, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Cassell A",
+        "firstName": "Andre",
+        "lastName": "Cassell",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "West Haven VA Medical Center, New Haven, CT, USA."
+            },
+            {
+              "affiliation": "Yale University, New Haven, CT, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Fattal D",
+        "firstName": "Deema",
+        "lastName": "Fattal",
+        "initials": "D",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Iowa City VA Medical Center, Iowa City, IA, USA."
+            },
+            {
+              "affiliation": "University of Iowa, Iowa City, IA, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Ng B",
+        "firstName": "Bernard",
+        "lastName": "Ng",
+        "initials": "B",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medicine, University of Washington, Seattle, WA, USA."
+            },
+            {
+              "affiliation": "Lexington VA Health Care System, Lexington, KY, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Pyne ML",
+        "firstName": "Morgan L",
+        "lastName": "Pyne",
+        "initials": "ML",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "James A. Haley Veterans Hospital, Tampa, FL, USA."
+            },
+            {
+              "affiliation": "University of South Florida, Tampa, FL, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Rog L",
+        "firstName": "Lauren",
+        "lastName": "Rog",
+        "initials": "L",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Jesse Brown Department of Veterans Affairs Medical Center, Chicago, IL, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Helfand M",
+        "firstName": "Mark",
+        "lastName": "Helfand",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Oregon Health & Science University, Portland, OR, USA."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0003-3671-1464"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "journalIssueId": 4041995,
+    "dateOfPublication": "2025 Nov",
+    "monthOfPublication": 11,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-11-01",
+    "journal": {
+      "title": "Journal of general internal medicine",
+      "medlineAbbreviation": "J Gen Intern Med",
+      "issn": "0884-8734",
+      "isoabbreviation": "J Gen Intern Med",
+      "essn": "1525-1497",
+      "nlmid": "8605834"
+    }
+  },
+  "pubYear": "2025",
+  "abstractText": "<h4>Description</h4>Long COVID is common and includes nervous system-related symptoms (e.g., autonomic dysfunction, cognitive impairment, fatigue, and pain). We sought to develop just-in-time evidence-informed guidance for nervous system-related Long COVID, a condition for which mature evidence is limited.<h4>Methods</h4>The U.S. Veterans Affairs (VA) Veterans Health Administration (VHA) Long COVID Field Advisory Board commissioned an expert panel that worked with a GRADE methodologist to develop an evidence-to-decision framework for emergent conditions by applying core elements of the Standards for Developing Trustworthy Clinical Practice Guidelines and those of GRADE. We also convened a multidisciplinary writing group that identified a list of clinically relevant questions and commissioned an independent review and synthesis of existing evidence. The writing group conducted structured discussions and used this evidence base to make recommendations for evaluation and treatment (\"Evidence-informed Recommendations\"). For history-taking, physical exam, and commonly used, noninvasive diagnostic tests, statements were based on consensus determinations of useful and safe care (\"Good Practice Statements\"). We used a Whole Health Systems approach to support the development of guidance that was patient-centered, culturally appropriate, and available regardless of literacy or disability. Feedback was solicited from Veterans and other stakeholders. Where the published literature was insufficient, we used evidence from treatment of similar conditions.<h4>Recommendations</h4>We drafted 30 Evidence-informed Recommendations and 41 Good Practice Statements for nervous system-related Long COVID in Veterans and disseminated them VA-wide, targeting specialty care providers. More research on the effectiveness of diagnostic and therapeutic interventions is needed. In particular, evidence \"borrowed\" from other conditions and populations should be replaced or supplemented by evidence in Long COVID. Clinical guidance should be updated as this evidence becomes available.<h4>Key points</h4>QUESTION: How can clinicians provide evidence-informed care for nervous system-related Long COVID (e.g., autonomic dysfunction, cognitive impairment, fatigue, and pain)?<h4>Findings</h4>We commissioned an independent rapid evidence review which\u00a0found that evidence supporting the care of nervous system-related Long COVID symptoms was limited. Using available evidence and other considerations (e.g., costs, equity, and applicability to Veterans experiencing Long COVID), we drafted 30 Evidence-informed Recommendations and 41 Good Practice Statements for nervous system-related Long COVID.<h4>Meaning</h4>Although mature evidence was limited, this guidance can provide a framework for clinicians caring for patients with nervous system-related Long COVID. More research on the effectiveness of diagnostic and therapeutic interventions in Long COVID is needed.",
+  "affiliation": "Veterans Affairs Puget Sound Health Care System, Seattle, WA, USA. lwander@uw.edu.",
+  "publicationStatus": "aheadofprint",
+  "language": "eng",
+  "pubModel": "Print-Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "Journal Article"
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Systematic review",
+      "Evidence Synthesis",
+      "Clinical Guidance",
+      "Long Covid"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1007/s11606-025-09829-4"
+      }
+    ]
+  },
+  "isOpenAccess": "N",
+  "inEPMC": "N",
+  "inPMC": "N",
+  "hasPDF": "N",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "N",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCreation": "2025-11-07",
+  "firstIndexDate": "2025-11-07",
+  "dateOfRevision": "2025-11-07",
+  "electronicPublicationDate": "2025-11-07",
+  "firstPublicationDate": "2025-11-07"
+}

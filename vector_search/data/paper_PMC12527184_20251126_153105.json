@@ -1,0 +1,417 @@
+{
+  "id": "41091675",
+  "source": "MED",
+  "pmid": "41091675",
+  "pmcid": "PMC12527184",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12527184"
+    ]
+  },
+  "doi": "10.1371/journal.pone.0321891",
+  "title": "Return-to-work for people living with long COVID: A scoping review of interventions and recommendations.",
+  "authorString": "Nagra G, Ezeugwu VE, Bostick GP, Branton E, Dennett L, Drake K, Durand-Moreau Q, Guptill C, Hall M, Ho C, Hung P, Khan A, Lam GY, Nowrouzi-Kia B, Gross DP.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Nagra G",
+        "firstName": "Gagan",
+        "lastName": "Nagra",
+        "initials": "G",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0009-0009-2687-6848"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Rehabilitation Science Program, Faculty of Rehabilitation Medicine, University of Alberta, Edmonton, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Ezeugwu VE",
+        "firstName": "Victor E",
+        "lastName": "Ezeugwu",
+        "initials": "VE",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-7528-1228"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Physical Therapy, Faculty of Rehabilitation Medicine, University of Alberta, Edmonton, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Bostick GP",
+        "firstName": "Geoff P",
+        "lastName": "Bostick",
+        "initials": "GP",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Physical Therapy, Faculty of Rehabilitation Medicine, University of Alberta, Edmonton, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Branton E",
+        "firstName": "Erin",
+        "lastName": "Branton",
+        "initials": "E",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Rehabilitation Science Program, Faculty of Rehabilitation Medicine, University of Alberta, Edmonton, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Dennett L",
+        "firstName": "Liz",
+        "lastName": "Dennett",
+        "initials": "L",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Geoffrey and Robyn Sperber Health Sciences Library, University of Alberta, Edmonton, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Drake K",
+        "firstName": "Kevin",
+        "lastName": "Drake",
+        "initials": "K",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Service Manager, Workers' Compensation Board Alberta Millard Health, Edmonton, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Durand-Moreau Q",
+        "firstName": "Quentin",
+        "lastName": "Durand-Moreau",
+        "initials": "Q",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-1168-4201"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Division of Preventive Medicine, Faculty of Medicine and Dentistry, University of Alberta, Edmonton."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Guptill C",
+        "firstName": "Christine",
+        "lastName": "Guptill",
+        "initials": "C",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-5080-2672"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Rehabilitation Sciences, University of Ottawa, Ottawa, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Hall M",
+        "firstName": "Mark",
+        "lastName": "Hall",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Physical Therapy, Faculty of Rehabilitation Medicine, University of Alberta, Edmonton, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Ho C",
+        "firstName": "Chester",
+        "lastName": "Ho",
+        "initials": "C",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medicine, Faculty of Medicine & Dentistry, University of Alberta, Edmonton, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Hung P",
+        "firstName": "Pam",
+        "lastName": "Hung",
+        "initials": "P",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-2087-0516"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Rehabilitation Science Program, Faculty of Rehabilitation Medicine, University of Alberta, Edmonton, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Khan A",
+        "firstName": "Aiza",
+        "lastName": "Khan",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Rehabilitation Science Program, Faculty of Rehabilitation Medicine, University of Alberta, Edmonton, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Lam GY",
+        "firstName": "Grace Y",
+        "lastName": "Lam",
+        "initials": "GY",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medicine, Division of Pulmonary Medicine, University of Alberta, Edmonton."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Nowrouzi-Kia B",
+        "firstName": "Behdin",
+        "lastName": "Nowrouzi-Kia",
+        "initials": "B",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-5586-4282"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Occupational Science and Occupational Therapy, Temerity Faculty of Medicine, University of Toronto, Ontario, Canada."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Gross DP",
+        "firstName": "Douglas P",
+        "lastName": "Gross",
+        "initials": "DP",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-2427-6277"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Physical Therapy, Faculty of Rehabilitation Medicine, University of Alberta, Edmonton, Canada."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0002-2427-6277"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-5080-2672"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-5586-4282"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-7528-1228"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-1168-4201"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-2087-0516"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0009-2687-6848"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "10",
+    "volume": "20",
+    "journalIssueId": 4024818,
+    "dateOfPublication": "2025 ",
+    "monthOfPublication": 0,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-01-01",
+    "journal": {
+      "title": "PloS one",
+      "medlineAbbreviation": "PLoS One",
+      "issn": "1932-6203",
+      "isoabbreviation": "PLoS One",
+      "essn": "1932-6203",
+      "nlmid": "101285081"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e0321891",
+  "abstractText": "<h4>Introduction</h4>Long COVID is characterized by the presence of new onset or persistent symptoms 3 months after a suspected or confirmed history of SARS-CoV-2 infection. It is a complex and multi-faceted condition that affects people in different ways. Long COVID affects individuals' labour market participation. While some cannot work, others may return to work (RTW) in a limited capacity. Determining what rehabilitation or related strategies are safe and effective for facilitating RTW is necessary.<h4>Objectives</h4>To synthesize evidence on RTW interventions for people living with Long COVID and to identify 'promising' interventions for enhancing work ability and RTW.<h4>Methods</h4>We followed Arksey & O'Malley's methodology and the PRISMA extension for scoping reviews. Five electronic bibliographic databases and grey literature were searched. The literature search included various study designs, such as randomized controlled trials (RCT), quasi-experimental designs, and observational studies as well as clinical practice guidelines (CPGs). Two reviewers conducted screening and data extraction, with disagreements resolved through consensus. Intervention studies were categorized as promising (statistically significant RTW outcomes or \u2265 50% RTW), somewhat promising (20% to < 50% RTW), not promising (non-statistically significant RTW outcomes or < 20% RTW), or uncertain (did not specify proportion of RTW).<h4>Results</h4>Twelve CPGs and nineteen intervention studies were identified. Of the intervention studies, 5 were cohort studies, 3 quasi-experimental studies, 4 observational, 2 interventional, 3 RCTs, and 2 case reports. Promising interventions included multimodal and interdisciplinary work-focused rehabilitation, multidisciplinary inpatient and outpatient rehabilitation, psychoeducation, pacing, and breathing strategies, shifting focus from symptom monitoring to optimizing functional outcomes, enhanced external counterpulsation inflatable pressure to improve blood flow, and constraint-induced cognitive therapy.<h4>Conclusion</h4>Many uncertainties remain regarding which RTW interventions are effective or the optimal characteristics of these interventions.",
+  "affiliation": "Rehabilitation Science Program, Faculty of Rehabilitation Medicine, University of Alberta, Edmonton, Canada.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "Scoping Review",
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "grantId": "Project #2023-012",
+        "agency": "Glenrose Rehabilitation Hospital Foundation",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Return to Work"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Post-Acute COVID-19 Syndrome",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "RH",
+              "qualifierName": "rehabilitation",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1371/journal.pone.0321891"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12527184"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12527184?pdf=render"
+      }
+    ]
+  },
+  "commentCorrectionList": {
+    "commentCorrection": [
+      {
+        "id": "PPR953257",
+        "source": "PPR",
+        "type": "Preprint in",
+        "note": "Link created based on a title-first author match",
+        "orderIn": 10002
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-15",
+  "dateOfCreation": "2025-10-15",
+  "firstIndexDate": "2025-10-16",
+  "fullTextReceivedDate": "2025-10-21",
+  "dateOfRevision": "2025-11-22",
+  "electronicPublicationDate": "2025-10-15",
+  "firstPublicationDate": "2025-10-15"
+}

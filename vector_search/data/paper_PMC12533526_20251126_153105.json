@@ -1,0 +1,175 @@
+{
+  "id": "41092189",
+  "source": "MED",
+  "pmid": "41092189",
+  "pmcid": "PMC12533526",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12533526"
+    ]
+  },
+  "doi": "10.1590/2317-1782/e20240291pt",
+  "title": "Long COVID: persistent impacts and challenges for speech-language-hearing therapy.",
+  "authorString": "Silva AS, Dornelas R, Silva JRLE.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Silva AS",
+        "firstName": "Aline de Souza",
+        "lastName": "Silva",
+        "initials": "AS",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0009-0009-9120-6226"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Faculdade de Medicina, Universidade Federal do Rio de Janeiro - UFRJ - Rio de Janeiro (RJ), Brasil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Dornelas R",
+        "firstName": "Rodrigo",
+        "lastName": "Dornelas",
+        "initials": "R",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-9710-5751"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Faculdade de Medicina, Universidade Federal do Rio de Janeiro - UFRJ - Rio de Janeiro (RJ), Brasil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Silva JRLE",
+        "firstName": "Jos\u00e9 Roberto Lapa E",
+        "lastName": "Silva",
+        "initials": "JRLE",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-3116-0253"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Faculdade de Medicina, Universidade Federal do Rio de Janeiro - UFRJ - Rio de Janeiro (RJ), Brasil."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0002-9710-5751"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-3116-0253"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0009-9120-6226"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "5",
+    "volume": "37",
+    "journalIssueId": 4025668,
+    "dateOfPublication": "2025 ",
+    "monthOfPublication": 0,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-01-01",
+    "journal": {
+      "title": "CoDAS",
+      "medlineAbbreviation": "Codas",
+      "issn": "2317-1782",
+      "isoabbreviation": "Codas",
+      "essn": "2317-1782",
+      "nlmid": "101623246"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e20240291",
+  "affiliation": "Faculdade de Medicina, Universidade Federal do Rio de Janeiro - UFRJ - Rio de Janeiro (RJ), Brasil.",
+  "publicationStatus": "epublish",
+  "language": "por",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "Letter"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1590/2317-1782/e20240291pt"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12533526"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12533526?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCreation": "2025-10-15",
+  "firstIndexDate": "2025-10-16",
+  "fullTextReceivedDate": "2025-10-22",
+  "dateOfRevision": "2025-10-20",
+  "electronicPublicationDate": "2025-10-13",
+  "firstPublicationDate": "2025-10-13"
+}

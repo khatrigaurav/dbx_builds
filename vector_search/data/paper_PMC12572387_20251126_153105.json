@@ -1,0 +1,368 @@
+{
+  "id": "41162524",
+  "source": "MED",
+  "pmid": "41162524",
+  "pmcid": "PMC12572387",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12572387"
+    ]
+  },
+  "doi": "10.1038/s41598-025-21711-1",
+  "title": "Long-term cardiovascular complications in COVID-19 survivors according to disease severity.",
+  "authorString": "Curtiaud A, Trimaille A, Severac F, Granier A, Demiselle J, Lakehal R, Helms J, Morel O, Meziani F, Merdji H.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Curtiaud A",
+        "firstName": "Ana\u00efs",
+        "lastName": "Curtiaud",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medical Intensive Care, University Hospital of Strasbourg, Nouvel H\u00f4pital Civil, Strasbourg, France."
+            },
+            {
+              "affiliation": "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine (RNM), FMTS, Strasbourg, France."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Trimaille A",
+        "firstName": "Antonin",
+        "lastName": "Trimaille",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Cardiovascular Medicine, Nouvel H\u00f4pital Civil, Strasbourg, France."
+            },
+            {
+              "affiliation": "Translational Cardiovascular Medicine, CRBS, University of Strasbourg, Strasbourg, France."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Severac F",
+        "firstName": "Fran\u00e7ois",
+        "lastName": "Severac",
+        "initials": "F",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Clinical Research Methods Group (GMRC), Strasbourg University Hospital, Strasbourg, France."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Granier A",
+        "firstName": "Amandine",
+        "lastName": "Granier",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Cardiovascular Medicine, Nouvel H\u00f4pital Civil, Strasbourg, France."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Demiselle J",
+        "firstName": "Julien",
+        "lastName": "Demiselle",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medical Intensive Care, University Hospital of Strasbourg, Nouvel H\u00f4pital Civil, Strasbourg, France."
+            },
+            {
+              "affiliation": "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine (RNM), FMTS, Strasbourg, France."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Lakehal R",
+        "firstName": "Rayane",
+        "lastName": "Lakehal",
+        "initials": "R",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medical Intensive Care, University Hospital of Strasbourg, Nouvel H\u00f4pital Civil, Strasbourg, France."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Helms J",
+        "firstName": "Julie",
+        "lastName": "Helms",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medical Intensive Care, University Hospital of Strasbourg, Nouvel H\u00f4pital Civil, Strasbourg, France."
+            },
+            {
+              "affiliation": "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine (RNM), FMTS, Strasbourg, France."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Morel O",
+        "firstName": "Olivier",
+        "lastName": "Morel",
+        "initials": "O",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Cardiovascular Medicine, Nouvel H\u00f4pital Civil, Strasbourg, France."
+            },
+            {
+              "affiliation": "Translational Cardiovascular Medicine, CRBS, University of Strasbourg, Strasbourg, France."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Meziani F",
+        "firstName": "Ferhat",
+        "lastName": "Meziani",
+        "initials": "F",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medical Intensive Care, University Hospital of Strasbourg, Nouvel H\u00f4pital Civil, Strasbourg, France."
+            },
+            {
+              "affiliation": "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine (RNM), FMTS, Strasbourg, France."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Merdji H",
+        "firstName": "Hamid",
+        "lastName": "Merdji",
+        "initials": "H",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Medical Intensive Care, University Hospital of Strasbourg, Nouvel H\u00f4pital Civil, Strasbourg, France. hamid.merdji@chru-strasbourg.fr."
+            },
+            {
+              "affiliation": "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine (RNM), FMTS, Strasbourg, France. hamid.merdji@chru-strasbourg.fr."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "1",
+    "volume": "15",
+    "journalIssueId": 4024128,
+    "dateOfPublication": "2025 Oct",
+    "monthOfPublication": 10,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-10-01",
+    "journal": {
+      "title": "Scientific reports",
+      "medlineAbbreviation": "Sci Rep",
+      "issn": "2045-2322",
+      "isoabbreviation": "Sci Rep",
+      "essn": "2045-2322",
+      "nlmid": "101563288"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "37900",
+  "abstractText": "Post-sepsis syndrome is a major concern affecting sepsis survivors. COVID-19 increases the risk of long-term complications, but existing data lack detail on patient-specific factors and long-term cardiovascular complications, namely major adverse cardiovascular events (MACE). Our objective was to analyze and compare the MACE occurrence, among COVID-19 survivors, according to the severity of infection. Adults aged\u2009\u2265\u200918 years infected during the first waves of COVID-19 pandemic hospitalized in Strasbourg University Hospital were included. Follow-up began immediately after COVID-19 diagnosis and continued for up to 12 months. Inverse probability of treatment weighting was used to balance baseline patient characteristics between the two groups (i.e. intensive care unit patients and medical ward patients). A total of 332 patients, i.e.132 in intensive care unit (ICU) and 200 in medical ward were included in the final analysis. The ICU population experienced a significantly higher risk of MACE during the first year (HR 16.2 [5.7-45.8] p\u2009<\u20090.001). Smoking status, history of peripheral arterial obstructive disease, and hospitalization in ICU remained independently associated with the occurrence of MACE in multivariable analysis. Severity of COVID-19 appears as an independent risk factor for MACE at one year among intensive care unit patients compared to those hospitalized in medical ward.",
+  "affiliation": "Department of Medical Intensive Care, University Hospital of Strasbourg, Nouvel H\u00f4pital Civil, Strasbourg, France.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Cardiovascular Diseases",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "ET",
+              "qualifierName": "etiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Hospitalization"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Severity of Illness Index"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Risk Factors"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Survivors"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Intensive Care Units"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IP",
+              "qualifierName": "isolation & purification",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Cardiovascular Outcomes",
+      "Mace",
+      "Post-intensive Care Syndrome (Pics)",
+      "Covid-19",
+      "Sars-cov-2"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1038/s41598-025-21711-1"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12572387"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12572387?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by-nc-nd",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-30",
+  "dateOfCreation": "2025-10-30",
+  "firstIndexDate": "2025-10-30",
+  "fullTextReceivedDate": "2025-11-05",
+  "dateOfRevision": "2025-11-02",
+  "electronicPublicationDate": "2025-10-29",
+  "firstPublicationDate": "2025-10-29"
+}

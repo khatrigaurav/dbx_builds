@@ -1,0 +1,184 @@
+{
+  "id": "41282019",
+  "source": "MED",
+  "pmid": "41282019",
+  "pmcid": "PMC12631303",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12631303"
+    ]
+  },
+  "doi": "10.3389/fmed.2025.1621948",
+  "title": "Effectiveness of Five-Element Regulatory Therapy for post-COVID syndrome: a retrospective cohort study.",
+  "authorString": "Ding N, Zhou Y, Zhang H, Xin X, Ye Y, Li D.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Ding N",
+        "firstName": "Ning",
+        "lastName": "Ding",
+        "initials": "N",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Traditional Chinese Medicine, Peking University Third Hospital, Beijing, China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Zhou Y",
+        "firstName": "Yunqiao",
+        "lastName": "Zhou",
+        "initials": "Y",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Dongzhimen Hospital, Beijing University of Chinese Medicine, Beijing, China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Zhang H",
+        "firstName": "Haolin",
+        "lastName": "Zhang",
+        "initials": "H",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Traditional Chinese Medicine, Peking University Third Hospital, Beijing, China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Xin X",
+        "firstName": "Xiyan",
+        "lastName": "Xin",
+        "initials": "X",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Traditional Chinese Medicine, Peking University Third Hospital, Beijing, China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Ye Y",
+        "firstName": "Yang",
+        "lastName": "Ye",
+        "initials": "Y",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Traditional Chinese Medicine, Peking University Third Hospital, Beijing, China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Li D",
+        "firstName": "Dong",
+        "lastName": "Li",
+        "initials": "D",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Traditional Chinese Medicine, Peking University Third Hospital, Beijing, China."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "journalInfo": {
+    "volume": "12",
+    "journalIssueId": 3893115,
+    "dateOfPublication": "2025 ",
+    "monthOfPublication": 0,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-01-01",
+    "journal": {
+      "title": "Frontiers in medicine",
+      "medlineAbbreviation": "Front Med (Lausanne)",
+      "issn": "2296-858X",
+      "isoabbreviation": "Front Med (Lausanne)",
+      "essn": "2296-858X",
+      "nlmid": "101648047"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "1621948",
+  "abstractText": "<h4>Introduction</h4>Post-COVID syndrome is characterized by persistent, unexplained symptoms including chronic cough, palpitations, insomnia, and fatigue that develop following SARS-CoV-2 infection without identifiable causes. Current treatments show limited efficacy, requiring alternative options. This study aims to observe the effectiveness of Five-Element Regulation Therapy (FERT), a Traditional Chinese medicine (TCM) intervention, in managing post-COVID syndrome.<h4>Methods</h4>A retrospective cohort study was conducted using clinical records of 127 post-COVID syndrome patients from the TCM outpatient department of Peking University Third Hospital. The participants were divided into two groups: 81 cases receiving FERT treatment were assigned to the exposure group, while 46 cases undergoing conventional TCM therapy served as the control group. The treatment duration was 2 weeks for both groups, followed by immediate follow-up. The outcomes included the clinical cure rate and clinical response rate at 2 weeks after the treatment initiation.<h4>Results</h4>The FERT group demonstrated superior clinical outcomes, achieving a 61.7% cure rate and 88.9% response rate, significantly higher than the control group's 21.7% (<i>p</i> < 0.001) and 67.4% (<i>p</i> < 0.01), respectively.<h4>Conclusion</h4>This study provides preliminary evidence that FERT may be superior to conventional TCM therapy in managing post-COVID syndrome. Results should be interpreted with heightened caution due to the study's inherent limitations.",
+  "affiliation": "Department of Traditional Chinese Medicine, Peking University Third Hospital, Beijing, China.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Traditional Chinese medicine",
+      "Retrospective Study",
+      "Corona Virus Disease 2019",
+      "Post-covid Syndrome",
+      "Five-Element Regulation Therapy"
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.3389/fmed.2025.1621948"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12631303"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12631303?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "N",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-11-24",
+  "dateOfCreation": "2025-11-24",
+  "firstIndexDate": "2025-11-24",
+  "fullTextReceivedDate": "2025-11-24",
+  "dateOfRevision": "2025-11-24",
+  "electronicPublicationDate": "2025-11-06",
+  "firstPublicationDate": "2025-11-06"
+}

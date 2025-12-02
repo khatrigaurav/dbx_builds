@@ -1,0 +1,366 @@
+{
+  "id": "41235241",
+  "source": "MED",
+  "pmid": "41235241",
+  "pmcid": "PMC12605362",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12605362"
+    ]
+  },
+  "doi": "10.3389/fimmu.2025.1677433",
+  "title": "Therapeutic challenges in central nervous system viral infections: advancing mesenchymal stem cell-based strategies for treating neuroinflammation and promoting tissue repair.",
+  "authorString": "Carbone-Schellman J, Fontecilla-Escobar J, Sales-Salinas N, Chaparro-Pico WF, Molina-Berr\u00edos A, Ruete MC, Gonz\u00e1lez PA, Machuca MA, Opazo MC, Ezquer ME, Duarte LF.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Carbone-Schellman J",
+        "firstName": "Javier",
+        "lastName": "Carbone-Schellman",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Centro de Medicina Regenerativa, Facultad de Medicina, Cl\u00ednica Alemana - Universidad del Desarrollo, Santiago,\u00a0Chile."
+            },
+            {
+              "affiliation": "Millennium Institute on Immunology and Immunotherapy, Santiago,\u00a0Chile."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Fontecilla-Escobar J",
+        "firstName": "Javiera",
+        "lastName": "Fontecilla-Escobar",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Centro de Medicina Regenerativa, Facultad de Medicina, Cl\u00ednica Alemana - Universidad del Desarrollo, Santiago,\u00a0Chile."
+            },
+            {
+              "affiliation": "Laboratorio de Cannabinoides y Biolog\u00eda Esperm\u00e1tica, Instituto de Histolog\u00eda y Embriolog\u00eda de Mendoza, Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas, Universidad Nacional de Cuyo, Mendoza,\u00a0Argentina."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Sales-Salinas N",
+        "firstName": "Nicol\u00e1s",
+        "lastName": "Sales-Salinas",
+        "initials": "N",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Centro de Medicina Regenerativa, Facultad de Medicina, Cl\u00ednica Alemana - Universidad del Desarrollo, Santiago,\u00a0Chile."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Chaparro-Pico WF",
+        "firstName": "William F",
+        "lastName": "Chaparro-Pico",
+        "initials": "WF",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Escuela de Microbiolog\u00eda, Universidad Industrial de Santander, Bucaramanga,\u00a0Colombia."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Molina-Berr\u00edos A",
+        "firstName": "Alfredo",
+        "lastName": "Molina-Berr\u00edos",
+        "initials": "A",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Institute for Research in Dental Sciences, Faculty of Dentistry, Universidad de Chile, Santiago,\u00a0Chile."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Ruete MC",
+        "firstName": "Mar\u00eda Celeste",
+        "lastName": "Ruete",
+        "initials": "MC",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Laboratorio de Cannabinoides y Biolog\u00eda Esperm\u00e1tica, Instituto de Histolog\u00eda y Embriolog\u00eda de Mendoza, Consejo Nacional de Investigaciones Cient\u00edficas y T\u00e9cnicas, Universidad Nacional de Cuyo, Mendoza,\u00a0Argentina."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Gonz\u00e1lez PA",
+        "firstName": "Pablo A",
+        "lastName": "Gonz\u00e1lez",
+        "initials": "PA",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Millennium Institute on Immunology and Immunotherapy, Santiago,\u00a0Chile."
+            },
+            {
+              "affiliation": "Facultad de Ciencias Biol\u00f3gicas, Pontificia Universidad Cat\u00f3lica de Chile, Santiago,\u00a0Chile."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Machuca MA",
+        "firstName": "Mayra A",
+        "lastName": "Machuca",
+        "initials": "MA",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Escuela de Microbiolog\u00eda, Universidad Industrial de Santander, Bucaramanga,\u00a0Colombia."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Opazo MC",
+        "firstName": "Ma Cecilia",
+        "lastName": "Opazo",
+        "initials": "MC",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Instituto de Ciencias Naturales, Facultad de Medicina Veterinaria y Agronom\u00eda, Universidad de Las Am\u00e9ricas, Santiago,\u00a0Chile."
+            },
+            {
+              "affiliation": "Centro de Investigaci\u00f3n en Ciencias Biol\u00f3gicas y Qu\u00edmicas, Universidad de Las Am\u00e9ricas,\u00a0Santiago, Chile."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Ezquer ME",
+        "firstName": "Marcelo E",
+        "lastName": "Ezquer",
+        "initials": "ME",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Centro de Medicina Regenerativa, Facultad de Medicina, Cl\u00ednica Alemana - Universidad del Desarrollo, Santiago,\u00a0Chile."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Duarte LF",
+        "firstName": "Luisa F",
+        "lastName": "Duarte",
+        "initials": "LF",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Centro de Medicina Regenerativa, Facultad de Medicina, Cl\u00ednica Alemana - Universidad del Desarrollo, Santiago,\u00a0Chile."
+            },
+            {
+              "affiliation": "Millennium Institute on Immunology and Immunotherapy, Santiago,\u00a0Chile."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics",
+      "supporting_data"
+    ]
+  },
+  "journalInfo": {
+    "volume": "16",
+    "journalIssueId": 3892856,
+    "dateOfPublication": "2025 ",
+    "monthOfPublication": 0,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-01-01",
+    "journal": {
+      "title": "Frontiers in immunology",
+      "medlineAbbreviation": "Front Immunol",
+      "issn": "1664-3224",
+      "isoabbreviation": "Front Immunol",
+      "essn": "1664-3224",
+      "nlmid": "101560960"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "1677433",
+  "abstractText": "Although significant progress has been made in medicine and antimicrobial research, viral infections continue to pose a critical global health challenge, particularly when they involve the central nervous system (CNS). Despite advances in vaccines, antiviral agents, and small molecule therapeutics, current strategies remain insufficient to address the complex consequences of many CNS infections fully. Notably, many viruses are neurotropic and can invade the CNS, triggering infectious neuroinflammation that often lead to chronic neurological disorders and lasting morbidity. Current therapeutic approaches are largely ineffective in preventing or reversing this long-term neurological damage, underscoring the urgent need for innovative prophylactic and therapeutic interventions. Mesenchymal stem cells (MSCs) have emerged as a promising strategy to counteract chronic neuroinflammation and promote tissue repair following viral CNS infections. This review provides a comprehensive overview of CNS viral infection and neuroinflammation, including epidemiology and pathophysiology, and critically examines the limitations of existing treatments, particularly their inability to mitigate persistent neurological sequelae. Furthermore, we summarize recent preclinical and clinical studies investigating the use of MSCs in the context of CNS viral infections, highlighting their immunomodulatory and neuroprotective mechanisms, and discuss the challenges and future directions for MSC-based therapies in clinical settings.",
+  "affiliation": "Centro de Medicina Regenerativa, Facultad de Medicina, Cl\u00ednica Alemana - Universidad del Desarrollo, Santiago,\u00a0Chile.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "review-article",
+      "Review",
+      "Journal Article"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Mesenchymal Stem Cells",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Animals"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Central Nervous System Viral Diseases",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "IM",
+              "qualifierName": "immunology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TH",
+              "qualifierName": "therapy",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "VI",
+              "qualifierName": "virology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Mesenchymal Stem Cell Transplantation",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "MT",
+              "qualifierName": "methods",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Neuroinflammatory Diseases",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "TH",
+              "qualifierName": "therapy",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "VI",
+              "qualifierName": "virology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Virus",
+      "Central nervous system (CNS)",
+      "Mesenchymal Stem Cells",
+      "neuroinflammation",
+      "Persistent infections",
+      "Secretome",
+      "Extracellular Vesicle (Ev)",
+      "Neurological And Neurodegenerative Diseases"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.3389/fimmu.2025.1677433"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12605362"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12605362?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "Y",
+  "tmAccessionTypeList": {
+    "accessionType": [
+      "nct"
+    ]
+  },
+  "dateOfCompletion": "2025-11-14",
+  "dateOfCreation": "2025-11-14",
+  "firstIndexDate": "2025-11-14",
+  "fullTextReceivedDate": "2025-11-15",
+  "dateOfRevision": "2025-11-16",
+  "electronicPublicationDate": "2025-10-29",
+  "firstPublicationDate": "2025-10-29"
+}

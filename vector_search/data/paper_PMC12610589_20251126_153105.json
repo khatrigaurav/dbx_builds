@@ -1,0 +1,198 @@
+{
+  "id": "41226650",
+  "source": "MED",
+  "pmid": "41226650",
+  "pmcid": "PMC12610589",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12610589"
+    ]
+  },
+  "doi": "10.3390/ijms262110614",
+  "title": "Special Issue: Molecular Research and Insights into COVID-19: 2nd Edition.",
+  "authorString": "Rizzi M, Sainaghi PP.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Rizzi M",
+        "firstName": "Manuela",
+        "lastName": "Rizzi",
+        "initials": "M",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-6174-7111"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Health Sciences (DiSS), Universit\u00e0 del Piemonte Orientale (UPO), 28100 Novara, Italy."
+            },
+            {
+              "affiliation": "IRCAD (Interdisciplinary Research Center of Autoimmune Diseases), Universit\u00e0 del Piemonte Orientale (UPO), 28100 Novara, Italy."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Sainaghi PP",
+        "firstName": "Pier Paolo",
+        "lastName": "Sainaghi",
+        "initials": "PP",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-8322-9158"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "IRCAD (Interdisciplinary Research Center of Autoimmune Diseases), Universit\u00e0 del Piemonte Orientale (UPO), 28100 Novara, Italy."
+            },
+            {
+              "affiliation": "Department of Translational Medicine (DiMeT), Universit\u00e0 del Piemonte Orientale (UPO), 28100 Novara, Italy."
+            },
+            {
+              "affiliation": "Department of Internal Medicine and Rheumatology, Azienda Ospedaliero-Universitaria \"Maggiore della Carit\u00e0\" di Novara, 28100 Novara, Italy."
+            },
+            {
+              "affiliation": "CAAD (Center for Translational Research on Allergic and Autoimmune Diseases), Universit\u00e0 del Piemonte Orientale (UPO), 28100 Novara, Italy."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-8322-9158"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-6174-7111"
+      }
+    ]
+  },
+  "journalInfo": {
+    "issue": "21",
+    "volume": "26",
+    "journalIssueId": 4041271,
+    "dateOfPublication": "2025 Oct",
+    "monthOfPublication": 10,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-10-01",
+    "journal": {
+      "title": "International journal of molecular sciences",
+      "medlineAbbreviation": "Int J Mol Sci",
+      "issn": "1422-0067",
+      "isoabbreviation": "Int J Mol Sci",
+      "essn": "1422-0067",
+      "nlmid": "101092791"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "10614",
+  "abstractText": "In December 2019, an outbreak of pneumonia of unknown origin in Wuhan (China) marked the beginning of coronavirus disease (COVID-19) pandemic [...].",
+  "affiliation": "Department of Health Sciences (DiSS), Universit\u00e0 del Piemonte Orientale (UPO), 28100 Novara, Italy.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "Introductory Journal Article",
+      "Editorial"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Pandemics"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "VI",
+              "qualifierName": "virology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "SARS-CoV-2"
+      }
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.3390/ijms262110614"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12610589"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12610589?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-11-13",
+  "dateOfCreation": "2025-11-13",
+  "firstIndexDate": "2025-11-14",
+  "fullTextReceivedDate": "2025-11-14",
+  "dateOfRevision": "2025-11-16",
+  "electronicPublicationDate": "2025-10-31",
+  "firstPublicationDate": "2025-10-31"
+}

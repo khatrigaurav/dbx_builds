@@ -1,0 +1,221 @@
+{
+  "id": "40590080",
+  "source": "MED",
+  "pmid": "40590080",
+  "pmcid": "PMC12582205",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12582205"
+    ]
+  },
+  "doi": "10.5664/jcsm.11782",
+  "title": "Effect of interventions for the management of sleep disturbances in patients with long COVID: a systematic review and meta-analysis of randomized controlled trials.",
+  "authorString": "Goh DY, Lam WC, Zhong LLD.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Goh DY",
+        "firstName": "Dai Yi",
+        "lastName": "Goh",
+        "initials": "DY",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Biological Sciences, Nanyang Technological University, Singapore."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Lam WC",
+        "firstName": "Wai Ching",
+        "lastName": "Lam",
+        "initials": "WC",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Biological Sciences, Nanyang Technological University, Singapore."
+            },
+            {
+              "affiliation": "Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston, Massachusetts."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Zhong LLD",
+        "firstName": "Linda L D",
+        "lastName": "Zhong",
+        "initials": "LLD",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Biological Sciences, Nanyang Technological University, Singapore."
+            },
+            {
+              "affiliation": "Chinese Medicine Teaching and Research Division, School of Chinese Medicine, Hong Kong Baptist University, Hong Kong SAR, China."
+            },
+            {
+              "affiliation": "Hong Kong Chinese Medicine Clinical Study Centre, School of Chinese Medicine, Hong Kong Baptist University, Hong Kong SAR, China."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "11",
+    "volume": "21",
+    "journalIssueId": 4040631,
+    "dateOfPublication": "2025 Nov",
+    "monthOfPublication": 11,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-11-01",
+    "journal": {
+      "title": "Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine",
+      "medlineAbbreviation": "J Clin Sleep Med",
+      "issn": "1550-9389",
+      "isoabbreviation": "J Clin Sleep Med",
+      "essn": "1550-9397",
+      "nlmid": "101231977"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "1993-2005",
+  "abstractText": "<h4>Study objectives</h4>Long COVID presents with symptoms that persist for weeks or months postinfection, with sleep disturbances that significantly affect quality of life. The diverse approaches to managing sleep disturbances highlight the need for comparing treatment effectiveness to improve patient outcomes. This study systematically reviews and conducts a meta-analysis of randomized controlled trials to assess the effectiveness of current interventions for sleep disturbances in patients with long COVID and explores the underlying mechanisms and promising treatments.<h4>Methods</h4>Relevant studies were identified through a comprehensive literature search across Embase, Web of Science, PubMed, Cochrane Library, China National Knowledge Infrastructure, and Wanfang Data databases. The included studies focused on interventions aimed at managing patients with long COVID with sleep disturbances. Data extraction and analysis were performed, followed by a meta-analysis of comparable studies. The quality of evidence was assessed using the Cochrane Risk of Bias Tool (RoB 2.0) and the Grading of Recommendations, Assessment, Development, and Evaluation system.<h4>Results</h4>Out of 3,352 retrieved studies, 14 were included in the systematic review and 2 in the meta-analysis. Interventions were categorized as pharmacological and nonpharmacological. Whereas most studies indicated improved sleep quality measured by standardized scales, some did not demonstrate significant benefits. The quality of evidence varied from low to moderate.<h4>Conclusions</h4>The results suggest that sleep disturbances in patients with long COVID result from a complex interplay of physiological, psychological, and neurological factors. Both pharmacological and nonpharmacological interventions show potential in managing these disturbances, with nonpharmacological approaches showing particular promise. To establish more robust evidence, more high-quality, large-scale randomized controlled trials are necessary in future research.<h4>Citation</h4>Goh DY, Lam WC, Zhong LLD. Effect of interventions for the management of sleep disturbances in patients with long COVID: a systematic review and meta-analysis of randomized controlled trials. <i>J Clin Sleep Med.</i> 2025;21(11):1993-2005.",
+  "affiliation": "School of Biological Sciences, Nanyang Technological University, Singapore.",
+  "publicationStatus": "ppublish",
+  "language": "eng",
+  "pubModel": "Print",
+  "pubTypeList": {
+    "pubType": [
+      "Meta-Analysis",
+      "Systematic Review",
+      "review-article",
+      "Journal Article"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Quality of Life"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Randomized Controlled Trials as Topic"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Sleep Wake Disorders",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "ET",
+              "qualifierName": "etiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "TH",
+              "qualifierName": "therapy",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Meta-analysis",
+      "Treatments",
+      "Systematic review",
+      "Interventions",
+      "Sleep Disturbances",
+      "Long Covid"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.5664/jcsm.11782"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12582205"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12582205?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 0,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-11-03",
+  "dateOfCreation": "2025-07-01",
+  "firstIndexDate": "2025-07-02",
+  "fullTextReceivedDate": "2025-11-05",
+  "dateOfRevision": "2025-11-07",
+  "firstPublicationDate": "2025-11-01"
+}

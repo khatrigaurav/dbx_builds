@@ -1,0 +1,201 @@
+{
+  "id": "40948805",
+  "source": "MED",
+  "pmid": "40948805",
+  "pmcid": "PMC12432515",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12432515"
+    ]
+  },
+  "doi": "10.1016/j.pmedr.2025.103188",
+  "title": "Association of COVID vaccinations and treatments with long COVID beyond 6\u00a0months: a case-control study on the adult population in a large integrated healthcare system in the United States from 2020 to 2023.",
+  "authorString": "Liu C, Liu C, Yan R, Becker D, Shi JX, Slezak J, Jerng D.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Liu C",
+        "firstName": "Curtis",
+        "lastName": "Liu",
+        "initials": "C",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "University of Texas Southwestern Medical School, Dallas, TX, United States."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Liu C",
+        "firstName": "Celina",
+        "lastName": "Liu",
+        "initials": "C",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Washington University in St. Louis, St. Louis, MO, United States."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Yan R",
+        "firstName": "Rui",
+        "lastName": "Yan",
+        "initials": "R",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Research and Evaluation, Kaiser Permanente Southern California Permanente Medical Group, Pasadena, CA, United States."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Becker D",
+        "firstName": "Davida",
+        "lastName": "Becker",
+        "initials": "D",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Graduate Medical Education Administration & Research, Kaiser Permanente Southern California Permanente Medical Group, Pasadena, CA, United States."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Shi JX",
+        "firstName": "Jia Xiao",
+        "lastName": "Shi",
+        "initials": "JX",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Research and Evaluation, Kaiser Permanente Southern California Permanente Medical Group, Pasadena, CA, United States."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Slezak J",
+        "firstName": "Jeffrey",
+        "lastName": "Slezak",
+        "initials": "J",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Research and Evaluation, Kaiser Permanente Southern California Permanente Medical Group, Pasadena, CA, United States."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Jerng D",
+        "firstName": "Diane",
+        "lastName": "Jerng",
+        "initials": "D",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Family Medicine, Kaiser Permanente Southern California Permanente Medical Group, Santa Ana, CA, United States."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "volume": "57",
+    "journalIssueId": 3982317,
+    "dateOfPublication": "2025 Sep",
+    "monthOfPublication": 9,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-09-01",
+    "journal": {
+      "title": "Preventive medicine reports",
+      "medlineAbbreviation": "Prev Med Rep",
+      "issn": "2211-3355",
+      "isoabbreviation": "Prev Med Rep",
+      "essn": "2211-3355",
+      "nlmid": "101643766"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "103188",
+  "abstractText": "<h4>Objective</h4>Long coronavirus disease (Long COVID) is a chronic condition causing significant long-term disability and economic burden. This study aims to measure the association between COVID vaccinations and treatment at the time of acute infection with Long COVID outcomes beyond six months post-infection, controlling for demographic and medical variables.<h4>Methods</h4>This retrospective case-control study used electronic medical records from Kaiser Permanente Southern California to evaluate Long COVID outcomes from January 2022 to June 2023 with vaccination doses and nirmatrelvir/ritonavir, and from October 2020 to June 2023 with remdesivir and other treatments. Statistical analysis used univariate chi-square and Kruskal-Wallis tests and conditional logistic regression.<h4>Results</h4>Our study had 840 (January 2022 analysis) and 2632 (October 2020 analysis) Long COVID patients diagnosed by International Classification of Diseases-10 code at least 6\u00a0months after acute COVID infection with 1:5 matched controls by age, sex, race/ethnicity, Body Mass Index, and date of acute COVID infection. Long COVID outcome was inversely associated with the number of COVID vaccination doses (one dose odds ratio (OR) 0.77; 95\u00a0% CI 0.63-0.96, two doses OR 0.73; 95\u00a0% CI 0.59-0.92, three doses OR 0.64; 95\u00a0% CI 0.44-1.00, four doses OR 0.29; 95\u00a0% CI 0.06-1.49) and nirmatrelvir/ritonavir (OR 0.05; 95\u00a0% CI 0.04-0.07) or remdesivir (OR 0.31; 95\u00a0% CI 0.19-0.49) treatment with no interaction between three vaccinations with nirmatrelvir/ritonavir and four vaccinations with remdesivir treatment.<h4>Conclusion</h4>These findings may influence existing clinical practices for vaccination and antiviral treatment strategies to decrease Long COVID consequences.",
+  "affiliation": "University of Texas Southwestern Medical School, Dallas, TX, United States.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic-eCollection",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Vaccination",
+      "Antiviral Agents",
+      "Severe Acute Respiratory Syndrome-coronavirus 2 (Sars-cov-2)",
+      "Post-Acute Covid-19 Syndrome"
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1016/j.pmedr.2025.103188"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12432515"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12432515?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by-nc",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-09-15",
+  "dateOfCreation": "2025-09-15",
+  "firstIndexDate": "2025-09-16",
+  "fullTextReceivedDate": "2025-09-18",
+  "dateOfRevision": "2025-09-17",
+  "electronicPublicationDate": "2025-07-31",
+  "firstPublicationDate": "2025-07-31"
+}

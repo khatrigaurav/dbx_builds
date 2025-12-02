@@ -1,25 +1,28 @@
-# MLB Draft Prospects Vector Search Pipeline
+# Medical Research Vector Search Pipeline
 
-A complete end-to-end vector search pipeline built for Databricks that downloads, processes, and indexes MLB draft prospect data from FanGraphs.
+A complete end-to-end vector search pipeline built for Databricks that downloads, processes, and indexes medical research papers from Europe PMC.
 
 ## 📋 Overview
 
-This notebook implements a production-ready vector search pipeline following Databricks medallion architecture:
+This project implements production-ready vector search pipelines following Databricks medallion architecture:
 
 ```
-Source URL → Volume → Bronze → Silver (Clean) → Silver (Embeddings) → Vector Index
+Data Source → Volume → Bronze → Silver (Clean) → Silver (Embeddings) → Vector Index
 ```
 
 ### Pipeline Stages
 
-1. **Download**: Fetches HTML/text data from FanGraphs and stores in Unity Catalog Volume
-2. **Bronze Layer**: Uses `ai_parse()` to extract structured information from raw documents
+1. **Download**: Fetches medical research papers from Europe PMC API and stores in Unity Catalog Volume
+2. **Bronze Layer**: Uses `ai_parse()` to extract structured information from raw papers
 3. **Silver Layer 1**: Cleans and chunks documents into searchable segments
 4. **Silver Layer 2**: Generates vector embeddings using Databricks Foundation Models
 5. **Vector Index**: Creates a Direct Access vector search index (no Delta Sync)
+6. **Benchmark**: Compare ANN, Hybrid, and Full-Text search performance
 
 ## 🎯 Features
 
+### Main Pipeline (`medical_research.py`)
+- ✅ **Europe PMC Integration**: Downloads from 40M+ medical research papers
 - ✅ **No Delta Sync**: Uses Direct Access index as requested
 - ✅ **Medallion Architecture**: Clean separation of Bronze/Silver layers
 - ✅ **Intelligent Chunking**: Splits documents at sentence boundaries with overlap
@@ -27,6 +30,14 @@ Source URL → Volume → Bronze → Silver (Clean) → Silver (Embeddings) → 
 - ✅ **Full Pipeline Automation**: From download to searchable index
 - ✅ **Error Handling**: Graceful fallbacks for API limitations
 - ✅ **Helper Functions**: Easy-to-use search utilities included
+
+### Benchmark Notebook (`search_benchmark.py`)
+- ✅ **ANN Search**: Pure vector similarity (fastest)
+- ✅ **Full-Text Search**: Traditional keyword matching
+- ✅ **Hybrid Search**: Combines vector + keyword (best quality)
+- ✅ **Performance Metrics**: Latency, accuracy, consistency
+- ✅ **Visualizations**: Charts and comparisons
+- ✅ **Recommendations**: Data-driven method selection
 
 ## 🚀 Getting Started
 
@@ -37,33 +48,41 @@ Source URL → Volume → Bronze → Silver (Clean) → Silver (Embeddings) → 
 3. Access to Databricks Foundation Models
 4. Permissions to create catalogs, schemas, and volumes
 
-### Configuration
+### Quick Start: Medical Research Pipeline
 
-Before running the notebook, update these parameters in **Step 1**:
+**Step 1: Run Main Pipeline**
 
 ```python
+# 1. Import medical_research.py to Databricks
+# 2. Configure (Cell 2):
 CATALOG = "main"  # Your catalog name
-SCHEMA = "mlb_prospects"  # Your schema name
-VOLUME = "raw_data"  # Volume name for raw data
+SCHEMA = "medical_research"  # Schema name
+SEARCH_QUERY = "long covid AND treatment"  # Your research topic
+MAX_PAPERS = 100  # Number of papers to download
 
-EMBEDDING_MODEL = "databricks-bge-large-en"
-CHUNK_SIZE = 500  # Characters per chunk
-CHUNK_OVERLAP = 50  # Overlap between chunks
+# 3. Run All Cells (5-10 minutes)
 ```
 
-### Running the Pipeline
+**Step 2: Query Your Papers**
 
-1. **Import the Notebook**
-   - Upload `mlb_prospects_vector_search.py` to your Databricks workspace
-   - Open it as a notebook
+```python
+results = search_medical_papers(
+    "What are treatments for diabetes?",
+    num_results=10
+)
+```
 
-2. **Run All Cells**
-   - Execute cells sequentially or run all at once
-   - The pipeline will automatically create all required resources
+**Step 3: Benchmark Search Methods** (Optional)
 
-3. **Monitor Progress**
-   - Check the output of each cell for status messages
-   - Look for ✓ symbols indicating successful completion
+```python
+# 1. Import search_benchmark.py to Databricks
+# 2. Run All Cells (5-10 minutes)
+# 3. Review performance comparison
+# 4. Choose best search method for your use case
+```
+
+See `MEDICAL_RESEARCH_GUIDE.md` for detailed setup instructions.  
+See `BENCHMARK_GUIDE.md` for benchmark interpretation.
 
 ## 📊 Data Flow
 
@@ -104,6 +123,18 @@ silver_prospects_embeddings
 └── embedding_timestamp
 ```
 
+## 📁 Project Files
+
+| File | Purpose |
+|------|---------|
+| `medical_research.py` | Main pipeline - downloads papers, creates embeddings, builds index |
+| `search_benchmark.py` | Compare ANN vs Hybrid vs Full-Text search |
+| `MEDICAL_RESEARCH_GUIDE.md` | Detailed setup guide for medical research pipeline |
+| `BENCHMARK_GUIDE.md` | How to interpret benchmark results |
+| `config.py` | Centralized configuration (optional) |
+| `example_queries.py` | 20+ query patterns and examples |
+| Other `.md` files | Architecture, troubleshooting, dependencies |
+
 ## 🔍 Using the Vector Index
 
 ### Basic Search
@@ -113,18 +144,47 @@ from databricks.vector_search.client import VectorSearchClient
 
 vsc = VectorSearchClient()
 index = vsc.get_index(
-    endpoint_name="mlb_prospects_endpoint",
-    index_name="main.mlb_prospects.mlb_prospects_index"
+    endpoint_name="medical_research_endpoint",
+    index_name="main.medical_research.medical_papers_index"
 )
 
 results = index.similarity_search(
-    query_text="Who are the top pitching prospects for 2025?",
+    query_text="What are effective treatments for long COVID?",
     columns=["chunk_text", "file_name", "source_url"],
     num_results=5
 )
 ```
 
 ### Using Helper Function
+
+```python
+# Simple search
+results = search_medical_papers("diabetes treatment", num_results=10)
+display(results)
+```
+
+## 🏎️ Search Benchmark Results
+
+After running `search_benchmark.py`, you'll see performance comparison:
+
+### ANN (Vector) Search
+- **Speed**: ⚡ Fastest (~150ms)
+- **Quality**: Semantic understanding
+- **Best for**: Natural language questions, research discovery
+
+### Full-Text Search  
+- **Speed**: 🐢 Slower (~400ms)
+- **Quality**: Exact keyword matching
+- **Best for**: Specific terms, drug names, technical terminology
+
+### Hybrid Search
+- **Speed**: ⚖️ Balanced (~200ms)
+- **Quality**: ★★★★★ Best overall
+- **Best for**: Production systems, RAG applications, medical Q&A
+
+**Recommendation**: Use **Hybrid Search** for medical applications where accuracy is critical.
+
+See `BENCHMARK_GUIDE.md` for detailed analysis.
 
 The notebook includes a built-in helper function:
 

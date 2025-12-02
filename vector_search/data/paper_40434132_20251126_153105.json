@@ -1,0 +1,246 @@
+{
+  "id": "40434132",
+  "source": "MED",
+  "pmid": "40434132",
+  "doi": "10.1111/imj.70099",
+  "title": "Beyond time as the healer: action in long COVID treatment to improve patient outcomes.",
+  "authorString": "Metcalfe J, Scoullar MJL, Whyler NCA, Balkin H, Tippett E.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Metcalfe J",
+        "firstName": "Julie",
+        "lastName": "Metcalfe",
+        "initials": "J",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-5823-7770"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Clinic Nineteen, Melbourne, Victoria, Australia."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Scoullar MJL",
+        "firstName": "Michelle J L",
+        "lastName": "Scoullar",
+        "initials": "MJL",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-1417-1524"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Clinic Nineteen, Melbourne, Victoria, Australia."
+            },
+            {
+              "affiliation": "Disease Elimination, Burnet Institute, Melbourne, Victoria, Australia."
+            },
+            {
+              "affiliation": "Faculty of Medicine, Dentistry and Health Sciences, University of Melbourne, Melbourne, Victoria, Australia."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Whyler NCA",
+        "firstName": "Naomi C A",
+        "lastName": "Whyler",
+        "initials": "NCA",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-8227-992X"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Clinic Nineteen, Melbourne, Victoria, Australia."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Balkin H",
+        "firstName": "Helen",
+        "lastName": "Balkin",
+        "initials": "H",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "General Practitioner, Hazelbrook, New South Wales, Australia."
+            },
+            {
+              "affiliation": "Consumer with lived experience of long COVID, Blue Mountains, New South Wales, Australia."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Tippett E",
+        "firstName": "Emma",
+        "lastName": "Tippett",
+        "initials": "E",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-9038-6952"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Clinic Nineteen, Melbourne, Victoria, Australia."
+            },
+            {
+              "affiliation": "Disease Elimination, Burnet Institute, Melbourne, Victoria, Australia."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-5823-7770"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0001-8227-992X"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0001-9038-6952"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-1417-1524"
+      }
+    ]
+  },
+  "journalInfo": {
+    "issue": "7",
+    "volume": "55",
+    "journalIssueId": 3975092,
+    "dateOfPublication": "2025 Jul",
+    "monthOfPublication": 7,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-07-01",
+    "journal": {
+      "title": "Internal medicine journal",
+      "medlineAbbreviation": "Intern Med J",
+      "issn": "1444-0903",
+      "isoabbreviation": "Intern Med J",
+      "essn": "1445-5994",
+      "nlmid": "101092952"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "1203-1207",
+  "abstractText": "Long COVID is complex and disabling. Despite emerging therapies, the lack of guidelines and clinician awareness delays treatment. This paper highlights options available now to improve function and quality of life. We call for a symptom-focused, person-centred approach that incorporates lived experience and clinical judgement to bridge the gap between evidence and care. Time alone is not the answer.",
+  "affiliation": "Clinic Nineteen, Melbourne, Victoria, Australia.",
+  "publicationStatus": "ppublish",
+  "language": "eng",
+  "pubModel": "Print-Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "Journal Article"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Treatment Outcome"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Quality of Life"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Patient-Centered Care"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "TH",
+              "qualifierName": "therapy",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Post-Acute COVID-19 Syndrome"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Patient\u2010centred Care",
+      "Treatable Traits",
+      "Covid",
+      "Long Covid",
+      "Post\u2010acute Covid Syndrome"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1111/imj.70099"
+      }
+    ]
+  },
+  "isOpenAccess": "N",
+  "inEPMC": "N",
+  "inPMC": "N",
+  "hasPDF": "N",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "N",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-07-09",
+  "dateOfCreation": "2025-05-28",
+  "firstIndexDate": "2025-05-28",
+  "dateOfRevision": "2025-07-17",
+  "electronicPublicationDate": "2025-05-28",
+  "firstPublicationDate": "2025-05-28"
+}

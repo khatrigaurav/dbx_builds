@@ -1,0 +1,262 @@
+{
+  "id": "38931912",
+  "source": "MED",
+  "pmid": "38931912",
+  "doi": "10.3390/pharmaceutics16060791",
+  "title": "Evaluation of Novel Nasal Mucoadhesive Nanoformulations Containing Lipid-Soluble EGCG for Long COVID Treatment.",
+  "authorString": "Frank N, Dickinson D, Lovett G, Liu Y, Yu H, Cai J, Yao B, Jiang X, Hsu S.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Frank N",
+        "firstName": "Nicolette",
+        "lastName": "Frank",
+        "initials": "N",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Oral Biology & Diagnostic Sciences, Dental College of Georgia, Augusta University, Augusta, GA 30912, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Dickinson D",
+        "firstName": "Douglas",
+        "lastName": "Dickinson",
+        "initials": "D",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Camellix Research Laboratory, Augusta, GA 30912, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Lovett G",
+        "firstName": "Garrison",
+        "lastName": "Lovett",
+        "initials": "G",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Oral Biology & Diagnostic Sciences, Dental College of Georgia, Augusta University, Augusta, GA 30912, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Liu Y",
+        "firstName": "Yutao",
+        "lastName": "Liu",
+        "initials": "Y",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-2870-4504"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Cellular Biology & Anatomy, Medical College of Georgia, Augusta University, Augusta, GA 30912, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Yu H",
+        "firstName": "Hongfang",
+        "lastName": "Yu",
+        "initials": "H",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Cellular Biology & Anatomy, Medical College of Georgia, Augusta University, Augusta, GA 30912, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Cai J",
+        "firstName": "Jingwen",
+        "lastName": "Cai",
+        "initials": "J",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-3146-3812"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Cellular Biology & Anatomy, Medical College of Georgia, Augusta University, Augusta, GA 30912, USA."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Yao B",
+        "firstName": "Bo",
+        "lastName": "Yao",
+        "initials": "B",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Hangzhou Shanju Biotech Co., Ltd., Hangzhou 310030, China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Jiang X",
+        "firstName": "Xiaocui",
+        "lastName": "Jiang",
+        "initials": "X",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Hangzhou Shanju Biotech Co., Ltd., Hangzhou 310030, China."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Hsu S",
+        "firstName": "Stephen",
+        "lastName": "Hsu",
+        "initials": "S",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Oral Biology & Diagnostic Sciences, Dental College of Georgia, Augusta University, Augusta, GA 30912, USA."
+            },
+            {
+              "affiliation": "Camellix Research Laboratory, Augusta, GA 30912, USA."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0002-3146-3812"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-2870-4504"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "6",
+    "volume": "16",
+    "journalIssueId": 3790824,
+    "dateOfPublication": "2024 Jun",
+    "monthOfPublication": 6,
+    "yearOfPublication": 2024,
+    "printPublicationDate": "2024-06-01",
+    "journal": {
+      "title": "Pharmaceutics",
+      "medlineAbbreviation": "Pharmaceutics",
+      "issn": "1999-4923",
+      "isoabbreviation": "Pharmaceutics",
+      "essn": "1999-4923",
+      "nlmid": "101534003"
+    }
+  },
+  "pubYear": "2024",
+  "pageInfo": "791",
+  "abstractText": "Following recovery from the acute infection stage of the SARS-CoV-2 virus (COVID-19), survivors can experience a wide range of persistent Post-Acute Sequelae of COVID-19 (PASC), also referred to as long COVID. According to the US National Research Action Plan on Long COVID 2022, up to 23.7 million Americans suffer from long COVID, and approximately one million workers may be out of the workforce each day due to these symptoms, leading to a USD 50 billion annual loss of salary. Neurological symptoms associated with long COVID result from persistent infection with SARS-CoV-2 in the nasal neuroepithelial cells, leading to inflammation in the central nervous system (CNS). As of today, there is no evidence that vaccines or medications can clear the persistent viral infection in olfactory mucosa. Recently published clinical data demonstrate that only 5% of long COVID anosmia patients have fully recovered during the past 2 years, and 10.4% of COVID patients are still symptomatic 18 months post-infection. Our group demonstrated that epigallocatechin-3-gallate-monopalmitate (EC16m) nanoformulations possess strong antiviral activity against human coronavirus, suggesting that this green-tea-derived compound in nanoparticle formulations could be developed as an intranasally delivered new drug targeting the persistent SARS-CoV-2 infection, as well as inflammation and oxidative stress in the CNS, leading to restoration of neurologic functions. The objective of the current study was to evaluate the mucociliary safety of the EC16m nasal nanoformulations and their efficacy against human coronavirus.<h4>Methods</h4>Nanoparticle size and Zeta potential were measured using the ZetaView Nanoparticle Tracking Analysis system; mucociliary safety was determined using the MucilAir human nasal model; contact antiviral activity and post-infection inhibition against the OC43 viral strain were assessed by the TCID50 assay for cytopathic effect on MRC-5 cells.<h4>Results</h4>The saline-based EC16 mucoadhesive nanoformulations containing 0.005 to 0.02% <i>w</i>/<i>v</i> EC16m have no significant difference compared to saline (0.9% NaCl) with respect to tissue integrity, cytotoxicity, and cilia beat frequency. A 5 min contact resulted in 99.9% inactivation of \u03b2-coronavirus OC43. OC43 viral replication was inhibited by >90% after infected MRC-5 cells were treated with the formulations.<h4>Conclusion</h4>The saline-based novel EC16m mucoadhesive nasal nanoformulations rapidly inactivated human coronavirus with mucociliary safety properties comparable to saline, a solution widely used for nasal applications.",
+  "affiliation": "Department of Oral Biology & Diagnostic Sciences, Dental College of Georgia, Augusta University, Augusta, GA 30912, USA.",
+  "publicationStatus": "epublish",
+  "language": "eng",
+  "pubModel": "Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "grantId": "1R41DC020678-01",
+        "agency": "National Institute on Deafness and Other Communication Disorders (NIDCD)",
+        "orderIn": 0
+      },
+      {
+        "grantId": "R41 DC020678",
+        "agency": "NIDCD NIH HHS",
+        "acronym": "DC",
+        "orderIn": 0
+      },
+      {
+        "grantId": "1R41DC020678-01",
+        "agency": "NIH HHS",
+        "acronym": "GF",
+        "orderIn": 0
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "respiratory virus",
+      "Nanoformulations",
+      "Long Covid",
+      "Egcg-palmitate",
+      "Ec16",
+      "Nasal Drug"
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.3390/pharmaceutics16060791"
+      }
+    ]
+  },
+  "commentCorrectionList": {
+    "commentCorrection": [
+      {
+        "id": "PPR848994",
+        "source": "PPR",
+        "type": "Preprint in",
+        "note": "CrossRef Pre-print loader",
+        "orderIn": 10002
+      }
+    ]
+  },
+  "isOpenAccess": "N",
+  "inEPMC": "N",
+  "inPMC": "N",
+  "hasPDF": "N",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCreation": "2024-06-27",
+  "firstIndexDate": "2024-06-28",
+  "dateOfRevision": "2025-02-06",
+  "electronicPublicationDate": "2024-06-11",
+  "firstPublicationDate": "2024-06-11"
+}

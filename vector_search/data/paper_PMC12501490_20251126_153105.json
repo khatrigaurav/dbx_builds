@@ -1,0 +1,237 @@
+{
+  "id": "41054864",
+  "source": "MED",
+  "pmid": "41054864",
+  "pmcid": "PMC12501490",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12501490"
+    ]
+  },
+  "doi": "10.1111/hex.70463",
+  "title": "Post Covid-19 Condition as a Diagnosis: A Qualitative Study on Epistemological Tensions Among Experts in Sweden.",
+  "authorString": "Bredstr\u00f6m A, J\u00e4mterud SM.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Bredstr\u00f6m A",
+        "firstName": "Anna",
+        "lastName": "Bredstr\u00f6m",
+        "initials": "A",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-5451-8540"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Culture and Society, Division of Migration, Ethnicity and Society, Link\u00f6ping University, Norrk\u00f6ping, Sweden."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "J\u00e4mterud SM",
+        "firstName": "Sofia Morberg",
+        "lastName": "J\u00e4mterud",
+        "initials": "SM",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-2998-3971"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Thematic Studies, Technology and Social Change, Link\u00f6ping University, Link\u00f6ping, Sweden."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-5451-8540"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-2998-3971"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics",
+      "full_text"
+    ]
+  },
+  "journalInfo": {
+    "issue": "5",
+    "volume": "28",
+    "journalIssueId": 4006978,
+    "dateOfPublication": "2025 Oct",
+    "monthOfPublication": 10,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-10-01",
+    "journal": {
+      "title": "Health expectations : an international journal of public participation in health care and health policy",
+      "medlineAbbreviation": "Health Expect",
+      "issn": "1369-6513",
+      "isoabbreviation": "Health Expect",
+      "essn": "1369-7625",
+      "nlmid": "9815926"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e70463",
+  "abstractText": "<h4>Background</h4>At the onset of the Covid-19 pandemic, it became clear that some individuals experienced lingering symptoms after the infection. This condition, known as post Covid-19 condition (or long Covid), is defined by WHO as persistent or new symptoms 3 months after the initial infection, lasting for at least 2 months, and not attributable to another diagnosis. Hence, the definition is very broad.<h4>Aim</h4>This study aims to examine how post Covid-19 condition as a diagnosis is viewed and interpreted by Swedish stakeholders, showing how these understandings carry a range of epistemological tensions. The study also seeks to understand the implications of these epistemological tensions for treatment and care organisation.<h4>Methods</h4>Qualitative interviews with 36 experts and key individuals in Sweden have been conducted.<h4>Result</h4>Experts agree that post Covid-19 condition is a complex syndrome and that persons who suffer are in need of care. However, several tensions in post Covid-19 condition as a diagnosis can be discerned. Most experts agreed on the gender and racial disparity where white women with Swedish background were a majority of post Covid-19 sufferers, while migrant patients and the elderly are largely absent. In relation to social categories, the question if children can have post Covid-19 condition is here a highly contested question. There is also disagreement on the aetiology of post Covid-19 condition, with some experts viewing it as a new, unique condition requiring specialised treatment, while others see it as similar to other post-viral conditions, treatable in primary care.<h4>Conclusion</h4>The article concludes that experts are divided in their understanding and that this affects Swedish policy on post Covid-19 care and treatment, showing that post Covid-19 condition is not only a medical issue but also a political battleground where science, expert opinion and patient experience shape policy.<h4>Patient and public contribution</h4>The article focuses on studying stakeholders' perspectives as these are key for informing public opinion and policy. In this article, all main organisations and authorities involved in post Covid-19 care are represented. We also see patients as crucial stakeholders and representatives of patient organisations, as well as representatives of some migrant communities, who have been interviewed. The latter were included to gain insights from groups that were largely absent in post Covid-19 care.",
+  "affiliation": "Department of Culture and Society, Division of Migration, Ethnicity and Society, Link\u00f6ping University, Norrk\u00f6ping, Sweden.",
+  "publicationStatus": "ppublish",
+  "language": "eng",
+  "pubModel": "Print",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "agency": "The project is part of an interdisciplinary project, Biomedicine, Clinical Knowledge, and the Humanities in Collaboration: A Novel Epistemology for Radically Interdisciplinary Health Research and Policy-Work on Post COVID-19 Syndrome, funded by the Swedish Research Council (Vetenskapsr\u00e5det, grant number 2021-01245).",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Knowledge"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Qualitative Research"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Sweden"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Interviews as Topic"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "DI",
+              "qualifierName": "diagnosis",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Diagnosis",
+      "Epistemology",
+      "Ethnicity",
+      "Qualitative Study",
+      "Social Categories",
+      "Post Covid\u201019 Condition"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1111/hex.70463"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12501490"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12501490?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 1,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-10-07",
+  "dateOfCreation": "2025-10-07",
+  "firstIndexDate": "2025-10-07",
+  "fullTextReceivedDate": "2025-10-09",
+  "dateOfRevision": "2025-10-10",
+  "firstPublicationDate": "2025-10-01"
+}

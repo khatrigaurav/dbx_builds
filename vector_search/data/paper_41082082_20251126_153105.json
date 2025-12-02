@@ -1,0 +1,187 @@
+{
+  "id": "41082082",
+  "source": "MED",
+  "pmid": "41082082",
+  "doi": "10.1007/s10787-025-02006-3",
+  "title": "From infection to intervention: post-acute sequelae of SARS-CoV-2 infection and cardiovascular risk.",
+  "authorString": "Wasim R.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Wasim R",
+        "firstName": "Rufaida",
+        "lastName": "Wasim",
+        "initials": "R",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0009-0000-4840-1696"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Faculty of Pharmacy, Integral University, Lucknow, UP, India. rufaidaw@iul.ac.in."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0009-0000-4840-1696"
+      }
+    ]
+  },
+  "journalInfo": {
+    "issue": "11",
+    "volume": "33",
+    "journalIssueId": 4049266,
+    "dateOfPublication": "2025 Nov",
+    "monthOfPublication": 11,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-11-01",
+    "journal": {
+      "title": "Inflammopharmacology",
+      "medlineAbbreviation": "Inflammopharmacology",
+      "issn": "0925-4692",
+      "isoabbreviation": "Inflammopharmacology",
+      "essn": "1568-5608",
+      "nlmid": "9112626"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "6577-6588",
+  "abstractText": "COVID is now a worldwide epidemic of non-communicable diseases. The symptoms, which impact several organs, might last for hours, weeks, or even months after the SARS-CoV-2 infection has ended. Electrocardiogram abnormalities (ECG), postural orthostatic tachycardia, and supraventricular or ventricular arrhythmias are among the common signs of long COVID-19. According to data, certain patient groups have persistent, post-infectious perimyocarditis, which may lead to left or right ventricular failure, arterial wall inflammation, or microthrombosis. This information has been made available by cardiac and vasculature imaging, and it may be used to develop efficient treatment plans for the cardiovascular symptoms of long\u00a0COVID. Long\u00a0COVID requires a\u00a0greater understanding of the cellular and molecular processes. There are a variety of approaches that have been put forward, some of which include direct impacts on the heart and others that involve microthrombotic damage to the arteries or heart. When evaluated 3 months after SARS-CoV-2 infection, the currently employed circulating biomarkers, such as coagulation and inflammatory markers, do not serve as a highly predictive predictor for the existence or outcome of long\u00a0COVID. However, further study is required to better understand the underlying processes and particular biomarkers for future COVID preventive methods.",
+  "affiliation": "Faculty of Pharmacy, Integral University, Lucknow, UP, India. rufaidaw@iul.ac.in.",
+  "publicationStatus": "ppublish",
+  "language": "eng",
+  "pubModel": "Print-Electronic",
+  "pubTypeList": {
+    "pubType": [
+      "Review",
+      "Journal Article"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Cardiovascular Diseases",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "ET",
+              "qualifierName": "etiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "VI",
+              "qualifierName": "virology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Risk Factors"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Biomarkers"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Post-Acute COVID-19 Syndrome"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Oxidative stress",
+      "Inflammation",
+      "Treatment",
+      "Symptoms",
+      "Cardiovascular Effects",
+      "Long Covid"
+    ]
+  },
+  "chemicalList": {
+    "chemical": [
+      {
+        "name": "Biomarkers",
+        "registryNumber": "0"
+      }
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1007/s10787-025-02006-3"
+      }
+    ]
+  },
+  "isOpenAccess": "N",
+  "inEPMC": "N",
+  "inPMC": "N",
+  "hasPDF": "N",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-11-15",
+  "dateOfCreation": "2025-10-13",
+  "firstIndexDate": "2025-10-13",
+  "dateOfRevision": "2025-11-15",
+  "electronicPublicationDate": "2025-10-13",
+  "firstPublicationDate": "2025-10-13"
+}

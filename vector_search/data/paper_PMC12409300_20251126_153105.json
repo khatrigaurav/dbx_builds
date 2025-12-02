@@ -1,0 +1,431 @@
+{
+  "id": "40905101",
+  "source": "MED",
+  "pmid": "40905101",
+  "pmcid": "PMC12409300",
+  "fullTextIdList": {
+    "fullTextId": [
+      "PMC12409300"
+    ]
+  },
+  "doi": "10.1111/hex.70413",
+  "title": "Intersectionality and Long Covid: Understanding the Lived Experiences of Ethnic Minority Groups in the United Kingdom.",
+  "authorString": "Lotankar Y, Cheshire A, Ridge D, Chew-Graham C, Smyth N, Knowles CR, Gopal D, Kingstone T, Dawson S.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Lotankar Y",
+        "firstName": "Yojana",
+        "lastName": "Lotankar",
+        "initials": "Y",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-0444-7750"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Psychology, School of Social Sciences, University of Westminster, London, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Cheshire A",
+        "firstName": "Anna",
+        "lastName": "Cheshire",
+        "initials": "A",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-7920-6850"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Psychology, School of Social Sciences, University of Westminster, London, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Ridge D",
+        "firstName": "Damien",
+        "lastName": "Ridge",
+        "initials": "D",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0001-9245-5958"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Psychology, School of Social Sciences, University of Westminster, London, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Chew-Graham C",
+        "firstName": "Carolyn",
+        "lastName": "Chew-Graham",
+        "initials": "C",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-9722-9981"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Medicine, Faculty of Medicine and Health Sciences, Keele University, Keele, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Smyth N",
+        "firstName": "Nina",
+        "lastName": "Smyth",
+        "initials": "N",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Psychology, School of Social Sciences, University of Westminster, London, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Knowles CR",
+        "firstName": "Claudia R",
+        "lastName": "Knowles",
+        "initials": "CR",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Psychology, School of Social Sciences, University of Westminster, London, UK."
+            },
+            {
+              "affiliation": "Health Psychology Section, Department of Psychology, Institute of Psychiatry, Psychology, and Neuroscience, King's College London, London, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Gopal D",
+        "firstName": "Dipesh",
+        "lastName": "Gopal",
+        "initials": "D",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Wolfson Institute of Population Health, Queen Mary University of London, London, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Kingstone T",
+        "firstName": "Tom",
+        "lastName": "Kingstone",
+        "initials": "T",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Medicine, Faculty of Medicine and Health Sciences, Keele University, Keele, UK."
+            },
+            {
+              "affiliation": "Research & Innovation Department, Midland Partnership University NHS Foundation Trust, Stafford, UK."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Dawson S",
+        "firstName": "Shoba",
+        "lastName": "Dawson",
+        "initials": "S",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0002-6700-6445"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Centre for Academic Primary Care, Bristol Medical School, University of Bristol, Bristol, UK."
+            },
+            {
+              "affiliation": "School of Medicine and Population Health, University of Sheffield, Sheffield, UK."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0001-7920-6850"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0001-9245-5958"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-6700-6445"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0002-9722-9981"
+      },
+      {
+        "type": "ORCID",
+        "value": "0000-0003-0444-7750"
+      }
+    ]
+  },
+  "dataLinksTagsList": {
+    "dataLinkstag": [
+      "altmetrics"
+    ]
+  },
+  "journalInfo": {
+    "issue": "5",
+    "volume": "28",
+    "journalIssueId": 4006978,
+    "dateOfPublication": "2025 Oct",
+    "monthOfPublication": 10,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-10-01",
+    "journal": {
+      "title": "Health expectations : an international journal of public participation in health care and health policy",
+      "medlineAbbreviation": "Health Expect",
+      "issn": "1369-6513",
+      "isoabbreviation": "Health Expect",
+      "essn": "1369-7625",
+      "nlmid": "9815926"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "e70413",
+  "abstractText": "<h4>Introduction</h4>Long Covid is the patient-preferred term to describe persistent symptoms experienced following an acute Covid-19 infection. The severity and unpredictable nature of long Covid symptoms can affect every aspect of an individual's life. Under-represented groups such as ethnic minorities and lower socio-economic groups are disproportionately affected by long Covid and often face challenges in accessing healthcare and additional support. This study employed an intracategorical intersectionality approach to explore how the diverse experiences of long Covid among people from ethnic minority backgrounds are influenced by complexities like gender and socio-economic factors.<h4>Methods</h4>A secondary analysis of 31 semi-structured interviews with individuals with long Covid from ethnic minority backgrounds, using reflexive thematic analysis.<h4>Results</h4>Findings are presented around the themes: (i) gender and ethnicity; (ii) socio-economic factors and illness experience; and (iii) comorbidities, disabilities and living with long Covid. Participants describe challenges in gaining support, including from health professionals, family and communities, but these challenges were gendered to a degree, with women and men describing distinctive difficulties. Financial capacity was considered important in determining the type and extent of accessible care. Support from employers also influenced participant's ability to take adequate time to recover and return to work. The interplay of comorbidities with long Covid could heighten the risk of more severe symptoms and complicate help-seeking for -and\u00a0management of -long Covid.<h4>Conclusion</h4>An intracategorical intersectional exploration of lived experience is necessary to reveal the nuances in individual experiences of long Covid. Findings will be of interest to health professionals and researchers in supporting their understanding of intersectional experiences of their patients.<h4>Patient public involvement</h4>The HI-COVE study was informed throughout by patient and expert advisory groups composed of individuals from ethnic minority backgrounds living with long Covid, their carers and professionals interested in this topic.",
+  "affiliation": "Psychology, School of Social Sciences, University of Westminster, London, UK.",
+  "publicationStatus": "ppublish",
+  "language": "eng",
+  "pubModel": "Print",
+  "pubTypeList": {
+    "pubType": [
+      "research-article",
+      "Journal Article"
+    ]
+  },
+  "grantsList": {
+    "grant": [
+      {
+        "grantId": "NIHR203106",
+        "agency": "National Institute for Health Research (NIHR)",
+        "orderIn": 0
+      },
+      {
+        "agency": "Y.V.L. was funded by a PhD Studentship from the University of Westminster. C.C.G. is part-funded by West Midlands Applied Research Collaboration. Original data collection was funded by the National Institute for Health Research, under the Patient Benefit programme (NIHR203106).",
+        "orderIn": 0
+      }
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Comorbidity"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Sex Factors"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Qualitative Research"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Minority Groups",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "PX",
+              "qualifierName": "psychology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "SN",
+              "qualifierName": "statistics & numerical data",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Socioeconomic Factors"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Health Services Accessibility"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Interviews as Topic"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "United Kingdom",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EH",
+              "qualifierName": "ethnology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "PX",
+              "qualifierName": "psychology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "SARS-CoV-2"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Ethnicity",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "PX",
+              "qualifierName": "psychology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "SN",
+              "qualifierName": "statistics & numerical data",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Post-Acute COVID-19 Syndrome"
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Gender",
+      "Qualitative Methods",
+      "Ethnic Minorities",
+      "Secondary Analysis",
+      "Intersectional",
+      "Covid\u201019",
+      "Long Covid"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1111/hex.70413"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "html",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12409300"
+      },
+      {
+        "availability": "Open access",
+        "availabilityCode": "OA",
+        "documentStyle": "pdf",
+        "site": "Europe_PMC",
+        "url": "https://europepmc.org/articles/PMC12409300?pdf=render"
+      }
+    ]
+  },
+  "isOpenAccess": "Y",
+  "inEPMC": "Y",
+  "inPMC": "Y",
+  "hasPDF": "Y",
+  "hasBook": "N",
+  "hasSuppl": "Y",
+  "citedByCount": 1,
+  "hasData": "Y",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "Y",
+  "license": "cc by",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-09-04",
+  "dateOfCreation": "2025-09-04",
+  "firstIndexDate": "2025-09-04",
+  "fullTextReceivedDate": "2025-09-08",
+  "dateOfRevision": "2025-09-08",
+  "firstPublicationDate": "2025-10-01"
+}

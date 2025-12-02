@@ -1,0 +1,302 @@
+{
+  "id": "40485056",
+  "source": "MED",
+  "pmid": "40485056",
+  "doi": "10.1093/arclin/acaf054",
+  "title": "Cognitive and Emotional Health in Long COVID: a Cross-Sectional Study in Brazil.",
+  "authorString": "Ribeiro-Carvalho A, Prado MF, Marcelo GG, Viveiros L, de Andrade Fernandes M, N\u00f3rte CE.",
+  "authorList": {
+    "author": [
+      {
+        "fullName": "Ribeiro-Carvalho A",
+        "firstName": "Anderson",
+        "lastName": "Ribeiro-Carvalho",
+        "initials": "A",
+        "authorId": {
+          "type": "ORCID",
+          "value": "0000-0003-4324-1413"
+        },
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Departamento de Ci\u00eancias, Faculdade de Forma\u00e7\u00e3o de Professores, Universidade do Estado do Rio de Janeiro, S\u00e3o Gon\u00e7alo, RJ, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Prado MF",
+        "firstName": "Mariana Freitas",
+        "lastName": "Prado",
+        "initials": "MF",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Institute of Psychology, State University of Rio de Janeiro, Rio de Janeiro, RJ, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Marcelo GG",
+        "firstName": "Gabriela Galv\u00e3o",
+        "lastName": "Marcelo",
+        "initials": "GG",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Institute of Psychology, State University of Rio de Janeiro, Rio de Janeiro, RJ, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "Viveiros L",
+        "firstName": "Luccas",
+        "lastName": "Viveiros",
+        "initials": "L",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Institute of Psychology, State University of Rio de Janeiro, Rio de Janeiro, RJ, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "de Andrade Fernandes M",
+        "firstName": "Mariana",
+        "lastName": "de Andrade Fernandes",
+        "initials": "M",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Institute of Psychology, State University of Rio de Janeiro, Rio de Janeiro, RJ, Brazil."
+            }
+          ]
+        }
+      },
+      {
+        "fullName": "N\u00f3rte CE",
+        "firstName": "Carlos Eduardo",
+        "lastName": "N\u00f3rte",
+        "initials": "CE",
+        "authorAffiliationDetailsList": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Institute of Psychology, State University of Rio de Janeiro, Rio de Janeiro, RJ, Brazil."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "authorIdList": {
+    "authorId": [
+      {
+        "type": "ORCID",
+        "value": "0000-0003-4324-1413"
+      },
+      {
+        "type": "ORCID",
+        "value": "0009-0004-4598-838X"
+      }
+    ]
+  },
+  "journalInfo": {
+    "issue": "8",
+    "volume": "40",
+    "journalIssueId": 4054434,
+    "dateOfPublication": "2025 Nov",
+    "monthOfPublication": 11,
+    "yearOfPublication": 2025,
+    "printPublicationDate": "2025-11-01",
+    "journal": {
+      "title": "Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists",
+      "medlineAbbreviation": "Arch Clin Neuropsychol",
+      "issn": "0887-6177",
+      "isoabbreviation": "Arch Clin Neuropsychol",
+      "essn": "1873-5843",
+      "nlmid": "9004255"
+    }
+  },
+  "pubYear": "2025",
+  "pageInfo": "1473-1482",
+  "abstractText": "<h4>Objective</h4>Long COVID is characterized by persistent symptoms following a COVID-19 infection, including cognitive and emotional impairment. Brazil has one of the highest rates of COVID-19 infections globally, but there are still few studies assessing the long-term impact of the disease on mental health in this population. In the present study, we evaluated cognition and emotional symptoms in patients with cognitive complaints after COVID infection in Rio de Janeiro, Brazil.<h4>Method</h4>Cognitive and emotional assessments were performed individually (n\u2009=\u2009114) using the Cognitive Screening (TRIACOG) and the Depression, Anxiety, and Stress Scale-21 (DASS-21) in participants with long COVID. Of the total subjects, 78% were women, with a mean age of 50.4\u2009\u00b1\u200916\u00a0years. A total of 72.6% received treatment at home, whereas 28% were hospitalized during the acute phase of the infection.<h4>Results</h4>Our data revealed a high prevalence of cognitive and emotional impairment. Approximately 66.7% exhibited symptoms suggestive of depression, 55.9% anxiety disorder, and 65.7% stress. Notably, executive functions and memory were the most affected cognitive domains. Intriguingly, the time from infection onset to assessment did not appear to influence cognitive performance, suggesting that cognitive impairment associated with COVID-19 may persist as a long-term comorbidity. Furthermore, hospitalization did not affect cognitive or DASS-21 scores.<h4>Conclusions</h4>These findings underscore the importance of investigating the long-term impacts of COVID-19 on mental health. Assessing emotional and cognitive functions after COVID-19 is crucial for developing therapeutic responses, both on an individual level and from a public health perspective.",
+  "affiliation": "Departamento de Ci\u00eancias, Faculdade de Forma\u00e7\u00e3o de Professores, Universidade do Estado do Rio de Janeiro, S\u00e3o Gon\u00e7alo, RJ, Brazil.",
+  "publicationStatus": "ppublish",
+  "language": "eng",
+  "pubModel": "Print",
+  "pubTypeList": {
+    "pubType": [
+      "Journal Article"
+    ]
+  },
+  "meshHeadingList": {
+    "meshHeading": [
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Humans"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Cross-Sectional Studies"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Depression",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "ET",
+              "qualifierName": "etiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Anxiety"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Mental Health"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Neuropsychological Tests"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Adult"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Middle Aged"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Brazil",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Female"
+      },
+      {
+        "majorTopic_YN": "N",
+        "descriptorName": "Male"
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "Cognitive Dysfunction",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "ET",
+              "qualifierName": "etiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      },
+      {
+        "majorTopic_YN": "Y",
+        "descriptorName": "COVID-19",
+        "meshQualifierList": {
+          "meshQualifier": [
+            {
+              "abbreviation": "CO",
+              "qualifierName": "complications",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "EP",
+              "qualifierName": "epidemiology",
+              "majorTopic_YN": "N"
+            },
+            {
+              "abbreviation": "PX",
+              "qualifierName": "psychology",
+              "majorTopic_YN": "N"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "keywordList": {
+    "keyword": [
+      "Brazil",
+      "emotion",
+      "Neuropsychological Assessment",
+      "Cognitive Deficits",
+      "Covid-19",
+      "Long Covid"
+    ]
+  },
+  "subsetList": {
+    "subset": [
+      {
+        "code": "IM",
+        "name": "Index Medicus"
+      }
+    ]
+  },
+  "fullTextUrlList": {
+    "fullTextUrl": [
+      {
+        "availability": "Subscription required",
+        "availabilityCode": "S",
+        "documentStyle": "doi",
+        "site": "DOI",
+        "url": "https://doi.org/10.1093/arclin/acaf054"
+      }
+    ]
+  },
+  "isOpenAccess": "N",
+  "inEPMC": "N",
+  "inPMC": "N",
+  "hasPDF": "N",
+  "hasBook": "N",
+  "hasSuppl": "N",
+  "citedByCount": 0,
+  "hasData": "N",
+  "hasReferences": "Y",
+  "hasTextMinedTerms": "Y",
+  "hasDbCrossReferences": "N",
+  "hasLabsLinks": "N",
+  "hasEvaluations": "N",
+  "authMan": "N",
+  "epmcAuthMan": "N",
+  "nihAuthMan": "N",
+  "hasTMAccessionNumbers": "N",
+  "dateOfCompletion": "2025-11-25",
+  "dateOfCreation": "2025-06-09",
+  "firstIndexDate": "2025-06-11",
+  "dateOfRevision": "2025-11-25",
+  "firstPublicationDate": "2025-11-01"
+}
