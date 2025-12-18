@@ -6,9 +6,8 @@ A **production-ready, end-to-end vector search pipeline** for Databricks that im
 ### Key Features
 
 ✅ **Complete Medallion Architecture**   
-✅ **No Delta Sync** - Direct Access index  
+✅ **Direct Access Vector Index** -   
 ✅ **AI-Powered Parsing** - Structured extraction from unstructured data  using AI Parse and AI Query  
-✅ **Intelligent Chunking** - Context-aware text segmentation  
 ✅ **Foundation Model Embeddings** - State-of-the-art vector representations  
 
 ---
@@ -44,7 +43,7 @@ vector_search/
 ┌─────────────────────────────────────────────────────────────┐
 │  STEP 1: DATA INGESTION                                     │
 │  ┌──────────┐    ┌──────────┐    ┌──────────┐             │
-│  │Arxiv │ → │ Download  │ → │  Volume   │             │
+│  │Arxiv │ → │    Download  │ → │  Volume   │             │
 │  │   Web    │    │  Script   │    │ Storage  │             │
 │  └──────────┘    └──────────┘    └──────────┘             │
 └─────────────────────────────────────────────────────────────┘
