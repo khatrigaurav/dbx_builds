@@ -2,8 +2,7 @@
 
 ## 🎯 Project Summary
 
-A **production-ready, end-to-end vector search pipeline** for Databricks that implements the complete workflow from data ingestion to semantic search. Built specifically for Medical Research   data from Arxiv, but easily adaptable to any web-based data source.
-
+A **production-ready, end-to-end vector search pipeline** for Databricks that implements the complete workflow from data ingestion to semantic search. Built specifically to demonstrate how Direct Search Vector Indexes can be built in databricks and how to use these indexes to build custom applications.
 ### Key Features
 
 ✅ **Complete Medallion Architecture**   
