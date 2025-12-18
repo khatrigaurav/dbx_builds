@@ -1,0 +1,23 @@
+{
+  "databricks": {
+    "CATALOG": "gaurav_catalog",
+    "SCHEMA": "medical_research",
+    "VOLUME": "raw_papers",
+    "BRONZE_TABLE": "bronze_papers",
+    "SILVER_CLEANED_TABLE": "silver_papers_cleaned",
+    "SILVER_EMBEDDINGS_TABLE" : "silver_papers_embeddings"
+  },
+
+  "embedding": {
+    "EMBEDDING_MODEL": "databricks-bge-large-en",
+    "CHUNK_SIZE": 500,
+    "CHUNK_OVERLAP": 50
+  },
+
+  "vector_search":{
+    "VECTOR_SEARCH_ENDPOINT" : "medical_research_endpoint",
+    "INDEX_NAME" : "medical_papers_index"
+  }
+  
+}
+
