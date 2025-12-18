@@ -1,0 +1,18 @@
+{
+  "usgs_api": {
+    "base_url": "https://earthquake.usgs.gov/fdsnws/event/1/query",
+    "days_back": 30,
+    "min_magnitude": 2.5
+  },
+  "census_boundaries": {
+    "states_url": "https://www2.census.gov/geo/tiger/GENZ2021/shp/cb_2021_us_state_20m.zip",
+    "counties_url": "https://www2.census.gov/geo/tiger/GENZ2021/shp/cb_2021_us_county_20m.zip"
+  },
+  "databricks": {
+    "catalog": "geospatial_demo",
+    "bronze_schema": "bronze",
+    "silver_schema": "silver",
+    "gold_schema": "gold"
+  }
+}
+
