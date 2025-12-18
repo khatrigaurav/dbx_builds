@@ -27,7 +27,7 @@ vector_search/
 │   └── config.json            # Config Parameters
 
 │   └── medical_research.py    # Optional Pipeline (if you wish to skip AI functions and use pre-parsed json sources)
-
+│   └── streamlit_app.py       # Streamlit app that gives a GUI to use the Vector Index built.
 
 │
 │
